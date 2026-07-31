@@ -1,0 +1,1171 @@
+code,name,product_line,category,normalized_category,volume_weight,quantity,regular_price,promotional_price,savings,discount_percentage,promotion_active,page,quadrant,catalog_name,brand,cycle
+161146,Sacola de Presente Mini com Laço,Natura,Embalagens para Presente,Kits e Presentes,,,4.0,0.0,,,True,5,top-left,Natura - Ciclo 07,Natura,7
+161148,Sacola de Presente P com Laço,Natura,Embalagens para Presente,Kits e Presentes,,,5.0,0.0,,,True,5,top-right,Natura - Ciclo 07,Natura,7
+184878,Presente Natura Essencial Atrai Feminino Completo,Natura Essencial,Perfumaria,Perfumaria,Deo parfum 100ml + Óleo 120ml,,387.7,274.9,112.8,29.09,True,8,bottom-left,Natura - Ciclo 07,Natura,7
+181172,Presente Natura Essencial Atrai Feminino,Natura Essencial,Perfumaria,Perfumaria,Deo parfum 100ml,,278.9,182.9,96.0,34.42,True,8,bottom-right,Natura - Ciclo 07,Natura,7
+124710,Presente Natura Nécessaire Multiuso,Essencial,Acessórios,Acessórios,"C 20 x L 9,5 x A 9,5 cm",,70.0,0.0,,,True,9,top-right,Natura - Ciclo 07,Natura,7
+193741,Presente Natura Essencial Atrai Masculino com Nécessaire,Essencial,Perfumaria,Perfumaria,"1 Deo parfum masculino 100ml, 1 Shampoo cabelo e corpo 125ml, 1 Nécessaire multiúso C 20 x L 9,5 x A 9,5cm",,383.8,254.9,128.9,33.59,True,9,bottom-left,Natura - Ciclo 07,Natura,7
+184879,Presente Natura Essencial Atrai Masculino Completo,Essencial,Perfumaria,Perfumaria,"1 Deo parfum masculino 100ml, 1 Shampoo cabelo e corpo 125ml",,313.8,204.9,108.9,34.7,True,9,center,Natura - Ciclo 07,Natura,7
+184855,Presente Natura Essencial Atrai Masculino,Essencial,Perfumaria,Perfumaria,1 Deo parfum masculino 100ml,,278.9,182.9,96.0,34.42,True,9,bottom-right,Natura - Ciclo 07,Natura,7
+182220,Presente natura nécessaire coração,Natura Tododia,Acessório,Acessórios,,,70.0,0.0,,,True,10,top-right,Natura - Ciclo 07,Natura,7
+184887,Presente natura tododia cereja negra e praliné com nécessaire,Natura Tododia,Corpo e Banho,Corpo e Banho,,,164.1,119.9,44.2,26.93,True,10,bottom-right,Natura - Ciclo 07,Natura,7
+N/A,Presente Natura Tododia Cereja Negra e Praliné,Tododia,Corpo e Banho,Corpo e Banho,,,94.1,79.9,14.2,15.09,True,11,bottom-left,Natura - Ciclo 07,Natura,7
+140744,Mochila Natura Kaiak Aventura Masculino,Natura Kaiak Aventura Masculino,Acessórios,Acessórios,"C 26 x L 12,5 x A 37 cm",,200.0,0.0,,,True,12,center,Natura - Ciclo 07,Natura,7
+184859,Presente Natura Kaiak Aventura Masculino com Mochila,Natura Kaiak Aventura Masculino,Kit,Kits e Presentes,"1 Desodorante colônia masculino 100 ml, 1 Shampoo cabelo e corpo 125 ml exclusivo, 1 Desodorante corporal masculino 100 ml exclusivo, 1 Mochila C 26 x L 12,5 x A 37 cm acessório exclusivo, 1 Sacola de presente P com laço",,470.7,309.9,160.8,34.16,True,12,bottom-left,Natura - Ciclo 07,Natura,7
+184914,Presente Natura Kaiak Aventura Masculino Completo,Natura Kaiak Aventura Masculino,Kit,Kits e Presentes,"1 Desodorante colônia masculino 100 ml, 1 Desodorante corporal masculino 100 ml exclusivo, 1 Shampoo cabelo e corpo 125 ml exclusivo, 1 Caixa especial de presente G",,270.7,164.9,105.8,39.08,True,12,bottom-right,Natura - Ciclo 07,Natura,7
+184864,Presente natura kaiak aventura masculino cuidados pessoais,Natura Kaiak Aventura,Cuidados Pessoais,Corpo e Banho,,,84.8,54.9,29.9,35.26,True,13,bottom-left,Natura - Ciclo 07,Natura,7
+184877,Presente natura kaiak aventura masculino,Natura Kaiak Aventura,Perfumaria,Perfumaria,100ml,,185.9,119.9,66.0,35.5,True,13,bottom-right,Natura - Ciclo 07,Natura,7
+180459,Bolsa Crossbody Kaiak Aventura Feminino,Natura Kaiak Aventura Feminino,Acessórios,Acessórios,"C 15 x L 4 x A 20 cm, Alça 70 a 134 cm",,100.0,0.0,,,True,14,center,Natura - Ciclo 07,Natura,7
+184860,Presente Natura Kaiak Aventura Feminino com Bolsa Crossbody,Natura Kaiak Aventura Feminino,Kits e Presentes,Kits e Presentes,"Desodorante colônia 100 ml, Creme hidratante 100 ml, Sabonete líquido 200 ml, Bolsa crossbody C 15 x L 4 x A 20 cm",,375.0,249.9,125.1,33.36,True,14,bottom-right,Natura - Ciclo 07,Natura,7
+184912,Presente Natura Kaiak Aventura Feminino,Natura Kaiak,Perfumaria,Perfumaria,,,275.0,164.9,110.1,40.04,True,15,bottom-left,Natura - Ciclo 07,Natura,7
+184881,Presente Natura Humor a Dois Masculino,Humor a Dois,Perfumaria,Perfumaria,,,215.7,144.9,70.8,32.82,True,16,bottom-center,Natura - Ciclo 07,Natura,7
+184880,Presente Natura Humor Próprio Feminino,Humor Próprio,Kits e Presentes,Kits e Presentes,,,291.7,164.9,126.8,43.47,True,17,center,Natura - Ciclo 07,Natura,7
+184851,Presente Natura Tododia Todanoite,Natura Tododia Todanoite,Corpo e Banho,Corpo e Banho,,,188.1,134.9,53.2,28.28,True,18,bottom-right,Natura - Ciclo 07,Natura,7
+184895,"Kit Presente Natura Ekos Andiroba com Frasqueira (Desodorante Colônia Frescor Feminino 75ml, Polpa Desodorante Hidratante Corporal 400ml, Polpa Hidratante para as Mãos 75g, Frasqueira, Sacola de Presente)",Natura Ekos Andiroba,Corpo e Banho,Corpo e Banho,,,336.7,219.9,116.8,34.69,True,19,bottom-left,Natura - Ciclo 07,Natura,7
+180797,Frasqueira de Tecido Sustentável Natura Ekos Andiroba,Natura Ekos Andiroba,Acessórios,Acessórios,C 25 x L 9 x A 18 cm,,100.0,0.0,,,True,19,center,Natura - Ciclo 07,Natura,7
+184858,"Kit Presente Natura Ekos Andiroba (Desodorante Colônia Frescor Feminino 75ml, Polpa Desodorante Hidratante Corporal 400ml, Polpa Hidratante para as Mãos 75g, Sacola de Presente)",Natura Ekos Andiroba,Corpo e Banho,Corpo e Banho,,,236.7,154.9,81.8,34.56,True,19,bottom-right,Natura - Ciclo 07,Natura,7
+184857,Presente Natura Biografia Encontros Masculino,Natura Biografia Encontros,Perfumaria,Perfumaria,Kit com 100ml de Colônia e 2x90g de Sabonetes,,229.9,159.9,70.0,30.45,True,20,bottom-left,Natura - Ciclo 07,Natura,7
+154848,Caixa Especial de Presente P,Natura,Acessórios,Acessórios,,,6.0,6.0,0.0,0.0,False,20,bottom-right,Natura - Ciclo 07,Natura,7
+184847,Presente Natura Biografia Encontros Feminino,Biografia,Perfumaria,Perfumaria,"Kit com 1 Desodorante Colônia 25ml, 1 Desodorante Colônia 100ml e Sacola P",,266.9,174.9,92.0,34.47,True,21,bottom-left,Natura - Ciclo 07,Natura,7
+170814,Presente Natura Tododia Sabonetes Sortidos Amor e Carinho,Natura Tododia,Corpo e Banho,Corpo e Banho,5x 90g,,39.9,37.9,2.0,5.01,True,22,center,Natura - Ciclo 07,Natura,7
+184874,Presente Natura Tododia Algodão,Natura Tododia Algodão,Corpo e Banho,Corpo e Banho,,,189.7,129.9,59.8,31.52,True,23,center,Natura - Ciclo 07,Natura,7
+194196,Presente Natura Essencial Exclusivo Feminino,Natura Essencial Exclusivo,Perfumaria e Hidratação,Perfumaria,,,332.0,219.9,112.1,33.77,True,24,bottom-left,Natura - Ciclo 07,Natura,7
+184882,Presente Natura Luna Absoluta,Natura Luna Absoluta,Perfumaria,Perfumaria,,,248.8,154.9,93.9,37.74,True,25,bottom-right,Natura - Ciclo 07,Natura,7
+184883,Presente Natura Homem Sagaz,Natura Homem Sagaz,Kit,Kits e Presentes,"Contém: 1 Deo parfum 100 ml, 1 Desodorante corporal 100 ml, 1 Shampoo cabelo e corpo 100 ml, 1 Sacola de presente P",,316.7,189.9,126.8,40.04,True,26,bottom-left,Natura - Ciclo 07,Natura,7
+184861,Presente Natura Una Senses,Natura Una Senses,Perfumaria,Perfumaria,75ml,,312.9,239.9,73.0,23.33,True,27,bottom-left,Natura - Ciclo 07,Natura,7
+184905,Presente Natura Una Senses e Batom Líquido Lipstain Rosê,Natura Una Senses,"Perfumaria, Maquiagem",Perfumaria,75ml + 3g,,372.8,229.9,142.9,38.33,True,27,bottom-right,Natura - Ciclo 07,Natura,7
+184904,Presente Natura Una Senses e Batom Líquido Lipstain Rosa,Natura Una Senses,"Perfumaria, Maquiagem",Perfumaria,75ml + 3g,,372.8,229.9,142.9,38.33,True,27,bottom-right,Natura - Ciclo 07,Natura,7
+184901,Presente Natura Una Senses e Batom Líquido Lipstain Rouge,Natura Una Senses,"Perfumaria, Maquiagem",Perfumaria,75ml + 3g,,372.8,229.9,142.9,38.33,True,27,bottom-right,Natura - Ciclo 07,Natura,7
+179432,Presente Natura Ekos Sabonetes Sortidos,Natura Ekos,Corpo e Banho,Corpo e Banho,4x100g,,45.9,42.5,3.4,7.41,True,28,top-left,Natura - Ciclo 07,Natura,7
+184856,Presente Natura Sève Amêndoas e Canela,Natura Sève,Corpo e Banho,Corpo e Banho,Kit: Óleo Desodorante Corporal 200ml + Sabonete em Gel Corporal 100g,,136.5,99.9,36.6,26.81,True,28,bottom-left,Natura - Ciclo 07,Natura,7
+184845,Presente Natura Ilía,Ilía,Perfumaria,Perfumaria,"1 Deo parfum feminino 50 ml, 1 Desodorante hidratante corporal perfumado 80 ml, 1 Sabonete líquido 80 ml",,248.6,169.9,78.7,31.66,True,29,top-left,Natura - Ciclo 07,Natura,7
+184846,Presente Natura Kriska,Kriska,Perfumaria,Perfumaria,"1 Desodorante colônia feminino 100 ml, 1 Body splash desodorante colônia feminino 200 ml",,236.8,154.9,81.9,34.59,True,29,bottom-left,Natura - Ciclo 07,Natura,7
+184849,Presente Natura Tododia Amora Vermelha e Jabuticaba,Tododia,Corpo e Banho,Corpo e Banho,Kit com 80ml creme + 90g sabonete,,31.3,0.0,,,True,30,top-left,Natura - Ciclo 07,Natura,7
+184850,Presente Natura Tododia Ameixa e Flor de Baunilha,Tododia,Corpo e Banho,Corpo e Banho,Kit com 60ml body splash + 200ml creme + 190g/200ml sabonete líquido,,117.7,89.9,27.8,23.62,True,30,bottom-left,Natura - Ciclo 07,Natura,7
+None,Presente Natura Una Look Lipstain,Natura Una,Maquiagem,Maquiagem,"Máscara: 8ml, Lápis: 280mg, Batom: 3g",,202.7,149.9,52.8,26.05,True,31,top-right,Natura - Ciclo 07,Natura,7
+None,Presente Natura Faces Look Arrasador,Natura Faces,Maquiagem,Maquiagem,"Máscara: 7ml, Lápis: 1.3g, Batom: 5.5ml",,110.7,89.9,20.8,18.79,True,31,bottom-right,Natura - Ciclo 07,Natura,7
+194202,Bolsa de Mão Crer Para Ver,Natura Crer Pra Ver,Acessórios,Acessórios,1 unidade,,41.9,37.7,4.2,10.02,True,32,center,Natura - Ciclo 07,Natura,7
+140744,Presente Natura Mochila,Natura,Acessórios,Acessórios,"C 26 x L 12,5 x A 37 cm",,200.0,0.0,,,True,33,top-right,Natura - Ciclo 07,Natura,7
+180797,Presente Natura Frasqueira,Natura,Acessórios,Acessórios,C 25 x L 9 x A 18 cm,,100.0,0.0,,,True,33,center,Natura - Ciclo 07,Natura,7
+182220,Presente Natura Nécessaire Coração,Natura,Acessórios,Acessórios,C 18 x L 11 x A 11 cm,,70.0,0.0,,,True,33,bottom-left,Natura - Ciclo 07,Natura,7
+180459,Presente Natura Bolsa Crossbody,Natura,Acessórios,Acessórios,"C 15 x L 4 x A 20 cm, Comprimento da alça: 70 a 134 cm",,100.0,0.0,,,True,33,bottom-right,Natura - Ciclo 07,Natura,7
+161145,Sacola de presente G com laço,Natura,Acessórios,Acessórios,C 44 x L 16 x A 38 cm,,9.9,9.9,0.0,0.0,False,34,top-right,Natura - Ciclo 07,Natura,7
+167994,Sacola de presente M com laço,Natura,Acessórios,Acessórios,C 35 x L 12 x A 32 cm,,7.9,7.9,0.0,0.0,False,34,center,Natura - Ciclo 07,Natura,7
+161146,Sacola de presente mini com laço,Natura,Acessórios,Acessórios,C 15 x L 7 x A 17 cm,,4.9,4.9,0.0,0.0,False,34,bottom-left,Natura - Ciclo 07,Natura,7
+161148,Sacola de presente P com laço,Natura,Acessórios,Acessórios,C 22 x L 9 x A 25 cm,,5.9,5.9,0.0,0.0,False,34,bottom-right,Natura - Ciclo 07,Natura,7
+178556,Embalagem de presente coração,Natura,Embalagens para Presente,Kits e Presentes,"C 10 x L 10 x A 20,5 cm",,5.0,,,,False,35,top-left,Natura - Ciclo 07,Natura,7
+154849,Caixa de presente G com ímã,Natura,Embalagens para Presente,Kits e Presentes,"C 24,7 x L 19,5 x A 8,6 cm",,45.0,,,,False,35,top-right,Natura - Ciclo 07,Natura,7
+154851,Caixa de presente G com laço,Natura,Embalagens para Presente,Kits e Presentes,C 24 x L 20 x A 8 cm,,11.0,,,,False,35,center-left,Natura - Ciclo 07,Natura,7
+148397,Embalagem de presente redonda,Natura,Embalagens para Presente,Kits e Presentes,"D 12,5 x A 19 cm",,26.0,,,,False,35,center-right,Natura - Ciclo 07,Natura,7
+154850,Caixa especial de presente G,Natura,Embalagens para Presente,Kits e Presentes,"C 23,8 x L 20 x A 8 cm",,8.0,,,,False,35,bottom-left,Natura - Ciclo 07,Natura,7
+154848,Caixa especial de presente P,Natura,Embalagens para Presente,Kits e Presentes,"C 17,5 x L 16 x A 7 cm",,6.0,,,,False,35,bottom-center,Natura - Ciclo 07,Natura,7
+161999,Envelope de presente,Natura,Embalagens para Presente,Kits e Presentes,"C 19,7 x L 8,5 x A 25 cm",,5.0,,,,False,35,bottom-right,Natura - Ciclo 07,Natura,7
+184855,Presente Natura Essencial Atrai Masculino,Natura Essencial,Perfumaria Masculina,Perfumaria,100ml (Deo parfum),,278.9,182.9,96.0,34.42,True,39,center,Natura - Ciclo 07,Natura,7
+103348,Deo parfum essencial único masculino,Natura Essencial,Perfumaria,Perfumaria,90ml,,320.9,,,,False,42,top-right,Natura - Ciclo 07,Natura,7
+107122,REFIL Deo parfum essencial único masculino,Natura Essencial,Perfumaria,Perfumaria,90ml,,228.9,,,,False,42,top-right,Natura - Ciclo 07,Natura,7
+76424,Deo parfum essencial oud masculino,Natura Essencial,Perfumaria,Perfumaria,100ml,,278.9,,,,False,42,center-left,Natura - Ciclo 07,Natura,7
+11683,REFIL Deo parfum essencial oud masculino,Natura Essencial,Perfumaria,Perfumaria,100ml,,213.9,,,,False,42,center-left,Natura - Ciclo 07,Natura,7
+76422,Deo parfum essencial exclusivo masculino,Natura Essencial,Perfumaria,Perfumaria,100ml,,278.9,,,,False,42,center-right,Natura - Ciclo 07,Natura,7
+07979,REFIL Deo parfum essencial exclusivo masculino,Natura Essencial,Perfumaria,Perfumaria,100ml,,213.9,,,,False,42,center-right,Natura - Ciclo 07,Natura,7
+95560,Deo parfum essencial supreme masculino,Natura Essencial,Perfumaria,Perfumaria,100ml,,278.9,,,,False,42,bottom-left,Natura - Ciclo 07,Natura,7
+114584,Deo parfum essencial ato masculino,Natura Essencial,Perfumaria,Perfumaria,100ml,,278.9,,,,False,42,bottom-right,Natura - Ciclo 07,Natura,7
+114586,REFIL Deo parfum essencial ato masculino,Natura Essencial,Perfumaria,Perfumaria,100ml,,213.9,,,,False,42,bottom-right,Natura - Ciclo 07,Natura,7
+76420,Deo parfum essencial masculino,Essencial,Perfumaria,Perfumaria,100 ml,,278.9,,,,False,43,top-center,Natura - Ciclo 07,Natura,7
+07977,Refil Deo parfum essencial masculino,Essencial,Perfumaria,Perfumaria,,,213.9,,,,False,43,top-right,Natura - Ciclo 07,Natura,7
+114274,Sabonete em barra corpo e barba essencial,Essencial,Corpo e Banho Masculino,Corpo e Banho,3 x 110g,,47.9,,,,False,43,bottom-left,Natura - Ciclo 07,Natura,7
+114277,Creme de barbear essencial,Essencial,Cuidados Masculinos,Masculino,75g,,62.9,,,,False,43,bottom-center,Natura - Ciclo 07,Natura,7
+114276,Balm pós-barba essencial,Essencial,Cuidados Masculinos,Masculino,75 ml,,76.9,,,,False,43,bottom-right,Natura - Ciclo 07,Natura,7
+16870,Desodorante hidratante corporal perfumado essencial,Natura Essencial,Hidratação,Corpo e Banho,200 g,,119.9,104.9,15.0,12.51,True,44,top-left,Natura - Ciclo 07,Natura,7
+98941,REFIL Desodorante hidratante corporal perfumado essencial,Natura Essencial,Hidratação,Corpo e Banho,200 g,,87.9,,,,False,44,top-left,Natura - Ciclo 07,Natura,7
+76421,Deo parfum essencial feminino,Natura Essencial,Perfumaria,Perfumaria,100 ml,,278.9,,,,False,44,center,Natura - Ciclo 07,Natura,7
+07978,REFIL Deo parfum essencial feminino,Natura Essencial,Perfumaria,Perfumaria,100 ml,,213.9,,,,False,44,center,Natura - Ciclo 07,Natura,7
+76423,Deo parfum essencial exclusivo feminino,Natura Essencial,Perfumaria,Perfumaria,100 ml,,278.9,,,,False,44,bottom-left,Natura - Ciclo 07,Natura,7
+11681,REFIL Deo parfum essencial exclusivo feminino,Natura Essencial,Perfumaria,Perfumaria,100 ml,,213.9,,,,False,44,bottom-left,Natura - Ciclo 07,Natura,7
+16871,Desodorante hidratante corporal perfumado essencial exclusivo,Natura Essencial,Hidratação,Corpo e Banho,200 g,,119.9,,,,False,44,bottom-left,Natura - Ciclo 07,Natura,7
+98942,REFIL Desodorante hidratante corporal perfumado essencial exclusivo,Natura Essencial,Hidratação,Corpo e Banho,200 g,,87.9,,,,False,44,bottom-left,Natura - Ciclo 07,Natura,7
+95563,Deo parfum essencial supreme feminino,Natura Essencial,Perfumaria,Perfumaria,100 ml,,278.9,,,,False,44,bottom-right,Natura - Ciclo 07,Natura,7
+11683,REFIL Deo parfum essencial supreme feminino,Natura Essencial,Perfumaria,Perfumaria,100 ml,,213.9,,,,False,44,bottom-right,Natura - Ciclo 07,Natura,7
+16873,Desodorante hidratante corporal perfumado essencial supreme,Natura Essencial,Hidratação,Corpo e Banho,200 g,,119.9,,,,False,44,bottom-right,Natura - Ciclo 07,Natura,7
+98944,REFIL Desodorante hidratante corporal perfumado essencial supreme,Natura Essencial,Hidratação,Corpo e Banho,200 g,,87.9,,,,False,44,bottom-right,Natura - Ciclo 07,Natura,7
+76425,Deo parfum essencial oud feminino,Natura Essencial,Perfumaria,Perfumaria,100 ml,,278.9,,,,False,44,bottom-left,Natura - Ciclo 07,Natura,7
+11682,REFIL Deo parfum essencial oud feminino,Natura Essencial,Perfumaria,Perfumaria,100 ml,,213.9,,,,False,44,bottom-left,Natura - Ciclo 07,Natura,7
+16872,Desodorante hidratante corporal perfumado essencial oud,Natura Essencial,Hidratação,Corpo e Banho,200 g,,119.9,,,,False,44,center,Natura - Ciclo 07,Natura,7
+98943,REFIL Desodorante hidratante corporal perfumado essencial oud,Natura Essencial,Hidratação,Corpo e Banho,200 g,,87.9,,,,False,44,center,Natura - Ciclo 07,Natura,7
+114583,Deo parfum essencial ato feminino,Natura Essencial,Perfumaria,Perfumaria,100 ml,,278.9,,,,False,44,bottom-right,Natura - Ciclo 07,Natura,7
+114585,REFIL Deo parfum essencial ato feminino,Natura Essencial,Perfumaria,Perfumaria,100 ml,,213.9,,,,False,44,bottom-right,Natura - Ciclo 07,Natura,7
+167756,Deo parfum essencial sentir feminino,Natura Essencial,Perfumaria,Perfumaria,100ml,,278.9,184.9,94.0,33.7,True,45,center,Natura - Ciclo 07,Natura,7
+103349,Deo parfum essencial único feminino,Natura Essencial,Perfumaria,Perfumaria,90ml,,320.9,320.9,0.0,0.0,False,45,bottom-left,Natura - Ciclo 07,Natura,7
+107121,REFIL Deo parfum essencial único feminino,Natura Essencial,Perfumaria,Perfumaria,,,228.9,228.9,0.0,0.0,False,45,bottom-left,Natura - Ciclo 07,Natura,7
+184861,Presente Natura Una Senses Deo Parfum Feminino,Natura Una Senses,Perfumaria,Perfumaria,75 ml,,312.9,239.9,73.0,23.33,True,46,center,Natura - Ciclo 07,Natura,7
+184905,Presente Natura Una Senses com Batom Líquido Lipstain Rosé,Natura Una Senses,"Perfumaria, Maquiagem",Perfumaria,75 ml (perfume) + 3 g (batom),,372.8,229.9,142.9,38.33,True,46,bottom-center,Natura - Ciclo 07,Natura,7
+184901,Presente Natura Una Senses com Batom Líquido Lipstain Rouge,Natura Una Senses,"Perfumaria, Maquiagem",Perfumaria,75 ml (perfume) + 3 g (batom),,372.8,229.9,142.9,38.33,True,46,bottom-center,Natura - Ciclo 07,Natura,7
+184904,Presente Natura Una Senses com Batom Líquido Lipstain Rosa,Natura Una Senses,"Perfumaria, Maquiagem",Perfumaria,75 ml (perfume) + 3 g (batom),,372.8,229.9,142.9,38.33,True,46,bottom-center,Natura - Ciclo 07,Natura,7
+140595,Desodorante Hidratante Corporal Perfumado Una Artisan,Natura Una Artisan,"Corpo e Banho, Hidratação",Corpo e Banho,200 g,,119.9,,,,False,46,bottom-left,Natura - Ciclo 07,Natura,7
+169373,Natura Una Artisan Deo Parfum Feminino,Natura Una Artisan,Perfumaria,Perfumaria,75 ml,,312.9,,,,False,46,bottom-center,Natura - Ciclo 07,Natura,7
+02446,Natura Una Deo Parfum Feminino Adocicado,Natura Una,Perfumaria,Perfumaria,75 ml,,312.9,,,,False,46,bottom-right,Natura - Ciclo 07,Natura,7
+178907,Natura Aura Alba Eau de Parfum,Natura Aura Alba,Perfumaria,Perfumaria,75 ml,,324.0,324.0,0.0,0.0,False,47,center,Natura - Ciclo 07,Natura,7
+161148,Sacola de presente P com laço,Natura,Acessórios,Acessórios,,,5.0,0.0,,,True,47,top-right,Natura - Ciclo 07,Natura,7
+71600,Desodorante colônia biografia feminino,Natura Biografia,Perfumaria,Perfumaria,100 ml,,199.9,199.9,0.0,0.0,False,48,top-left,Natura - Ciclo 07,Natura,7
+71602,Desodorante colônia biografia assinatura feminino,Natura Biografia,Perfumaria,Perfumaria,100 ml,,199.9,199.9,0.0,0.0,False,48,top-right,Natura - Ciclo 07,Natura,7
+54522,Deo parfum ilía feminino,Natura Ilía,Perfumaria,Perfumaria,50 ml,,185.9,185.9,0.0,0.0,False,48,bottom-left,Natura - Ciclo 07,Natura,7
+95054,Deo parfum ilía laços feminino,Natura Ilía,Perfumaria,Perfumaria,50 ml,,185.9,185.9,0.0,0.0,False,48,bottom-left,Natura - Ciclo 07,Natura,7
+155606,Desodorante hidratante corporal ilía laços,Natura Ilía,Corpo e Banho,Corpo e Banho,200 g,,119.9,119.9,0.0,0.0,False,48,bottom-right,Natura - Ciclo 07,Natura,7
+122470,Deo parfum ilía completa feminino,Natura Ilía,Perfumaria,Perfumaria,50 ml,,185.9,185.9,0.0,0.0,False,48,bottom-left,Natura - Ciclo 07,Natura,7
+102419,Deo parfum ilía ser feminino,Natura Ilía,Perfumaria,Perfumaria,50 ml,,185.9,185.9,0.0,0.0,False,48,bottom-left,Natura - Ciclo 07,Natura,7
+83314,Deo parfum ilía secreto feminino,Natura Ilía,Perfumaria,Perfumaria,50 ml,,185.9,185.9,0.0,0.0,False,48,bottom-right,Natura - Ciclo 07,Natura,7
+150192,Desodorante colônia ekos ryo festa,Natura Ekos Ryos,Perfumaria,Perfumaria,75 ml,,187.9,,,,False,49,bottom-left,Natura - Ciclo 07,Natura,7
+133863,Desodorante colônia ekos ryo chuva,Natura Ekos Ryos,Perfumaria,Perfumaria,75 ml,,187.9,,,,False,49,center,Natura - Ciclo 07,Natura,7
+133865,Desodorante colônia ekos ryo vivo,Natura Ekos Ryos,Perfumaria,Perfumaria,75 ml,,187.9,,,,False,49,bottom-right,Natura - Ciclo 07,Natura,7
+122474,Deo parfum luna ilumina feminino,Natura Luna,Perfumaria,Perfumaria,50 ml,,208.9,,,,False,50,bottom-left,Natura - Ciclo 07,Natura,7
+86935,Deo parfum luna intenso feminino,Natura Luna,Perfumaria,Perfumaria,50 ml,,208.9,,,,False,50,bottom-center,Natura - Ciclo 07,Natura,7
+97173,Desodorante hidratante corporal perfumado luna intenso,Natura Luna,Corpo e Banho,Corpo e Banho,200 g,,119.9,,,,False,50,bottom-right,Natura - Ciclo 07,Natura,7
+97174,REFIL Desodorante hidratante corporal perfumado luna intenso,Natura Luna,Corpo e Banho,Corpo e Banho,200 g,,87.9,,,,False,50,bottom-right,Natura - Ciclo 07,Natura,7
+None,Presente Natura Luna Absoluta,Natura Luna Absoluta,Perfumaria,Perfumaria,Kit,,248.8,154.9,93.9,37.74,True,51,top-left,Natura - Ciclo 07,Natura,7
+56417,Desodorante colônia Luna Absoluta Feminino,Natura Luna Absoluta,Perfumaria,Perfumaria,75 ml,,181.9,,,,False,51,bottom-left,Natura - Ciclo 07,Natura,7
+97171,Desodorante hidratante corporal perfumado Luna Absoluta,Natura Luna Absoluta,Corpo e Banho,Corpo e Banho,300 ml,,85.9,,,,False,51,bottom-right,Natura - Ciclo 07,Natura,7
+97172,Refil Desodorante hidratante corporal perfumado Luna Absoluta,Natura Luna Absoluta,Corpo e Banho,Corpo e Banho,300 ml,,59.9,,,,False,51,bottom-right,Natura - Ciclo 07,Natura,7
+44452,Desodorante colônia luna feminino,Natura Luna,Perfumaria,Perfumaria,75 ml,,181.9,,,,False,52,top-left,Natura - Ciclo 07,Natura,7
+97153,Desodorante hidratante corporal perfumado luna,Natura Luna,Hidratação,Corpo e Banho,300 ml,,85.9,,,,False,52,top-left,Natura - Ciclo 07,Natura,7
+97168,Refil Desodorante hidratante corporal perfumado luna,Natura Luna,Hidratação,Corpo e Banho,300 ml,,59.9,0.0,,,True,52,top-left,Natura - Ciclo 07,Natura,7
+150216,Perfume para cabelos luna,Natura Luna,Cabelos,Cabelos,30 ml,,77.9,0.0,,,True,52,top-center,Natura - Ciclo 07,Natura,7
+169776,Desodorante colônia luna liberdade feminino,Natura Luna,Perfumaria,Perfumaria,75 ml,,181.9,,,,False,52,top-right,Natura - Ciclo 07,Natura,7
+177162,Desodorante hidratante corporal perfumado luna liberdade,Natura Luna,Hidratação,Corpo e Banho,300 ml,,85.9,,,,False,52,top-right,Natura - Ciclo 07,Natura,7
+02550,Desodorante colônia luna radiante feminino,Natura Luna,Perfumaria,Perfumaria,75 ml,,181.9,,,,False,52,center-left,Natura - Ciclo 07,Natura,7
+97169,Desodorante hidratante corporal perfumado luna radiante,Natura Luna,Hidratação,Corpo e Banho,300 ml,,85.9,,,,False,52,center-left,Natura - Ciclo 07,Natura,7
+97170,Refil Desodorante hidratante corporal perfumado luna radiante,Natura Luna,Hidratação,Corpo e Banho,300 ml,,59.9,0.0,,,True,52,center-left,Natura - Ciclo 07,Natura,7
+128615,Desodorante colônia luna ousadia feminino,Natura Luna,Perfumaria,Perfumaria,75 ml,,181.9,,,,False,52,center-right,Natura - Ciclo 07,Natura,7
+129620,Desodorante hidratante corporal perfumado luna ousadia,Natura Luna,Hidratação,Corpo e Banho,300 ml,,85.9,,,,False,52,center-right,Natura - Ciclo 07,Natura,7
+129617,Refil Desodorante hidratante corporal perfumado luna ousadia,Natura Luna,Hidratação,Corpo e Banho,300 ml,,59.9,0.0,,,True,52,center-right,Natura - Ciclo 07,Natura,7
+115463,Desodorante colônia luna coragem feminino,Natura Luna,Perfumaria,Perfumaria,75 ml,,181.9,,,,False,52,bottom-left,Natura - Ciclo 07,Natura,7
+115658,Desodorante hidratante corporal perfumado luna coragem,Natura Luna,Hidratação,Corpo e Banho,300 ml,,85.9,,,,False,52,bottom-left,Natura - Ciclo 07,Natura,7
+115659,Refil Desodorante hidratante corporal perfumado luna coragem,Natura Luna,Hidratação,Corpo e Banho,300 ml,,59.9,0.0,,,True,52,bottom-left,Natura - Ciclo 07,Natura,7
+102465,Óleo desodorante corporal perfumado luna confiante,Natura Luna,Corpo e Banho,Corpo e Banho,150 ml,,87.9,,,,False,52,bottom-center,Natura - Ciclo 07,Natura,7
+102038,Desodorante colônia luna confiante feminino,Natura Luna,Perfumaria,Perfumaria,75 ml,,181.9,,,,False,52,bottom-right,Natura - Ciclo 07,Natura,7
+102039,Desodorante hidratante corporal perfumado luna confiante,Natura Luna,Hidratação,Corpo e Banho,300 ml,,85.9,,,,False,52,bottom-right,Natura - Ciclo 07,Natura,7
+102420,Refil Desodorante hidratante corporal perfumado luna confiante,Natura Luna,Hidratação,Corpo e Banho,300 ml,,59.9,0.0,,,True,52,bottom-right,Natura - Ciclo 07,Natura,7
+108409,Desodorante Colônia Kaiak Aero Feminino,Natura Kaiak,Perfumaria,Perfumaria,100ml,,185.9,119.9,66.0,35.5,True,53,center,Natura - Ciclo 07,Natura,7
+108408,Desodorante Colônia Kaiak Aventura Feminino,Natura Kaiak,Perfumaria,Perfumaria,100ml,,185.9,,,,False,53,bottom-left,Natura - Ciclo 07,Natura,7
+125947,Desodorante Colônia Kaiak O2 Feminino,Natura Kaiak,Perfumaria,Perfumaria,100ml,,185.9,,,,False,53,bottom-left,Natura - Ciclo 07,Natura,7
+155608,Desodorante Colônia Kaiak Sonar Feminino,Natura Kaiak,Perfumaria,Perfumaria,100ml,,185.9,,,,False,53,bottom-right,Natura - Ciclo 07,Natura,7
+108410,Desodorante Colônia Kaiak Oceano Feminino,Natura Kaiak,Perfumaria,Perfumaria,100ml,,185.9,,,,False,53,bottom-right,Natura - Ciclo 07,Natura,7
+108407,Desodorante colônia Kaiak feminino,Natura Kaiak,Perfumaria,Perfumaria,100 ml,,185.9,,,,False,54,top-left,Natura - Ciclo 07,Natura,7
+108874,Sabonete líquido Kaiak feminino,Natura Kaiak,Corpo e Banho,Corpo e Banho,200 ml,,48.9,,,,False,54,top-center,Natura - Ciclo 07,Natura,7
+108878,Desodorante hidratante corporal Kaiak feminino,Natura Kaiak,Hidratação,Corpo e Banho,150 ml,,57.9,,,,False,54,top-right,Natura - Ciclo 07,Natura,7
+111305,Refil Desodorante hidratante corporal Kaiak feminino,Natura Kaiak,Hidratação,Corpo e Banho,150 ml,,46.9,,,,False,54,top-right,Natura - Ciclo 07,Natura,7
+02271,Válvula para Desodorante Colônia Águas,Natura Águas,Acessório,Acessórios,Para embalagem de 170 ml,,12.9,,,,False,54,center,Natura - Ciclo 07,Natura,7
+166361,Desodorante colônia Águas feminino Framboesa,Natura Águas,Perfumaria,Perfumaria,170 ml,,106.9,,,,False,54,bottom-center,Natura - Ciclo 07,Natura,7
+95638,Desodorante colônia Águas feminino Flor de Laranjeira,Natura Águas,Perfumaria,Perfumaria,170 ml,,106.9,,,,False,54,bottom-center,Natura - Ciclo 07,Natura,7
+95646,Desodorante colônia Águas feminino Lírio,Natura Águas,Perfumaria,Perfumaria,170 ml,,106.9,,,,False,54,bottom-center,Natura - Ciclo 07,Natura,7
+95643,Desodorante colônia Águas feminino Jabuticaba,Natura Águas,Perfumaria,Perfumaria,170 ml,,106.9,,,,False,54,bottom-center,Natura - Ciclo 07,Natura,7
+95644,Desodorante colônia Águas feminino Lavanda,Natura Águas,Perfumaria,Perfumaria,170 ml,,106.9,,,,False,54,bottom-center,Natura - Ciclo 07,Natura,7
+95642,Desodorante colônia Águas feminino Violeta,Natura Águas,Perfumaria,Perfumaria,170 ml,,106.9,,,,False,54,bottom-right,Natura - Ciclo 07,Natura,7
+184846,Presente Natura Kriska Dia dos Namorados,Natura Kriska,Perfumaria,Perfumaria,Kit com Desodorante Colônia 100ml e Body Splash 200ml,,236.8,154.9,81.9,34.59,True,55,top-center,Natura - Ciclo 07,Natura,7
+119239,Kriska Romance Desodorante Colônia Feminino,Natura Kriska,Perfumaria,Perfumaria,100ml,,152.9,,,,False,55,bottom-left,Natura - Ciclo 07,Natura,7
+41795,Kriska Desodorante Colônia Feminino,Natura Kriska,Perfumaria,Perfumaria,100ml,,152.9,,,,False,55,bottom-left,Natura - Ciclo 07,Natura,7
+00713,Kriska Delírio Desodorante Colônia Feminino,Natura Kriska,Perfumaria,Perfumaria,100ml,,152.9,,,,False,55,bottom-center,Natura - Ciclo 07,Natura,7
+68944,Kriska Shock Desodorante Colônia Feminino,Natura Kriska,Perfumaria,Perfumaria,100ml,,152.9,,,,False,55,bottom-right,Natura - Ciclo 07,Natura,7
+68943,Kriska Drama Desodorante Colônia Feminino,Natura Kriska,Perfumaria,Perfumaria,100ml,,152.9,,,,False,55,bottom-right,Natura - Ciclo 07,Natura,7
+None,Natura Tododia Cereja Negra e Praliné Body Splash,Natura Tododia,Perfumaria,Perfumaria,200ml,,0.0,,,,False,56,top-center,Natura - Ciclo 07,Natura,7
+162219,Natura Ekos Frescor Cacau Desodorante Colônia Feminino,Natura Ekos,Perfumaria,Perfumaria,150ml,,121.9,,,,False,56,bottom-left,Natura - Ciclo 07,Natura,7
+73563,Natura Ekos Frescor Pitanga Desodorante Colônia Feminino,Natura Ekos,Perfumaria,Perfumaria,150ml,,121.9,,,,False,56,bottom-left,Natura - Ciclo 07,Natura,7
+73568,Natura Ekos Frescor Refil Pitanga Desodorante Colônia Feminino,Natura Ekos,Perfumaria,Perfumaria,150ml,,98.9,,,,False,56,bottom-left,Natura - Ciclo 07,Natura,7
+73565,Natura Ekos Frescor Açaí Desodorante Colônia Feminino,Natura Ekos,Perfumaria,Perfumaria,150ml,,121.9,,,,False,56,bottom-center,Natura - Ciclo 07,Natura,7
+73570,Natura Ekos Frescor Refil Açaí Desodorante Colônia Feminino,Natura Ekos,Perfumaria,Perfumaria,150ml,,98.9,,,,False,56,bottom-center,Natura - Ciclo 07,Natura,7
+73562,Natura Ekos Frescor Castanha Desodorante Colônia Feminino,Natura Ekos,Perfumaria,Perfumaria,150ml,,121.9,,,,False,56,bottom-right,Natura - Ciclo 07,Natura,7
+73567,Natura Ekos Frescor Refil Castanha Desodorante Colônia Feminino,Natura Ekos,Perfumaria,Perfumaria,150ml,,98.9,,,,False,56,bottom-right,Natura - Ciclo 07,Natura,7
+73564,Natura Ekos Frescor Maracujá Desodorante Colônia Feminino,Natura Ekos,Perfumaria,Perfumaria,150ml,,121.9,,,,False,56,bottom-right,Natura - Ciclo 07,Natura,7
+73569,Natura Ekos Frescor Refil Maracujá Desodorante Colônia Feminino,Natura Ekos,Perfumaria,Perfumaria,150ml,,98.9,,,,False,56,bottom-right,Natura - Ciclo 07,Natura,7
+174618,Body splash desodorante colônia Cereja Negra e Praliné,Natura Tododia,Perfumaria,Perfumaria,200ml,,83.9,58.5,25.4,30.27,True,57,top-right,Natura - Ciclo 07,Natura,7
+95841,Body splash desodorante colônia Cereja e Avelã,Natura Tododia,Perfumaria,Perfumaria,200ml,,83.9,,,,False,57,bottom-left,Natura - Ciclo 07,Natura,7
+109160,Body splash desodorante colônia Capim Limão e Hortelã,Natura Tododia,Perfumaria,Perfumaria,200ml,,83.9,,,,False,57,bottom-left,Natura - Ciclo 07,Natura,7
+02795,Body splash desodorante colônia Tâmara e Canela,Natura Tododia,Perfumaria,Perfumaria,200ml,,83.9,,,,False,57,bottom-right,Natura - Ciclo 07,Natura,7
+159712,Body splash desodorante colônia Chá de Camomila e Lavanda,Natura Tododia,Perfumaria,Perfumaria,200ml,,83.9,,,,False,57,bottom-right,Natura - Ciclo 07,Natura,7
+152286,Body splash desodorante colônia Energizante Flor de Gengibre e Tangerina,Natura Tododia,Perfumaria,Perfumaria,200ml,,83.9,,,,False,57,bottom-left,Natura - Ciclo 07,Natura,7
+72221,Body splash desodorante colônia Algodão,Natura Tododia,Perfumaria,Perfumaria,200ml,,83.9,,,,False,57,bottom-left,Natura - Ciclo 07,Natura,7
+88075,Body splash desodorante colônia Amora Vermelha e Jabuticaba,Natura Tododia,Perfumaria,Perfumaria,200ml,,83.9,,,,False,57,bottom-right,Natura - Ciclo 07,Natura,7
+72195,Body splash desodorante colônia Macadâmia,Natura Tododia,Perfumaria,Perfumaria,200ml,,83.9,,,,False,57,bottom-right,Natura - Ciclo 07,Natura,7
+100148,Desodorante colônia humor on-line feminino,Natura Humor,Perfumaria,Perfumaria,75 ml,,153.9,,,,False,58,top-left,Natura - Ciclo 07,Natura,7
+100146,Desodorante colônia humor on-line masculino,Natura Humor,Perfumaria,Perfumaria,75 ml,,153.9,,,,False,58,top-left,Natura - Ciclo 07,Natura,7
+095947,Desodorante colônia beijo de humor feminino,Natura Humor,Perfumaria,Perfumaria,75 ml,,153.9,,,,False,58,center-left,Natura - Ciclo 07,Natura,7
+095949,Desodorante colônia beijo de humor masculino,Natura Humor,Perfumaria,Perfumaria,75 ml,,153.9,,,,False,58,center-left,Natura - Ciclo 07,Natura,7
+070995,Desodorante colônia química de humor feminino,Natura Humor,Perfumaria,Perfumaria,75 ml,,153.9,,,,False,58,bottom-left,Natura - Ciclo 07,Natura,7
+070996,Desodorante colônia química de humor masculino,Natura Humor,Perfumaria,Perfumaria,75 ml,,153.9,,,,False,58,bottom-left,Natura - Ciclo 07,Natura,7
+131462,Desodorante colônia festival de humor feminino,Natura Humor,Perfumaria,Perfumaria,75 ml,,153.9,,,,False,58,top-right,Natura - Ciclo 07,Natura,7
+131465,Desodorante colônia conexão de humor masculino,Natura Humor,Perfumaria,Perfumaria,75 ml,,153.9,,,,False,58,top-right,Natura - Ciclo 07,Natura,7
+086723,Desodorante colônia meu primeiro humor feminino,Natura Humor,Perfumaria,Perfumaria,75 ml,,153.9,,,,False,58,bottom-right,Natura - Ciclo 07,Natura,7
+086727,Desodorante colônia humor próprio feminino,Natura Humor,Perfumaria,Perfumaria,75 ml,,153.9,,,,False,58,bottom-right,Natura - Ciclo 07,Natura,7
+184880,Presente Natura Humor Próprio,Humor,Perfumaria,Perfumaria,Kit com múltiplos itens,,291.7,164.9,126.8,43.47,True,59,center,Natura - Ciclo 07,Natura,7
+86725,Desodorante colônia humor a dois masculino,Humor,Perfumaria,Perfumaria,75 ml,,153.9,153.9,0.0,0.0,False,59,bottom-left,Natura - Ciclo 07,Natura,7
+86728,Desodorante colônia paz e humor masculino,Humor,Perfumaria,Perfumaria,75 ml,,153.9,153.9,0.0,0.0,False,59,bottom-left,Natura - Ciclo 07,Natura,7
+122928,Desodorante colônia humor transforma,Humor,Perfumaria,Perfumaria,75 ml,,153.9,153.9,0.0,0.0,False,59,bottom-left,Natura - Ciclo 07,Natura,7
+102422,Desodorante colônia humor liberta,Humor,Perfumaria,Perfumaria,75 ml,,153.9,153.9,0.0,0.0,False,59,bottom-left,Natura - Ciclo 07,Natura,7
+100144,Iogurte desodorante hidratante perfumado humor off-line,Humor,Corpo e Banho,Corpo e Banho,125 ml,,48.9,48.9,0.0,0.0,False,59,bottom-right,Natura - Ciclo 07,Natura,7
+100145,Geleia de banho corporal humor off-line,Humor,Corpo e Banho,Corpo e Banho,125 g,,41.9,41.9,0.0,0.0,False,59,bottom-right,Natura - Ciclo 07,Natura,7
+167241,Desodorante colônia natura homem aromáticos,Natura Homem,Perfumaria,Perfumaria,100ml,,198.9,198.9,0.0,0.0,False,60,bottom-left,Natura - Ciclo 07,Natura,7
+053255,Desodorante colônia natura homem,Natura Homem,Perfumaria,Perfumaria,100ml,,198.9,198.9,0.0,0.0,False,60,bottom-left,Natura - Ciclo 07,Natura,7
+059847,Deo parfum natura homem essence,Natura Homem,Perfumaria,Perfumaria,100ml,,219.9,219.9,0.0,0.0,False,60,bottom-center,Natura - Ciclo 07,Natura,7
+125366,Deo parfum natura homem elo,Natura Homem,Perfumaria,Perfumaria,100ml,,219.9,219.9,0.0,0.0,False,60,bottom-right,Natura - Ciclo 07,Natura,7
+152280,Deo parfum natura homem nós,Natura Homem,Perfumaria,Perfumaria,100ml,,219.9,219.9,0.0,0.0,False,60,bottom-right,Natura - Ciclo 07,Natura,7
+184883,Presente Natura Homem Sagaz,Natura Homem,Perfumaria,Perfumaria,,,316.7,189.9,126.8,40.04,True,61,top-right,Natura - Ciclo 07,Natura,7
+99159,Deo parfum Natura Homem Tato,Natura Homem,Perfumaria,Perfumaria,100ml,,219.9,219.9,0.0,0.0,False,61,bottom-left,Natura - Ciclo 07,Natura,7
+81951,Deo parfum Natura Homem Sagaz,Natura Homem,Perfumaria,Perfumaria,100ml,,219.9,219.9,0.0,0.0,False,61,bottom-left,Natura - Ciclo 07,Natura,7
+71770,Deo parfum Natura Homem Dom,Natura Homem,Perfumaria,Perfumaria,100ml,,219.9,219.9,0.0,0.0,False,61,bottom-center,Natura - Ciclo 07,Natura,7
+89834,Deo parfum Natura Homem Cor.agio,Natura Homem,Perfumaria,Perfumaria,100ml,,289.9,289.9,0.0,0.0,False,61,bottom-right,Natura - Ciclo 07,Natura,7
+02190,Deo parfum Natura Homem Emocion.e,Natura Homem,Perfumaria,Perfumaria,100ml,,289.9,289.9,0.0,0.0,False,61,bottom-right,Natura - Ciclo 07,Natura,7
+151023,Sabonete barra 2 em 1 corpo e barba,Natura Homem,Corpo e Banho,Corpo e Banho,3 unidades de 110 g,,32.9,32.9,0.0,0.0,False,62,top-left,Natura - Ciclo 07,Natura,7
+151020,Desodorante hidratante corporal,Natura Homem,Corpo,Corpo e Banho,300 ml,,79.9,79.9,0.0,0.0,False,62,center,Natura - Ciclo 07,Natura,7
+150223,Desodorante antitranspirante roll-on Natura Homem sem perfume,Natura Homem,Corpo,Corpo e Banho,75 ml,,29.9,29.9,0.0,0.0,False,62,top-right,Natura - Ciclo 07,Natura,7
+152330,Hidratante mãos e áreas ressecadas,Natura Homem,Corpo,Corpo e Banho,50 ml,,35.9,35.9,0.0,0.0,False,62,top-right,Natura - Ciclo 07,Natura,7
+87265,Pomada modeladora,Natura Homem,Cabelos,Cabelos,100 g,,64.9,64.9,0.0,0.0,False,62,bottom-left,Natura - Ciclo 07,Natura,7
+78904,Shampoo 2 em 1,Natura Homem,Cabelos,Cabelos,300 ml,,43.9,43.9,0.0,0.0,False,62,bottom-right,Natura - Ciclo 07,Natura,7
+152277,Gel para barbear,Natura Homem,Cuidados Pessoais,Corpo e Banho,75g,,46.9,34.9,12.0,25.59,True,63,top-left,Natura - Ciclo 07,Natura,7
+151021,Creme para barbear multifuncional,Natura Homem,Cuidados Pessoais,Corpo e Banho,75ml,,53.9,39.9,14.0,25.97,True,63,bottom-left,Natura - Ciclo 07,Natura,7
+151022,Balm pós-barba multifuncional,Natura Homem,Cuidados Pessoais,Corpo e Banho,75ml,,69.9,49.9,20.0,28.61,True,63,top-right,Natura - Ciclo 07,Natura,7
+152331,Óleo para barba,Natura Homem,Cuidados Pessoais,Corpo e Banho,30ml,,79.9,69.9,10.0,12.52,True,63,bottom-right,Natura - Ciclo 07,Natura,7
+108402,Desodorante colônia kaiak aventura masculino,Natura Kaiak,Perfumaria,Perfumaria,100 ml,,185.9,,,,False,64,top-left,Natura - Ciclo 07,Natura,7
+108403,Desodorante colônia kaiak pulso masculino,Natura Kaiak,Perfumaria,Perfumaria,100 ml,,185.9,,,,False,64,top-center,Natura - Ciclo 07,Natura,7
+108401,Desodorante colônia kaiak urbe masculino,Natura Kaiak,Perfumaria,Perfumaria,100 ml,,185.9,,,,False,64,top-right,Natura - Ciclo 07,Natura,7
+125949,Desodorante colônia kaiak O2 masculino,Natura Kaiak,Perfumaria,Perfumaria,100 ml,,185.9,,,,False,64,bottom-left,Natura - Ciclo 07,Natura,7
+155607,Desodorante colônia kaiak sonar masculino,Natura Kaiak,Perfumaria,Perfumaria,100 ml,,185.9,,,,False,64,bottom-center,Natura - Ciclo 07,Natura,7
+108405,Desodorante colônia kaiak oceano masculino,Natura Kaiak,Perfumaria,Perfumaria,100 ml,,185.9,,,,False,64,bottom-right,Natura - Ciclo 07,Natura,7
+108404,Desodorante Colônia Kaiak Aero Masculino,Natura Kaiak,Perfumaria,Perfumaria,100ml,,185.9,119.9,66.0,35.5,True,65,center,Natura - Ciclo 07,Natura,7
+108400,Desodorante colônia kaiak masculino,Natura Kaiak,Perfumaria,Perfumaria,100 ml,,185.9,,,,False,66,top-left,Natura - Ciclo 07,Natura,7
+108877,Desodorante hidratante corporal kaiak masculino,Natura Kaiak,Hidratação,Corpo e Banho,150 ml,,57.9,,,,False,66,top-center,Natura - Ciclo 07,Natura,7
+111306,REFIL Desodorante hidratante corporal kaiak masculino,Natura Kaiak,Hidratação,Corpo e Banho,,,46.9,,,,False,66,top-center,Natura - Ciclo 07,Natura,7
+109482,Spray pós-barba kaiak masculino,Natura Kaiak,Cuidados para Barba,Masculino,150 ml,,69.9,,,,False,66,top-right,Natura - Ciclo 07,Natura,7
+108876,Shampoo cabelo e corpo kaiak masculino,Natura Kaiak,Cabelos e Corpo e Banho,Corpo e Banho,200 ml,,36.9,,,,False,66,center-left,Natura - Ciclo 07,Natura,7
+120194,Conjunto kaiak com nécessaire,Natura Kaiak,Kits e Perfumaria,Perfumaria,,,277.9,,,,False,66,center-right,Natura - Ciclo 07,Natura,7
+108875,Sabonete em barra corpo e barba kaiak masculino,Natura Kaiak,Corpo e Banho,Corpo e Banho,2 unidades de 90 g cada,,25.9,,,,False,66,center-left,Natura - Ciclo 07,Natura,7
+120195,Conjunto sabonete em barra com saboneteira kaiak masculino,Natura Kaiak,Kits e Corpo e Banho,Corpo e Banho,,,64.9,,,,False,66,center-right,Natura - Ciclo 07,Natura,7
+57525,K deo parfum masculino,Natura K,Perfumaria,Perfumaria,100 ml,,273.9,,,,False,66,bottom-left,Natura - Ciclo 07,Natura,7
+72468,K max deo parfum masculino,Natura K,Perfumaria,Perfumaria,100 ml,,273.9,,,,False,66,bottom-right,Natura - Ciclo 07,Natura,7
+30410,Desodorante colônia sr. n,Natura Sr. N,Perfumaria,Perfumaria,100 ml,,147.9,,,,False,66,bottom-left,Natura - Ciclo 07,Natura,7
+85400,Creme de barbear espumante,Natura Sr. N,Cuidados para Barba,Masculino,80 g,,47.9,,,,False,66,bottom-center,Natura - Ciclo 07,Natura,7
+85389,Gel após barba,Natura Sr. N,Cuidados para Barba,Masculino,75 g,,56.9,,,,False,66,bottom-right,Natura - Ciclo 07,Natura,7
+None,Presente Natura Biografia Encontros Masculino,Natura Biografia,Perfumaria,Perfumaria,,,229.9,159.9,70.0,30.45,True,67,top-left,Natura - Ciclo 07,Natura,7
+71601,Desodorante colônia biografia masculino,Natura Biografia,Perfumaria,Perfumaria,100 ml,,199.9,,,,False,67,top-center,Natura - Ciclo 07,Natura,7
+71603,Desodorante colônia biografia assinatura masculino,Natura Biografia,Perfumaria,Perfumaria,100 ml,,199.9,,,,False,67,top-right,Natura - Ciclo 07,Natura,7
+71766,Desodorante colônia sintonia clássico masculino,Natura Sintonia,Perfumaria,Perfumaria,100 ml,,202.9,,,,False,67,bottom-left,Natura - Ciclo 07,Natura,7
+71773,Desodorante colônia sintonia impacto masculino,Natura Sintonia,Perfumaria,Perfumaria,100 ml,,202.9,,,,False,67,bottom-right,Natura - Ciclo 07,Natura,7
+165814,Pó Solto Facial Translúcido Luminoso,Natura Una,Maquiagem,Maquiagem,8 g,,119.9,94.9,25.0,20.85,True,70,top-left,Natura - Ciclo 07,Natura,7
+165384,Pó Solto Facial Translúcido Matte Natural,Natura Una,Maquiagem,Maquiagem,8g,,119.9,94.9,25.0,20.85,True,71,center,Natura - Ciclo 07,Natura,7
+72020,REFIL Blush intense me - Uva Matte,UNA,Maquiagem,Maquiagem,6 g,,62.9,0.0,,,True,72,top-left,Natura - Ciclo 07,Natura,7
+92595,REFIL Blush intense me - Coral Perolado,UNA,Maquiagem,Maquiagem,6 g,,62.9,0.0,,,True,72,top-left,Natura - Ciclo 07,Natura,7
+92584,REFIL Blush intense me - Rosê Matte,UNA,Maquiagem,Maquiagem,6 g,,62.9,0.0,,,True,72,top-left,Natura - Ciclo 07,Natura,7
+92576,REFIL Blush intense me - Bronze Perolado,UNA,Maquiagem,Maquiagem,6 g,,62.9,0.0,,,True,72,top-left,Natura - Ciclo 07,Natura,7
+110678,REFIL Pó compacto nude me - 12N,UNA,Maquiagem,Maquiagem,10 g,,59.9,0.0,,,True,72,top-right,Natura - Ciclo 07,Natura,7
+110679,REFIL Pó compacto nude me - 19N,UNA,Maquiagem,Maquiagem,10 g,,59.9,0.0,,,True,72,top-right,Natura - Ciclo 07,Natura,7
+110680,REFIL Pó compacto nude me - 21N,UNA,Maquiagem,Maquiagem,10 g,,59.9,0.0,,,True,72,top-right,Natura - Ciclo 07,Natura,7
+110681,REFIL Pó compacto nude me - 27N,UNA,Maquiagem,Maquiagem,10 g,,59.9,0.0,,,True,72,top-right,Natura - Ciclo 07,Natura,7
+110682,REFIL Pó compacto nude me - 31N,UNA,Maquiagem,Maquiagem,10 g,,59.9,0.0,,,True,72,top-right,Natura - Ciclo 07,Natura,7
+110683,REFIL Pó compacto nude me - 35N,UNA,Maquiagem,Maquiagem,10 g,,59.9,0.0,,,True,72,top-right,Natura - Ciclo 07,Natura,7
+110684,REFIL Pó compacto nude me - 40N,UNA,Maquiagem,Maquiagem,10 g,,59.9,0.0,,,True,72,top-right,Natura - Ciclo 07,Natura,7
+110685,REFIL Pó compacto nude me - 46N,UNA,Maquiagem,Maquiagem,10 g,,59.9,0.0,,,True,72,top-right,Natura - Ciclo 07,Natura,7
+71663,Estojo de maquiagem rosa metalizado,UNA,Maquiagem,Maquiagem,,,49.9,0.0,,,True,72,center-left,Natura - Ciclo 07,Natura,7
+24865,REFIL Iluminador marmorizado corpo e rosto,UNA,Maquiagem,Maquiagem,"3,5 g",,59.9,0.0,,,True,72,center-right,Natura - Ciclo 07,Natura,7
+137961,Blush líquido cushion - Rosa,UNA,Maquiagem,Maquiagem,10 g,,79.9,0.0,,,True,72,bottom-left,Natura - Ciclo 07,Natura,7
+137962,Blush líquido cushion - Coral,UNA,Maquiagem,Maquiagem,10 g,,79.9,0.0,,,True,72,bottom-left,Natura - Ciclo 07,Natura,7
+107123,Corretivo cushion nude me - 10N,UNA,Maquiagem,Maquiagem,12 ml,,99.9,0.0,,,True,72,bottom-right,Natura - Ciclo 07,Natura,7
+107124,Corretivo cushion nude me - 15N,UNA,Maquiagem,Maquiagem,12 ml,,99.9,0.0,,,True,72,bottom-right,Natura - Ciclo 07,Natura,7
+107125,Corretivo cushion nude me - 19N,UNA,Maquiagem,Maquiagem,12 ml,,99.9,0.0,,,True,72,bottom-right,Natura - Ciclo 07,Natura,7
+107126,Corretivo cushion nude me - 21N,UNA,Maquiagem,Maquiagem,12 ml,,99.9,0.0,,,True,72,bottom-right,Natura - Ciclo 07,Natura,7
+107127,Corretivo cushion nude me - 24N,UNA,Maquiagem,Maquiagem,12 ml,,99.9,0.0,,,True,72,bottom-right,Natura - Ciclo 07,Natura,7
+107128,Corretivo cushion nude me - 27N,UNA,Maquiagem,Maquiagem,12 ml,,99.9,0.0,,,True,72,bottom-right,Natura - Ciclo 07,Natura,7
+107129,Corretivo cushion nude me - 30N,UNA,Maquiagem,Maquiagem,12 ml,,99.9,0.0,,,True,72,bottom-right,Natura - Ciclo 07,Natura,7
+107130,Corretivo cushion nude me - 32N,UNA,Maquiagem,Maquiagem,12 ml,,99.9,0.0,,,True,72,bottom-right,Natura - Ciclo 07,Natura,7
+107131,Corretivo cushion nude me - 35N,UNA,Maquiagem,Maquiagem,12 ml,,99.9,0.0,,,True,72,bottom-right,Natura - Ciclo 07,Natura,7
+107132,Corretivo cushion nude me - 37N,UNA,Maquiagem,Maquiagem,12 ml,,99.9,0.0,,,True,72,bottom-right,Natura - Ciclo 07,Natura,7
+107133,Corretivo cushion nude me - 43N,UNA,Maquiagem,Maquiagem,12 ml,,99.9,0.0,,,True,72,bottom-right,Natura - Ciclo 07,Natura,7
+107134,Corretivo cushion nude me - 46N,UNA,Maquiagem,Maquiagem,12 ml,,99.9,0.0,,,True,72,bottom-right,Natura - Ciclo 07,Natura,7
+122122,Corretivo cobertura extrema 24h - 10N,UNA,Maquiagem,Maquiagem,8 ml,,59.9,0.0,,,True,72,bottom-center,Natura - Ciclo 07,Natura,7
+122120,Corretivo cobertura extrema 24h - 15N,UNA,Maquiagem,Maquiagem,8 ml,,59.9,0.0,,,True,72,bottom-center,Natura - Ciclo 07,Natura,7
+122117,Corretivo cobertura extrema 24h - 19N,UNA,Maquiagem,Maquiagem,8 ml,,59.9,0.0,,,True,72,bottom-center,Natura - Ciclo 07,Natura,7
+122113,Corretivo cobertura extrema 24h - 21N,UNA,Maquiagem,Maquiagem,8 ml,,59.9,0.0,,,True,72,bottom-center,Natura - Ciclo 07,Natura,7
+122114,Corretivo cobertura extrema 24h - 24N,UNA,Maquiagem,Maquiagem,8 ml,,59.9,0.0,,,True,72,bottom-center,Natura - Ciclo 07,Natura,7
+122112,Corretivo cobertura extrema 24h - 27N,UNA,Maquiagem,Maquiagem,8 ml,,59.9,0.0,,,True,72,bottom-center,Natura - Ciclo 07,Natura,7
+122121,Corretivo cobertura extrema 24h - 30N,UNA,Maquiagem,Maquiagem,8 ml,,59.9,0.0,,,True,72,bottom-center,Natura - Ciclo 07,Natura,7
+122115,Corretivo cobertura extrema 24h - 32N,UNA,Maquiagem,Maquiagem,8 ml,,59.9,0.0,,,True,72,bottom-center,Natura - Ciclo 07,Natura,7
+122116,Corretivo cobertura extrema 24h - 35N,UNA,Maquiagem,Maquiagem,8 ml,,59.9,0.0,,,True,72,bottom-center,Natura - Ciclo 07,Natura,7
+122118,Corretivo cobertura extrema 24h - 37N,UNA,Maquiagem,Maquiagem,8 ml,,59.9,0.0,,,True,72,bottom-center,Natura - Ciclo 07,Natura,7
+122123,Corretivo cobertura extrema 24h - 43N,UNA,Maquiagem,Maquiagem,8 ml,,59.9,0.0,,,True,72,bottom-center,Natura - Ciclo 07,Natura,7
+122119,Corretivo cobertura extrema 24h - 46N,UNA,Maquiagem,Maquiagem,8 ml,,59.9,0.0,,,True,72,bottom-center,Natura - Ciclo 07,Natura,7
+110181,Base Sérum Nude Me - 10N,Natura Una,Maquiagem,Maquiagem,30ml,,159.9,135.9,24.0,15.01,True,73,top-right,Natura - Ciclo 07,Natura,7
+110182,Base Sérum Nude Me - 12F,Natura Una,Maquiagem,Maquiagem,30ml,,159.9,135.9,24.0,15.01,True,73,top-right,Natura - Ciclo 07,Natura,7
+110183,Base Sérum Nude Me - 15Q,Natura Una,Maquiagem,Maquiagem,30ml,,159.9,135.9,24.0,15.01,True,73,top-right,Natura - Ciclo 07,Natura,7
+110184,Base Sérum Nude Me - 16F,Natura Una,Maquiagem,Maquiagem,30ml,,159.9,135.9,24.0,15.01,True,73,top-right,Natura - Ciclo 07,Natura,7
+110185,Base Sérum Nude Me - 19N,Natura Una,Maquiagem,Maquiagem,30ml,,159.9,135.9,24.0,15.01,True,73,top-right,Natura - Ciclo 07,Natura,7
+110186,Base Sérum Nude Me - 20N,Natura Una,Maquiagem,Maquiagem,30ml,,159.9,135.9,24.0,15.01,True,73,top-right,Natura - Ciclo 07,Natura,7
+110187,Base Sérum Nude Me - 21Q,Natura Una,Maquiagem,Maquiagem,30ml,,159.9,135.9,24.0,15.01,True,73,top-right,Natura - Ciclo 07,Natura,7
+110188,Base Sérum Nude Me - 23F,Natura Una,Maquiagem,Maquiagem,30ml,,159.9,135.9,24.0,15.01,True,73,top-right,Natura - Ciclo 07,Natura,7
+110189,Base Sérum Nude Me - 24F,Natura Una,Maquiagem,Maquiagem,30ml,,159.9,135.9,24.0,15.01,True,73,top-right,Natura - Ciclo 07,Natura,7
+110190,Base Sérum Nude Me - 25Q,Natura Una,Maquiagem,Maquiagem,30ml,,159.9,135.9,24.0,15.01,True,73,top-right,Natura - Ciclo 07,Natura,7
+110191,Base Sérum Nude Me - 27N,Natura Una,Maquiagem,Maquiagem,30ml,,159.9,135.9,24.0,15.01,True,73,top-right,Natura - Ciclo 07,Natura,7
+110192,Base Sérum Nude Me - 29N,Natura Una,Maquiagem,Maquiagem,30ml,,159.9,135.9,24.0,15.01,True,73,top-right,Natura - Ciclo 07,Natura,7
+110193,Base Sérum Nude Me - 30F,Natura Una,Maquiagem,Maquiagem,30ml,,159.9,135.9,24.0,15.01,True,73,bottom-right,Natura - Ciclo 07,Natura,7
+110194,Base Sérum Nude Me - 31N,Natura Una,Maquiagem,Maquiagem,30ml,,159.9,135.9,24.0,15.01,True,73,bottom-right,Natura - Ciclo 07,Natura,7
+110195,Base Sérum Nude Me - 32Q,Natura Una,Maquiagem,Maquiagem,30ml,,159.9,135.9,24.0,15.01,True,73,bottom-right,Natura - Ciclo 07,Natura,7
+110196,Base Sérum Nude Me - 33N,Natura Una,Maquiagem,Maquiagem,30ml,,159.9,135.9,24.0,15.01,True,73,bottom-right,Natura - Ciclo 07,Natura,7
+110197,Base Sérum Nude Me - 35N,Natura Una,Maquiagem,Maquiagem,30ml,,159.9,135.9,24.0,15.01,True,73,bottom-right,Natura - Ciclo 07,Natura,7
+110198,Base Sérum Nude Me - 35Q,Natura Una,Maquiagem,Maquiagem,30ml,,159.9,135.9,24.0,15.01,True,73,bottom-right,Natura - Ciclo 07,Natura,7
+110199,Base Sérum Nude Me - 37Q,Natura Una,Maquiagem,Maquiagem,30ml,,159.9,135.9,24.0,15.01,True,73,bottom-right,Natura - Ciclo 07,Natura,7
+110200,Base Sérum Nude Me - 40Q,Natura Una,Maquiagem,Maquiagem,30ml,,159.9,135.9,24.0,15.01,True,73,bottom-right,Natura - Ciclo 07,Natura,7
+110201,Base Sérum Nude Me - 43N,Natura Una,Maquiagem,Maquiagem,30ml,,159.9,135.9,24.0,15.01,True,73,bottom-right,Natura - Ciclo 07,Natura,7
+110202,Base Sérum Nude Me - 44N,Natura Una,Maquiagem,Maquiagem,30ml,,159.9,135.9,24.0,15.01,True,73,bottom-right,Natura - Ciclo 07,Natura,7
+110203,Base Sérum Nude Me - 46Q,Natura Una,Maquiagem,Maquiagem,30ml,,159.9,135.9,24.0,15.01,True,73,bottom-right,Natura - Ciclo 07,Natura,7
+110204,Base Sérum Nude Me - 48F,Natura Una,Maquiagem,Maquiagem,30ml,,159.9,135.9,24.0,15.01,True,73,bottom-right,Natura - Ciclo 07,Natura,7
+58406,Pincel PRO duo fibras,Natura Una,Maquiagem,Maquiagem,,,66.9,66.9,0.0,0.0,False,73,bottom-right,Natura - Ciclo 07,Natura,7
+135024,Base tint extremo conforto FPS 40 - 12F,Una,Maquiagem,Maquiagem,30 ml,,74.9,,,,False,74,top-left,Natura - Ciclo 07,Natura,7
+134778,Base tint extremo conforto FPS 40 - 15Q,Una,Maquiagem,Maquiagem,30 ml,,74.9,,,,False,74,top-left,Natura - Ciclo 07,Natura,7
+135035,Base tint extremo conforto FPS 40 - 21Q,Una,Maquiagem,Maquiagem,30 ml,,74.9,,,,False,74,top-left,Natura - Ciclo 07,Natura,7
+135047,Base tint extremo conforto FPS 40 - 23F,Una,Maquiagem,Maquiagem,30 ml,,74.9,,,,False,74,top-left,Natura - Ciclo 07,Natura,7
+135042,Base tint extremo conforto FPS 40 - 25Q,Una,Maquiagem,Maquiagem,30 ml,,74.9,,,,False,74,top-left,Natura - Ciclo 07,Natura,7
+135025,Base tint extremo conforto FPS 40 - 29N,Una,Maquiagem,Maquiagem,30 ml,,74.9,,,,False,74,top-left,Natura - Ciclo 07,Natura,7
+135026,Base tint extremo conforto FPS 40 - 31N,Una,Maquiagem,Maquiagem,30 ml,,74.9,,,,False,74,top-left,Natura - Ciclo 07,Natura,7
+135028,Base tint extremo conforto FPS 40 - 32Q,Una,Maquiagem,Maquiagem,30 ml,,74.9,,,,False,74,top-left,Natura - Ciclo 07,Natura,7
+135034,Base tint extremo conforto FPS 40 - 35Q,Una,Maquiagem,Maquiagem,30 ml,,74.9,,,,False,74,top-left,Natura - Ciclo 07,Natura,7
+135030,Base tint extremo conforto FPS 40 - 37Q,Una,Maquiagem,Maquiagem,30 ml,,74.9,,,,False,74,top-left,Natura - Ciclo 07,Natura,7
+135023,Base tint extremo conforto FPS 40 - 40Q,Una,Maquiagem,Maquiagem,30 ml,,74.9,,,,False,74,top-left,Natura - Ciclo 07,Natura,7
+135022,Base tint extremo conforto FPS 40 - 43N,Una,Maquiagem,Maquiagem,30 ml,,74.9,,,,False,74,top-left,Natura - Ciclo 07,Natura,7
+153720,Bruma facial hidratante fixadora,Una,Maquiagem,Maquiagem,100 ml,,69.9,,,,False,74,bottom-left,Natura - Ciclo 07,Natura,7
+59313,Primer blur,Una,Maquiagem,Maquiagem,30 ml,,84.9,,,,False,74,bottom-left,Natura - Ciclo 07,Natura,7
+107770,Base Fluida HD 10N,Una,Maquiagem,Maquiagem,30ml,,149.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+104873,Refil Base Fluida HD 10N,Una,Maquiagem,Maquiagem,30ml,,104.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+107771,Base Fluida HD 12F,Una,Maquiagem,Maquiagem,30ml,,149.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+104874,Refil Base Fluida HD 12F,Una,Maquiagem,Maquiagem,30ml,,104.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+107769,Base Fluida HD 15Q,Una,Maquiagem,Maquiagem,30ml,,149.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+104872,Refil Base Fluida HD 15Q,Una,Maquiagem,Maquiagem,30ml,,104.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+107772,Base Fluida HD 16F,Una,Maquiagem,Maquiagem,30ml,,149.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+104876,Refil Base Fluida HD 16F,Una,Maquiagem,Maquiagem,30ml,,104.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+107773,Base Fluida HD 19N,Una,Maquiagem,Maquiagem,30ml,,149.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+104875,Refil Base Fluida HD 19N,Una,Maquiagem,Maquiagem,30ml,,104.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+107776,Base Fluida HD 20N,Una,Maquiagem,Maquiagem,30ml,,149.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+104879,Refil Base Fluida HD 20N,Una,Maquiagem,Maquiagem,30ml,,104.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+107775,Base Fluida HD 21Q,Una,Maquiagem,Maquiagem,30ml,,149.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+104878,Refil Base Fluida HD 21Q,Una,Maquiagem,Maquiagem,30ml,,104.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+107774,Base Fluida HD 23F,Una,Maquiagem,Maquiagem,30ml,,149.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+104877,Refil Base Fluida HD 23F,Una,Maquiagem,Maquiagem,30ml,,104.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+107779,Base Fluida HD 24F,Una,Maquiagem,Maquiagem,30ml,,149.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+104882,Refil Base Fluida HD 24F,Una,Maquiagem,Maquiagem,30ml,,104.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+107778,Base Fluida HD 25Q,Una,Maquiagem,Maquiagem,30ml,,149.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+104881,Refil Base Fluida HD 25Q,Una,Maquiagem,Maquiagem,30ml,,104.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+107777,Base Fluida HD 27N,Una,Maquiagem,Maquiagem,30ml,,149.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+104880,Refil Base Fluida HD 27N,Una,Maquiagem,Maquiagem,30ml,,104.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+107780,Base Fluida HD 29N,Una,Maquiagem,Maquiagem,30ml,,149.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+104883,Refil Base Fluida HD 29N,Una,Maquiagem,Maquiagem,30ml,,104.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+107757,Base Fluida HD 30F,Una,Maquiagem,Maquiagem,30ml,,149.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+104884,Refil Base Fluida HD 30F,Una,Maquiagem,Maquiagem,30ml,,104.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+107758,Base Fluida HD 31N,Una,Maquiagem,Maquiagem,30ml,,149.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+104885,Refil Base Fluida HD 31N,Una,Maquiagem,Maquiagem,30ml,,104.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+107759,Base Fluida HD 32Q,Una,Maquiagem,Maquiagem,30ml,,149.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+104886,Refil Base Fluida HD 32Q,Una,Maquiagem,Maquiagem,30ml,,104.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+107760,Base Fluida HD 33N,Una,Maquiagem,Maquiagem,30ml,,149.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+104887,Refil Base Fluida HD 33N,Una,Maquiagem,Maquiagem,30ml,,104.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+107761,Base Fluida HD 35N,Una,Maquiagem,Maquiagem,30ml,,149.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+104888,Refil Base Fluida HD 35N,Una,Maquiagem,Maquiagem,30ml,,104.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+107762,Base Fluida HD 35Q,Una,Maquiagem,Maquiagem,30ml,,149.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+104889,Refil Base Fluida HD 35Q,Una,Maquiagem,Maquiagem,30ml,,104.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+107763,Base Fluida HD 37Q,Una,Maquiagem,Maquiagem,30ml,,149.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+104890,Refil Base Fluida HD 37Q,Una,Maquiagem,Maquiagem,30ml,,104.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+107765,Base Fluida HD 40Q,Una,Maquiagem,Maquiagem,30ml,,149.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+104892,Refil Base Fluida HD 40Q,Una,Maquiagem,Maquiagem,30ml,,104.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+107764,Base Fluida HD 43N,Una,Maquiagem,Maquiagem,30ml,,149.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+104891,Refil Base Fluida HD 43N,Una,Maquiagem,Maquiagem,30ml,,104.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+107766,Base Fluida HD 44N,Una,Maquiagem,Maquiagem,30ml,,149.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+104893,Refil Base Fluida HD 44N,Una,Maquiagem,Maquiagem,30ml,,104.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+107768,Base Fluida HD 46Q,Una,Maquiagem,Maquiagem,30ml,,149.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+104895,Refil Base Fluida HD 46Q,Una,Maquiagem,Maquiagem,30ml,,104.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+107767,Base Fluida HD 48F,Una,Maquiagem,Maquiagem,30ml,,149.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+104894,Refil Base Fluida HD 48F,Una,Maquiagem,Maquiagem,30ml,,104.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+108125,Base Matte 10N,Una,Maquiagem,Maquiagem,30ml,,89.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+108126,Base Matte 12F,Una,Maquiagem,Maquiagem,30ml,,89.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+108127,Base Matte 15Q,Una,Maquiagem,Maquiagem,30ml,,89.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+108128,Base Matte 16F,Una,Maquiagem,Maquiagem,30ml,,89.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+108129,Base Matte 19N,Una,Maquiagem,Maquiagem,30ml,,89.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+108130,Base Matte 20N,Una,Maquiagem,Maquiagem,30ml,,89.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+108131,Base Matte 21Q,Una,Maquiagem,Maquiagem,30ml,,89.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+108132,Base Matte 23F,Una,Maquiagem,Maquiagem,30ml,,89.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+108133,Base Matte 24F,Una,Maquiagem,Maquiagem,30ml,,89.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+108135,Base Matte 25Q,Una,Maquiagem,Maquiagem,30ml,,89.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+108136,Base Matte 27N,Una,Maquiagem,Maquiagem,30ml,,89.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+108138,Base Matte 29N,Una,Maquiagem,Maquiagem,30ml,,89.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+108140,Base Matte 30F,Una,Maquiagem,Maquiagem,30ml,,89.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+108142,Base Matte 31N,Una,Maquiagem,Maquiagem,30ml,,89.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+108144,Base Matte 32Q,Una,Maquiagem,Maquiagem,30ml,,89.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+108146,Base Matte 33N,Una,Maquiagem,Maquiagem,30ml,,89.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+108148,Base Matte 35N,Una,Maquiagem,Maquiagem,30ml,,89.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+108150,Base Matte 35Q,Una,Maquiagem,Maquiagem,30ml,,89.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+108151,Base Matte 37Q,Una,Maquiagem,Maquiagem,30ml,,89.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+108153,Base Matte 40Q,Una,Maquiagem,Maquiagem,30ml,,89.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+108154,Base Matte 43N,Una,Maquiagem,Maquiagem,30ml,,89.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+108155,Base Matte 44N,Una,Maquiagem,Maquiagem,30ml,,89.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+108156,Base Matte 46Q,Una,Maquiagem,Maquiagem,30ml,,89.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+108157,Base Matte 48F,Una,Maquiagem,Maquiagem,30ml,,89.9,,,,False,75,bottom-left,Natura - Ciclo 07,Natura,7
+127768,Base Matte Powder 12F,Una,Maquiagem,Maquiagem,20g,,129.9,,,,False,75,bottom-right,Natura - Ciclo 07,Natura,7
+127775,Base Matte Powder 15Q,Una,Maquiagem,Maquiagem,20g,,129.9,,,,False,75,bottom-right,Natura - Ciclo 07,Natura,7
+127766,Base Matte Powder 21Q,Una,Maquiagem,Maquiagem,20g,,129.9,,,,False,75,bottom-right,Natura - Ciclo 07,Natura,7
+127761,Base Matte Powder 23F,Una,Maquiagem,Maquiagem,20g,,129.9,,,,False,75,bottom-right,Natura - Ciclo 07,Natura,7
+127760,Base Matte Powder 25Q,Una,Maquiagem,Maquiagem,20g,,129.9,,,,False,75,bottom-right,Natura - Ciclo 07,Natura,7
+127763,Base Matte Powder 29N,Una,Maquiagem,Maquiagem,20g,,129.9,,,,False,75,bottom-right,Natura - Ciclo 07,Natura,7
+127772,Base Matte Powder 31N,Una,Maquiagem,Maquiagem,20g,,129.9,,,,False,75,bottom-right,Natura - Ciclo 07,Natura,7
+127776,Base Matte Powder 32Q,Una,Maquiagem,Maquiagem,20g,,129.9,,,,False,75,bottom-right,Natura - Ciclo 07,Natura,7
+127777,Base Matte Powder 35Q,Una,Maquiagem,Maquiagem,20g,,129.9,,,,False,75,bottom-right,Natura - Ciclo 07,Natura,7
+127757,Base Matte Powder 37Q,Una,Maquiagem,Maquiagem,20g,,129.9,,,,False,75,bottom-right,Natura - Ciclo 07,Natura,7
+127762,Base Matte Powder 40Q,Una,Maquiagem,Maquiagem,20g,,129.9,,,,False,75,bottom-right,Natura - Ciclo 07,Natura,7
+127764,Base Matte Powder 43N,Una,Maquiagem,Maquiagem,20g,,129.9,,,,False,75,bottom-right,Natura - Ciclo 07,Natura,7
+148471,Batom líquido ultra care 24h nude 1-C,UNA,Maquiagem,Maquiagem,7ml,,45.9,0.0,,,True,76,top-left,Natura - Ciclo 07,Natura,7
+148472,Batom líquido ultra care 24h rosa 2-C,UNA,Maquiagem,Maquiagem,7ml,,45.9,0.0,,,True,76,top-left,Natura - Ciclo 07,Natura,7
+148470,Batom líquido ultra care 24h vermelho 2-C,UNA,Maquiagem,Maquiagem,7ml,,45.9,0.0,,,True,76,top-left,Natura - Ciclo 07,Natura,7
+148476,Batom líquido ultra care 24h vermelho 4-C,UNA,Maquiagem,Maquiagem,7ml,,45.9,0.0,,,True,76,top-left,Natura - Ciclo 07,Natura,7
+148473,Batom líquido ultra care 24h vinho 8-C,UNA,Maquiagem,Maquiagem,7ml,,45.9,0.0,,,True,76,top-left,Natura - Ciclo 07,Natura,7
+148474,Batom líquido ultra care 24h marrom 10-C,UNA,Maquiagem,Maquiagem,7ml,,45.9,0.0,,,True,76,top-left,Natura - Ciclo 07,Natura,7
+92566,Gloss labial FPS 15 rosa 101,UNA,Maquiagem,Maquiagem,8ml,,64.9,0.0,,,True,76,center,Natura - Ciclo 07,Natura,7
+92603,Gloss labial FPS 15 boca 100,UNA,Maquiagem,Maquiagem,8ml,,64.9,0.0,,,True,76,center,Natura - Ciclo 07,Natura,7
+92549,Gloss labial FPS 15 pérola 100,UNA,Maquiagem,Maquiagem,8ml,,64.9,0.0,,,True,76,center,Natura - Ciclo 07,Natura,7
+95123,Gloss labial FPS 15 pink 100,UNA,Maquiagem,Maquiagem,8ml,,64.9,0.0,,,True,76,center,Natura - Ciclo 07,Natura,7
+92604,Gloss labial FPS 15 vermelho 100,UNA,Maquiagem,Maquiagem,8ml,,64.9,0.0,,,True,76,center,Natura - Ciclo 07,Natura,7
+92573,Lápis PRO labial rouge,UNA,Maquiagem,Maquiagem,1.14g,,49.9,0.0,,,True,76,bottom-left,Natura - Ciclo 07,Natura,7
+92567,Lápis PRO labial rosê,UNA,Maquiagem,Maquiagem,1.14g,,49.9,0.0,,,True,76,bottom-left,Natura - Ciclo 07,Natura,7
+92551,Lápis PRO labial nude,UNA,Maquiagem,Maquiagem,1.14g,,49.9,0.0,,,True,76,bottom-left,Natura - Ciclo 07,Natura,7
+17276,Batom extremo conforto FPS 25 una nº 2,UNA,Maquiagem,Maquiagem,3.8g,,49.9,0.0,,,True,76,bottom-right,Natura - Ciclo 07,Natura,7
+97701,Batom extremo conforto FPS 25 coral 3-C,UNA,Maquiagem,Maquiagem,3.8g,,49.9,0.0,,,True,76,bottom-right,Natura - Ciclo 07,Natura,7
+17275,Batom extremo conforto FPS 25 laranja 8-C,UNA,Maquiagem,Maquiagem,3.8g,,49.9,0.0,,,True,76,bottom-right,Natura - Ciclo 07,Natura,7
+92520,Batom extremo conforto FPS 25 rosê 4-C,UNA,Maquiagem,Maquiagem,3.8g,,49.9,0.0,,,True,76,bottom-right,Natura - Ciclo 07,Natura,7
+92526,Batom extremo conforto FPS 25 nude 10-C,UNA,Maquiagem,Maquiagem,3.8g,,49.9,0.0,,,True,76,bottom-right,Natura - Ciclo 07,Natura,7
+08297,Batom extremo conforto FPS 25 vermelho 4-C,UNA,Maquiagem,Maquiagem,3.8g,,49.9,0.0,,,True,76,bottom-right,Natura - Ciclo 07,Natura,7
+27251,Batom extremo conforto FPS 25 marrom 8-C,UNA,Maquiagem,Maquiagem,3.8g,,49.9,0.0,,,True,76,bottom-right,Natura - Ciclo 07,Natura,7
+93505,Batom extremo conforto FPS 25 violeta 6-C,UNA,Maquiagem,Maquiagem,3.8g,,49.9,0.0,,,True,76,bottom-right,Natura - Ciclo 07,Natura,7
+92536,Batom extremo conforto FPS 25 nude 2-C,UNA,Maquiagem,Maquiagem,3.8g,,49.9,0.0,,,True,76,bottom-right,Natura - Ciclo 07,Natura,7
+92529,Batom CC hidratante FPS 25 rouge 8-C,UNA,Maquiagem,Maquiagem,3.8g,,59.9,0.0,,,True,76,bottom-left,Natura - Ciclo 07,Natura,7
+76643,Batom CC hidratante FPS 25 rouge,UNA,Maquiagem,Maquiagem,3.8g,,59.9,0.0,,,True,76,bottom-left,Natura - Ciclo 07,Natura,7
+54382,Batom matte intransferível rosê 2-M,Una,Maquiagem,Maquiagem,8 ml,,64.9,49.9,15.0,23.11,True,77,top-right,Natura - Ciclo 07,Natura,7
+54403,Batom matte intransferível nude 2-M,Una,Maquiagem,Maquiagem,8 ml,,64.9,49.9,15.0,23.11,True,77,top-right,Natura - Ciclo 07,Natura,7
+54378,Batom matte intransferível rouge 6-M,Una,Maquiagem,Maquiagem,8 ml,,64.9,49.9,15.0,23.11,True,77,center,Natura - Ciclo 07,Natura,7
+107323,Batom matte intransferível rosê 1-M,Una,Maquiagem,Maquiagem,8 ml,,64.9,49.9,15.0,23.11,True,77,center,Natura - Ciclo 07,Natura,7
+107327,Batom matte intransferível laranja 8-M,Una,Maquiagem,Maquiagem,8 ml,,64.9,49.9,15.0,23.11,True,77,center,Natura - Ciclo 07,Natura,7
+54406,Batom matte intransferível nude 6-M,Una,Maquiagem,Maquiagem,8 ml,,64.9,49.9,15.0,23.11,True,77,center,Natura - Ciclo 07,Natura,7
+107326,Batom matte intransferível marrom 10-M,Una,Maquiagem,Maquiagem,8 ml,,64.9,49.9,15.0,23.11,True,77,bottom-right,Natura - Ciclo 07,Natura,7
+107325,Batom matte intransferível fúcsia 4-M,Una,Maquiagem,Maquiagem,8 ml,,64.9,49.9,15.0,23.11,True,77,bottom-right,Natura - Ciclo 07,Natura,7
+107324,Batom matte intransferível vermelho 2-M,Una,Maquiagem,Maquiagem,8 ml,,64.9,49.9,15.0,23.11,True,77,bottom-right,Natura - Ciclo 07,Natura,7
+None,Presente Natura Una Senses e Batom Líquido Lipstain,Natura Una,"Perfumaria, Maquiagem",Perfumaria,"Deo parfum 75ml, Batom líquido 3g",,372.8,229.9,142.9,38.33,True,78,top-left,Natura - Ciclo 07,Natura,7
+None,Presente Natura Una Look Lipstain,Natura Una,Maquiagem,Maquiagem,"Máscara para cílios 8ml, Lápis retrátil 280mg, Batom líquido 3g",,202.7,149.9,52.8,26.05,True,78,bottom-left,Natura - Ciclo 07,Natura,7
+92536,Batom CC hidratante FPS 25 Nude 2-C,Una,Maquiagem,Maquiagem,"3,8g",,59.9,59.9,0.0,0.0,False,79,top-left,Natura - Ciclo 07,Natura,7
+92526,Batom CC hidratante FPS 25 Nude 10-C,Una,Maquiagem,Maquiagem,"3,8g",,59.9,59.9,0.0,0.0,False,79,top-right,Natura - Ciclo 07,Natura,7
+167331,Batom matte intransferível Nude 2-C,Una,Maquiagem,Maquiagem,8ml,,64.9,64.9,0.0,0.0,False,79,center,Natura - Ciclo 07,Natura,7
+167329,Batom matte intransferível Nude 2-C Intenso,Una,Maquiagem,Maquiagem,8ml,,64.9,64.9,0.0,0.0,False,79,center,Natura - Ciclo 07,Natura,7
+167324,Gloss labial FPS 15 Nude 2-C,Una,Maquiagem,Maquiagem,8ml,,64.9,64.9,0.0,0.0,False,79,bottom-left,Natura - Ciclo 07,Natura,7
+167330,Gloss labial FPS 15 Nude 2-C Intenso,Una,Maquiagem,Maquiagem,8ml,,64.9,64.9,0.0,0.0,False,79,bottom-left,Natura - Ciclo 07,Natura,7
+167322,Batom cristal Nude 2-C,Una,Maquiagem,Maquiagem,8ml,,64.9,64.9,0.0,0.0,False,79,bottom-right,Natura - Ciclo 07,Natura,7
+167327,Batom cristal Nude 2-C Intenso,Una,Maquiagem,Maquiagem,8ml,,64.9,64.9,0.0,0.0,False,79,bottom-right,Natura - Ciclo 07,Natura,7
+146476,Caneta delineadora para olhos cor Amarelo Suave,Una,Maquiagem,Maquiagem,1ml,,72.9,,,,False,80,top-left,Natura - Ciclo 07,Natura,7
+138467,Caneta delineadora para olhos cor Laranja Iluminado,Una,Maquiagem,Maquiagem,1ml,,72.9,,,,False,80,top-left,Natura - Ciclo 07,Natura,7
+138464,Caneta delineadora para olhos cor Vermelho Paixão,Una,Maquiagem,Maquiagem,1ml,,72.9,,,,False,80,top-left,Natura - Ciclo 07,Natura,7
+146475,Caneta delineadora para olhos cor Verde Plenitude,Una,Maquiagem,Maquiagem,1ml,,72.9,,,,False,80,top-left,Natura - Ciclo 07,Natura,7
+138466,Caneta delineadora para olhos cor Azul Oceano,Una,Maquiagem,Maquiagem,1ml,,72.9,,,,False,80,top-left,Natura - Ciclo 07,Natura,7
+146478,Caneta delineadora para olhos cor Marrom Conforto,Una,Maquiagem,Maquiagem,1ml,,72.9,,,,False,80,top-left,Natura - Ciclo 07,Natura,7
+27703,Lápis retrátil para olhos cor Marrom,Una,Maquiagem,Maquiagem,280 mg,,62.9,,,,False,80,top-center,Natura - Ciclo 07,Natura,7
+27371,Lápis retrátil para olhos cor Preto,Una,Maquiagem,Maquiagem,280 mg,,62.9,,,,False,80,top-center,Natura - Ciclo 07,Natura,7
+70723,Maxxi palette de sombras 12 tons Intensa,Una,Maquiagem,Maquiagem,11.28 g,,189.99,,,,False,80,top-right,Natura - Ciclo 07,Natura,7
+70722,Maxxi palette de sombras 12 tons Nude,Una,Maquiagem,Maquiagem,11.28 g,,189.99,,,,False,80,top-right,Natura - Ciclo 07,Natura,7
+106122,Máscara para cílios Alongamento Infinito à Prova D'água,Una,Maquiagem,Maquiagem,8ml,,85.9,,,,False,80,center-left,Natura - Ciclo 07,Natura,7
+106120,Máscara para cílios Volume Magnífico Lavável,Una,Maquiagem,Maquiagem,8ml,,85.9,,,,False,80,center,Natura - Ciclo 07,Natura,7
+106121,Máscara para cílios Volume Magnífico à Prova D'água,Una,Maquiagem,Maquiagem,8ml,,85.9,,,,False,80,center-right,Natura - Ciclo 07,Natura,7
+106124,Máscara para cílios Secret,Una,Maquiagem,Maquiagem,8ml,,109.9,,,,False,80,bottom-left,Natura - Ciclo 07,Natura,7
+106123,Máscara para cílios 2 em 1,Una,Maquiagem,Maquiagem,10ml,,99.9,,,,False,80,bottom-center,Natura - Ciclo 07,Natura,7
+34262,Caneta delineadora ao seu olhar,Una,Maquiagem,Maquiagem,1ml,,72.9,,,,False,80,bottom-right,Natura - Ciclo 07,Natura,7
+140742,Sérum para sobrancelhas extremific,Una,Maquiagem,Maquiagem,4g,,119.9,,,,False,80,bottom-left,Natura - Ciclo 07,Natura,7
+17043,Caneta delineadora de sobrancelhas cor Castanho,Una,Maquiagem,Maquiagem,1.1ml,,72.9,,,,False,80,bottom-center,Natura - Ciclo 07,Natura,7
+17042,Caneta delineadora de sobrancelhas cor Castanho-Claro,Una,Maquiagem,Maquiagem,1.1ml,,72.9,,,,False,80,bottom-center,Natura - Ciclo 07,Natura,7
+70720,Lápis kajal para olhos cor Preto,Una,Maquiagem,Maquiagem,1.14 g,,64.9,,,,False,80,bottom-right,Natura - Ciclo 07,Natura,7
+70721,Lápis kajal para olhos cor Marrom,Una,Maquiagem,Maquiagem,1.14 g,,64.9,,,,False,80,bottom-right,Natura - Ciclo 07,Natura,7
+95757,Delineador matte peel off preto,Una,Maquiagem,Maquiagem,3ml,,67.9,53.9,14.0,20.62,True,81,top-right,Natura - Ciclo 07,Natura,7
+121370,Sombra líquida fix Marrom Matte,Una,Maquiagem,Maquiagem,4g,,79.9,,,,False,81,bottom-left,Natura - Ciclo 07,Natura,7
+121367,Sombra líquida fix Lilás Matte,Una,Maquiagem,Maquiagem,4g,,79.9,,,,False,81,bottom-left,Natura - Ciclo 07,Natura,7
+137967,Sombra líquida fix Verde Metálico,Una,Maquiagem,Maquiagem,4g,,79.9,,,,False,81,bottom-left,Natura - Ciclo 07,Natura,7
+121341,Sombra líquida fix Cobre Metálico,Una,Maquiagem,Maquiagem,4g,,79.9,,,,False,81,bottom-left,Natura - Ciclo 07,Natura,7
+137968,Sombra líquida fix Azul Metálico,Una,Maquiagem,Maquiagem,4g,,79.9,,,,False,81,bottom-left,Natura - Ciclo 07,Natura,7
+121372,Sombra líquida fix Marrom Metálico,Una,Maquiagem,Maquiagem,4g,,79.9,,,,False,81,bottom-left,Natura - Ciclo 07,Natura,7
+124319,Estojo refilável Studio Palette,Una,Maquiagem,Maquiagem,,,54.9,,,,False,81,bottom-center,Natura - Ciclo 07,Natura,7
+106135,REFIL Studio palette Roxo Glam Metálico,Una,Maquiagem,Maquiagem,2g,,32.9,,,,False,81,bottom-right,Natura - Ciclo 07,Natura,7
+106134,REFIL Studio palette Azul Glam Metálico,Una,Maquiagem,Maquiagem,2g,,32.9,,,,False,81,bottom-right,Natura - Ciclo 07,Natura,7
+106138,REFIL Studio palette Prata Glam Sparkling,Una,Maquiagem,Maquiagem,2g,,32.9,,,,False,81,bottom-right,Natura - Ciclo 07,Natura,7
+106137,REFIL Studio palette Dourado Glambronze Sparkling,Una,Maquiagem,Maquiagem,2g,,32.9,,,,False,81,bottom-right,Natura - Ciclo 07,Natura,7
+106126,REFIL Studio palette Ouro Glow,Una,Maquiagem,Maquiagem,2g,,32.9,,,,False,81,bottom-right,Natura - Ciclo 07,Natura,7
+106125,REFIL Studio palette Rosê Glow,Una,Maquiagem,Maquiagem,2g,,32.9,,,,False,81,bottom-right,Natura - Ciclo 07,Natura,7
+106139,REFIL Studio palette Verde Jade Matte,Una,Maquiagem,Maquiagem,2g,,32.9,,,,False,81,bottom-right,Natura - Ciclo 07,Natura,7
+106129,REFIL Studio palette Rosa Blush Matte,Una,Maquiagem,Maquiagem,2g,,32.9,,,,False,81,bottom-right,Natura - Ciclo 07,Natura,7
+106136,REFIL Studio palette Mostarda Matte,Una,Maquiagem,Maquiagem,2g,,32.9,,,,False,81,bottom-right,Natura - Ciclo 07,Natura,7
+106132,REFIL Studio palette Preto Matte,Una,Maquiagem,Maquiagem,2g,,32.9,,,,False,81,bottom-right,Natura - Ciclo 07,Natura,7
+106131,REFIL Studio palette Marsala Matte,Una,Maquiagem,Maquiagem,2g,,32.9,,,,False,81,bottom-right,Natura - Ciclo 07,Natura,7
+106130,REFIL Studio palette Marrom-claro Matte,Una,Maquiagem,Maquiagem,2g,,32.9,,,,False,81,bottom-right,Natura - Ciclo 07,Natura,7
+106128,REFIL Studio palette Marrom Profundo Matte,Una,Maquiagem,Maquiagem,2g,,32.9,,,,False,81,bottom-right,Natura - Ciclo 07,Natura,7
+168350,Sombra stick pêrola cintilante Una Artisan,Una,Maquiagem,Maquiagem,1.4g,,65.9,65.9,0.0,0.0,False,82,top-left,Natura - Ciclo 07,Natura,7
+168349,Sombra stick roxo cintilante Una Artisan,Una,Maquiagem,Maquiagem,1.4g,,65.9,65.9,0.0,0.0,False,82,top-left,Natura - Ciclo 07,Natura,7
+168352,Sombra stick dourado cintilante Una Artisan,Una,Maquiagem,Maquiagem,1.4g,,65.9,65.9,0.0,0.0,False,82,top-left,Natura - Ciclo 07,Natura,7
+170503,Lip & blush stick coral Una Artisan,Una,Maquiagem,Maquiagem,6g,,79.9,79.9,0.0,0.0,False,82,top-right,Natura - Ciclo 07,Natura,7
+170504,Lip & blush stick terracota Una Artisan,Una,Maquiagem,Maquiagem,6g,,79.9,79.9,0.0,0.0,False,82,top-right,Natura - Ciclo 07,Natura,7
+109002,Pincel PRO base cremosa,Una,Maquiagem,Maquiagem,,,61.9,61.9,0.0,0.0,False,82,bottom-left,Natura - Ciclo 07,Natura,7
+105714,Pincel PRO corretivo,Una,Maquiagem,Maquiagem,,,49.9,49.9,0.0,0.0,False,82,bottom-right,Natura - Ciclo 07,Natura,7
+105713,Pincel PRO iluminador,Una,Maquiagem,Maquiagem,,,47.9,47.9,0.0,0.0,False,82,bottom-left,Natura - Ciclo 07,Natura,7
+55105,Pincel PRO pó compacto,Una,Maquiagem,Maquiagem,,,71.9,71.9,0.0,0.0,False,82,bottom-right,Natura - Ciclo 07,Natura,7
+105717,Pincel PRO sobrancelhas,Una,Maquiagem,Maquiagem,,,29.9,29.9,0.0,0.0,False,82,bottom-right,Natura - Ciclo 07,Natura,7
+58406,Pincel PRO duo fibras,Una,Maquiagem,Maquiagem,,,66.9,66.9,0.0,0.0,False,82,bottom-left,Natura - Ciclo 07,Natura,7
+55100,Pincel PRO blush,Una,Maquiagem,Maquiagem,,,61.9,61.9,0.0,0.0,False,82,bottom-right,Natura - Ciclo 07,Natura,7
+105715,Pincel PRO esfumador,Una,Maquiagem,Maquiagem,,,29.9,29.9,0.0,0.0,False,82,bottom-right,Natura - Ciclo 07,Natura,7
+105716,Pincel PRO precisão,Una,Maquiagem,Maquiagem,,,30.9,30.9,0.0,0.0,False,82,bottom-left,Natura - Ciclo 07,Natura,7
+55104,Pincel PRO base líquida,Una,Maquiagem,Maquiagem,,,59.9,59.9,0.0,0.0,False,82,bottom-right,Natura - Ciclo 07,Natura,7
+55107,Pincel PRO lábios,Una,Maquiagem,Maquiagem,,,30.9,30.9,0.0,0.0,False,82,bottom-right,Natura - Ciclo 07,Natura,7
+169814,Blush pérolas bronzeadoras,Una,Maquiagem,Maquiagem,24g,,119.9,,,,False,83,top-right,Natura - Ciclo 07,Natura,7
+168348,Batom extremo conforto FPS 25 Roxo 8-C,Una,Maquiagem,Maquiagem,"3,8g",,49.9,,,,False,83,top-right,Natura - Ciclo 07,Natura,7
+168346,Batom extremo conforto FPS 25 Rosa 2-C,Una,Maquiagem,Maquiagem,"3,8g",,49.9,,,,False,83,top-right,Natura - Ciclo 07,Natura,7
+168347,Batom extremo conforto FPS 25 Laranja nº 1,Una,Maquiagem,Maquiagem,"3,8g",,49.9,,,,False,83,top-right,Natura - Ciclo 07,Natura,7
+15826,Top coat 3D gel²,Una,Unhas,Unhas,8 ml,,33.9,,,,False,83,bottom-left,Natura - Ciclo 07,Natura,7
+15553,Esmalte 3D gel² compasso 750,Una,Unhas,Unhas,8 ml,,31.9,,,,False,83,center,Natura - Ciclo 07,Natura,7
+109477,Esmalte 3D gel² porcelana 910,Una,Unhas,Unhas,8 ml,,31.9,,,,False,83,center,Natura - Ciclo 07,Natura,7
+15820,Esmalte 3D gel² macramê 920,Una,Unhas,Unhas,8 ml,,31.9,,,,False,83,center,Natura - Ciclo 07,Natura,7
+109478,Esmalte 3D gel² marfim 935,Una,Unhas,Unhas,8 ml,,31.9,,,,False,83,center,Natura - Ciclo 07,Natura,7
+109479,Esmalte 3D gel² terracota 960,Una,Unhas,Unhas,8 ml,,31.9,,,,False,83,center,Natura - Ciclo 07,Natura,7
+15817,Esmalte 3D gel² poesia 760,Una,Unhas,Unhas,8 ml,,31.9,,,,False,83,center,Natura - Ciclo 07,Natura,7
+15823,Esmalte 3D gel² collage 100,Una,Unhas,Unhas,8 ml,,31.9,,,,False,83,center,Natura - Ciclo 07,Natura,7
+15822,Esmalte 3D gel² origami 110,Una,Unhas,Unhas,8 ml,,31.9,,,,False,83,center,Natura - Ciclo 07,Natura,7
+15352,Esmalte 3D gel² contraponto 630,Una,Unhas,Unhas,8 ml,,31.9,,,,False,83,center,Natura - Ciclo 07,Natura,7
+15815,Esmalte 3D gel² una nº 2,Una,Unhas,Unhas,8 ml,,31.9,,,,False,83,center,Natura - Ciclo 07,Natura,7
+15821,Esmalte 3D gel² mosaico 665,Una,Unhas,Unhas,8 ml,,31.9,,,,False,83,center,Natura - Ciclo 07,Natura,7
+15825,Base primer 3D gel²,Una,Unhas,Unhas,8 ml,,31.9,,,,False,83,bottom-left,Natura - Ciclo 07,Natura,7
+109481,Sérum para unhas e cutículas,Una,Unhas,Unhas,10 ml,,59.9,,,,False,83,bottom-right,Natura - Ciclo 07,Natura,7
+107359,Batom Color Hidra Rosa 204,Natura Faces,Maquiagem,Maquiagem,3.5g,,29.9,21.9,8.0,26.76,True,85,center,Natura - Ciclo 07,Natura,7
+04960,Batom Color Hidra Vermelho 120,Natura Faces,Maquiagem,Maquiagem,3.5g,,29.9,21.9,8.0,26.76,True,85,center,Natura - Ciclo 07,Natura,7
+06422,Batom Color Hidra Marrom 470,Natura Faces,Maquiagem,Maquiagem,3.5g,,29.9,21.9,8.0,26.76,True,85,center,Natura - Ciclo 07,Natura,7
+06319,Batom Color Hidra Vinho 540,Natura Faces,Maquiagem,Maquiagem,3.5g,,29.9,21.9,8.0,26.76,True,85,center,Natura - Ciclo 07,Natura,7
+04953,Batom Color Hidra Roxo 603,Natura Faces,Maquiagem,Maquiagem,3.5g,,29.9,21.9,8.0,26.76,True,85,center,Natura - Ciclo 07,Natura,7
+03379,Batom Color Hidra Coral 805,Natura Faces,Maquiagem,Maquiagem,3.5g,,29.9,21.9,8.0,26.76,True,85,center,Natura - Ciclo 07,Natura,7
+107364,Batom Color Hidra Rosa 280,Natura Faces,Maquiagem,Maquiagem,3.5g,,29.9,21.9,8.0,26.76,True,85,center,Natura - Ciclo 07,Natura,7
+06421,Batom Color Hidra Rosa 200,Natura Faces,Maquiagem,Maquiagem,3.5g,,29.9,21.9,8.0,26.76,True,85,center,Natura - Ciclo 07,Natura,7
+116204,Batom multimix cremoso cobre sunset,Generic,Maquiagem,Maquiagem,3.5g,,21.9,21.9,0.0,0.0,False,86,top-left,Natura - Ciclo 07,Natura,7
+116197,Batom multimix cremoso cobre mystic,Generic,Maquiagem,Maquiagem,3.5g,,21.9,21.9,0.0,0.0,False,86,top-left,Natura - Ciclo 07,Natura,7
+116195,Batom multimix cremoso rosa kiss me,Generic,Maquiagem,Maquiagem,3.5g,,21.9,21.9,0.0,0.0,False,86,top-left,Natura - Ciclo 07,Natura,7
+116203,Batom multimix cremoso pink paradise,Generic,Maquiagem,Maquiagem,3.5g,,21.9,21.9,0.0,0.0,False,86,top-left,Natura - Ciclo 07,Natura,7
+116200,Batom multimix cremoso bege fresh,Generic,Maquiagem,Maquiagem,3.5g,,21.9,21.9,0.0,0.0,False,86,top-left,Natura - Ciclo 07,Natura,7
+116188,Batom multimix cremoso vermelho hot,Generic,Maquiagem,Maquiagem,3.5g,,21.9,21.9,0.0,0.0,False,86,top-left,Natura - Ciclo 07,Natura,7
+114984,Batom multimix cremoso coral fun,Generic,Maquiagem,Maquiagem,3.5g,,21.9,21.9,0.0,0.0,False,86,top-left,Natura - Ciclo 07,Natura,7
+116193,Batom multimix cremoso brown mystic,Generic,Maquiagem,Maquiagem,3.5g,,21.9,21.9,0.0,0.0,False,86,top-left,Natura - Ciclo 07,Natura,7
+116199,Batom multimix cremoso vinho rocks,Generic,Maquiagem,Maquiagem,3.5g,,21.9,21.9,0.0,0.0,False,86,top-left,Natura - Ciclo 07,Natura,7
+116201,Batom multimix cremoso hey honey,Generic,Maquiagem,Maquiagem,3.5g,,21.9,21.9,0.0,0.0,False,86,top-left,Natura - Ciclo 07,Natura,7
+09619,Lápis para lábios color & contour rosa,Generic,Maquiagem,Maquiagem,1.4g,,34.9,34.9,0.0,0.0,False,86,mid-left,Natura - Ciclo 07,Natura,7
+09583,Lápis para lábios color & contour vinho,Generic,Maquiagem,Maquiagem,1.4g,,34.9,34.9,0.0,0.0,False,86,mid-left,Natura - Ciclo 07,Natura,7
+09521,Lápis para lábios color & contour marrom,Generic,Maquiagem,Maquiagem,1.4g,,34.9,34.9,0.0,0.0,False,86,mid-left,Natura - Ciclo 07,Natura,7
+09586,Lápis para lábios color & contour vermelho,Generic,Maquiagem,Maquiagem,1.4g,,34.9,34.9,0.0,0.0,False,86,mid-left,Natura - Ciclo 07,Natura,7
+118918,Batom lip tint cintilante on,Faces,Maquiagem,Maquiagem,3.9ml,,24.9,24.9,0.0,0.0,False,86,top-right,Natura - Ciclo 07,Natura,7
+123024,Batom lip tint pink play,Faces,Maquiagem,Maquiagem,3.9ml,,24.9,24.9,0.0,0.0,False,86,top-right,Natura - Ciclo 07,Natura,7
+118445,Batom lip tint vermelho start,Faces,Maquiagem,Maquiagem,3.9ml,,24.9,24.9,0.0,0.0,False,86,top-right,Natura - Ciclo 07,Natura,7
+123025,Batom lip tint roxo go,Faces,Maquiagem,Maquiagem,3.9ml,,24.9,24.9,0.0,0.0,False,86,top-right,Natura - Ciclo 07,Natura,7
+172413,Batom líquido super brilho rosê glam,Faces,Maquiagem,Maquiagem,3.9ml,,34.9,34.9,0.0,0.0,False,86,top-right,Natura - Ciclo 07,Natura,7
+172416,Batom líquido super brilho vermelho love,Faces,Maquiagem,Maquiagem,3.9ml,,34.9,34.9,0.0,0.0,False,86,top-right,Natura - Ciclo 07,Natura,7
+172417,Batom líquido super brilho rosa bang,Faces,Maquiagem,Maquiagem,3.9ml,,34.9,34.9,0.0,0.0,False,86,top-right,Natura - Ciclo 07,Natura,7
+172414,Batom líquido super brilho roxo life,Faces,Maquiagem,Maquiagem,3.9ml,,34.9,34.9,0.0,0.0,False,86,top-right,Natura - Ciclo 07,Natura,7
+06606,Batom color tint FPS 8 laranja 714,Faces,Maquiagem,Maquiagem,3.5g,,31.9,31.9,0.0,0.0,False,86,center-left,Natura - Ciclo 07,Natura,7
+06590,Batom color tint FPS 8 coral 808,Faces,Maquiagem,Maquiagem,3.5g,,31.9,31.9,0.0,0.0,False,86,center-left,Natura - Ciclo 07,Natura,7
+06589,Batom color tint FPS 8 pink 320,Faces,Maquiagem,Maquiagem,3.5g,,31.9,31.9,0.0,0.0,False,86,center-left,Natura - Ciclo 07,Natura,7
+10162,Batom color tint FPS 8 rosa 210,Faces,Maquiagem,Maquiagem,3.5g,,31.9,31.9,0.0,0.0,False,86,center-left,Natura - Ciclo 07,Natura,7
+06587,Batom color tint FPS 8 rosa 225,Faces,Maquiagem,Maquiagem,3.5g,,31.9,31.9,0.0,0.0,False,86,center-left,Natura - Ciclo 07,Natura,7
+06586,Batom color tint FPS 8 vinho 532,Faces,Maquiagem,Maquiagem,3.5g,,31.9,31.9,0.0,0.0,False,86,center-left,Natura - Ciclo 07,Natura,7
+10161,Batom color tint FPS 8 roxo 612,Faces,Maquiagem,Maquiagem,3.5g,,31.9,31.9,0.0,0.0,False,86,center-left,Natura - Ciclo 07,Natura,7
+06588,Batom color tint FPS 8 vermelho 117,Faces,Maquiagem,Maquiagem,3.5g,,31.9,31.9,0.0,0.0,False,86,center-left,Natura - Ciclo 07,Natura,7
+77989,Batom matte marsala,Generic,Maquiagem,Maquiagem,3.5g,,21.9,21.9,0.0,0.0,False,86,center,Natura - Ciclo 07,Natura,7
+90905,Batom matte nude,Generic,Maquiagem,Maquiagem,3.5g,,21.9,21.9,0.0,0.0,False,86,center,Natura - Ciclo 07,Natura,7
+87469,Batom matte naked nude,Generic,Maquiagem,Maquiagem,3.5g,,21.9,21.9,0.0,0.0,False,86,center,Natura - Ciclo 07,Natura,7
+93024,Batom matte vinho in love,Generic,Maquiagem,Maquiagem,3.5g,,21.9,21.9,0.0,0.0,False,86,center,Natura - Ciclo 07,Natura,7
+87468,Batom matte queen of red,Generic,Maquiagem,Maquiagem,3.5g,,21.9,21.9,0.0,0.0,False,86,center,Natura - Ciclo 07,Natura,7
+12179,Batom matte azul cyber,Generic,Maquiagem,Maquiagem,3.5g,,21.9,21.9,0.0,0.0,False,86,center,Natura - Ciclo 07,Natura,7
+77992,Batom matte cookie nude,Generic,Maquiagem,Maquiagem,3.5g,,21.9,21.9,0.0,0.0,False,86,center,Natura - Ciclo 07,Natura,7
+93028,Batom matte perfect pink,Generic,Maquiagem,Maquiagem,3.5g,,21.9,21.9,0.0,0.0,False,86,center,Natura - Ciclo 07,Natura,7
+93029,Batom matte red square,Generic,Maquiagem,Maquiagem,3.5g,,21.9,21.9,0.0,0.0,False,86,center,Natura - Ciclo 07,Natura,7
+67645,Batom matte rosa candy,Generic,Maquiagem,Maquiagem,3.5g,,21.9,21.9,0.0,0.0,False,86,center,Natura - Ciclo 07,Natura,7
+111398,Batom matte longa duração cereja likes,Faces,Maquiagem,Maquiagem,5.5ml,,45.9,45.9,0.0,0.0,False,86,center-right,Natura - Ciclo 07,Natura,7
+111428,Batom matte longa duração roxo digital,Faces,Maquiagem,Maquiagem,5.5ml,,45.9,45.9,0.0,0.0,False,86,center-right,Natura - Ciclo 07,Natura,7
+111425,Batom matte longa duração red love,Faces,Maquiagem,Maquiagem,5.5ml,,45.9,45.9,0.0,0.0,False,86,center-right,Natura - Ciclo 07,Natura,7
+111426,Batom matte longa duração marsala night,Faces,Maquiagem,Maquiagem,5.5ml,,45.9,45.9,0.0,0.0,False,86,center-right,Natura - Ciclo 07,Natura,7
+111466,Batom matte longa duração bege beauty,Faces,Maquiagem,Maquiagem,5.5ml,,45.9,45.9,0.0,0.0,False,86,center-right,Natura - Ciclo 07,Natura,7
+111424,Batom matte longa duração chocolate mousse,Faces,Maquiagem,Maquiagem,5.5ml,,45.9,45.9,0.0,0.0,False,86,center-right,Natura - Ciclo 07,Natura,7
+109151,Sombra mono azul joy,Faces,Maquiagem,Maquiagem,1.5g,,39.9,39.9,0.0,0.0,False,86,bottom-left,Natura - Ciclo 07,Natura,7
+109149,Sombra mono bright glam,Faces,Maquiagem,Maquiagem,1.5g,,39.9,39.9,0.0,0.0,False,86,bottom-left,Natura - Ciclo 07,Natura,7
+109154,Sombra mono laranja hype,Faces,Maquiagem,Maquiagem,1.5g,,39.9,39.9,0.0,0.0,False,86,bottom-left,Natura - Ciclo 07,Natura,7
+109153,Sombra mono vermelho party,Faces,Maquiagem,Maquiagem,1.5g,,39.9,39.9,0.0,0.0,False,86,bottom-left,Natura - Ciclo 07,Natura,7
+109152,Sombra mono rosa like,Faces,Maquiagem,Maquiagem,1.5g,,39.9,39.9,0.0,0.0,False,86,bottom-left,Natura - Ciclo 07,Natura,7
+109150,Sombra mono wild black,Faces,Maquiagem,Maquiagem,1.5g,,39.9,39.9,0.0,0.0,False,86,bottom-left,Natura - Ciclo 07,Natura,7
+09921,Lápis para olhos marrom,Faces,Maquiagem,Maquiagem,1.3g,,34.9,34.9,0.0,0.0,False,86,bottom-center,Natura - Ciclo 07,Natura,7
+09910,Lápis para olhos preto,Faces,Maquiagem,Maquiagem,1.3g,,34.9,34.9,0.0,0.0,False,86,bottom-center,Natura - Ciclo 07,Natura,7
+67661,Minilápis extrapreto para os olhos,Faces,Maquiagem,Maquiagem,800mg,,18.9,18.9,0.0,0.0,False,86,bottom-center,Natura - Ciclo 07,Natura,7
+120447,Máscara para sobrancelhas,Faces,Maquiagem,Maquiagem,4ml,,34.9,34.9,0.0,0.0,False,86,bottom-right,Natura - Ciclo 07,Natura,7
+67647,Máscara para olhos e sobrancelhas incolor,Faces,Maquiagem,Maquiagem,7ml,,29.9,29.9,0.0,0.0,False,86,bottom-right,Natura - Ciclo 07,Natura,7
+09833,Multimáscara Tint para Cílios à Prova D'Água,Faces,Maquiagem,Maquiagem,7ml,,52.9,38.9,14.0,26.47,True,87,top-right,Natura - Ciclo 07,Natura,7
+161146,Sacola de presente mini com laço,Natura,Acessórios,Acessórios,,,4.0,0.0,,,True,87,top-right,Natura - Ciclo 07,Natura,7
+86642,Máscara Volume Fever,Faces,Maquiagem,Maquiagem,7ml,,29.9,29.9,0.0,0.0,False,87,bottom-left,Natura - Ciclo 07,Natura,7
+67666,Máscara Megafantástica,Faces,Maquiagem,Maquiagem,7ml,,29.9,29.9,0.0,0.0,False,87,bottom-left,Natura - Ciclo 07,Natura,7
+110262,Máscara Volume Boost para Cílios,Faces,Maquiagem,Maquiagem,7ml,,49.9,49.9,0.0,0.0,False,87,bottom-right,Natura - Ciclo 07,Natura,7
+09832,Supermáscara Tint para Cílios,Faces,Maquiagem,Maquiagem,12ml,,52.9,52.9,0.0,0.0,False,87,bottom-left,Natura - Ciclo 07,Natura,7
+65830,Caneta Delineadora Preta,Faces,Maquiagem,Maquiagem,1ml,,39.9,39.9,0.0,0.0,False,87,bottom-left,Natura - Ciclo 07,Natura,7
+110261,Máscara Alongamento Pump para Cílios,Faces,Maquiagem,Maquiagem,7ml,,49.9,49.9,0.0,0.0,False,87,bottom-right,Natura - Ciclo 07,Natura,7
+128752,Bálsamo Demaquilante,FACES,Maquiagem,Maquiagem,45 g,,59.9,44.9,15.0,25.04,True,88,top-left,Natura - Ciclo 07,Natura,7
+16641,Esponja Color Blend,FACES,Maquiagem,Maquiagem,"L 4 x A 5,7 cm",,39.9,,,,False,88,bottom-left,Natura - Ciclo 07,Natura,7
+04741,Pó Compacto Translúcido,FACES,Maquiagem,Maquiagem,"5,5 g",,39.9,,,,False,88,bottom-left,Natura - Ciclo 07,Natura,7
+15045,Refil Pó Compacto Translúcido,FACES,Maquiagem,Maquiagem,,,30.9,,,,False,88,bottom-left,Natura - Ciclo 07,Natura,7
+101037,Duo Superbrilho Golden Rubi,FACES,Maquiagem,Maquiagem,"2,5 g",,39.9,,,,False,88,center,Natura - Ciclo 07,Natura,7
+101036,Duo Superbrilho Quartzo Rosa,FACES,Maquiagem,Maquiagem,"2,5 g",,39.9,,,,False,88,center,Natura - Ciclo 07,Natura,7
+116688,Corretivo Checkmatte 10N,FACES,Maquiagem,Maquiagem,10 g,,30.9,,,,False,88,bottom-left,Natura - Ciclo 07,Natura,7
+116689,Corretivo Checkmatte 15N,FACES,Maquiagem,Maquiagem,10 g,,30.9,,,,False,88,bottom-left,Natura - Ciclo 07,Natura,7
+116690,Corretivo Checkmatte 19N,FACES,Maquiagem,Maquiagem,10 g,,30.9,,,,False,88,bottom-left,Natura - Ciclo 07,Natura,7
+116691,Corretivo Checkmatte 21N,FACES,Maquiagem,Maquiagem,10 g,,30.9,,,,False,88,bottom-left,Natura - Ciclo 07,Natura,7
+116692,Corretivo Checkmatte 24N,FACES,Maquiagem,Maquiagem,10 g,,30.9,,,,False,88,bottom-left,Natura - Ciclo 07,Natura,7
+116693,Corretivo Checkmatte 27N,FACES,Maquiagem,Maquiagem,10 g,,30.9,,,,False,88,bottom-left,Natura - Ciclo 07,Natura,7
+116694,Corretivo Checkmatte 30N,FACES,Maquiagem,Maquiagem,10 g,,30.9,,,,False,88,bottom-left,Natura - Ciclo 07,Natura,7
+116695,Corretivo Checkmatte 32N,FACES,Maquiagem,Maquiagem,10 g,,30.9,,,,False,88,bottom-left,Natura - Ciclo 07,Natura,7
+116696,Corretivo Checkmatte 35N,FACES,Maquiagem,Maquiagem,10 g,,30.9,,,,False,88,bottom-left,Natura - Ciclo 07,Natura,7
+116697,Corretivo Checkmatte 37N,FACES,Maquiagem,Maquiagem,10 g,,30.9,,,,False,88,bottom-left,Natura - Ciclo 07,Natura,7
+116698,Corretivo Checkmatte 43N,FACES,Maquiagem,Maquiagem,10 g,,30.9,,,,False,88,bottom-left,Natura - Ciclo 07,Natura,7
+116699,Corretivo Checkmatte 46N,FACES,Maquiagem,Maquiagem,10 g,,30.9,,,,False,88,bottom-left,Natura - Ciclo 07,Natura,7
+09481,Blush Color Rosa 69,FACES,Maquiagem,Maquiagem,3 g,,35.9,,,,False,88,bottom-right,Natura - Ciclo 07,Natura,7
+09483,Blush Color Bronze 47,FACES,Maquiagem,Maquiagem,3 g,,35.9,,,,False,88,bottom-right,Natura - Ciclo 07,Natura,7
+09456,Blush Color Coral 85,FACES,Maquiagem,Maquiagem,3 g,,35.9,,,,False,88,bottom-right,Natura - Ciclo 07,Natura,7
+09432,Blush Color Vinho 28,FACES,Maquiagem,Maquiagem,3 g,,35.9,,,,False,88,bottom-right,Natura - Ciclo 07,Natura,7
+118910,Gel Booster Hidratante Facial,Faces,Hidratação,Corpo e Banho,35g,,59.9,32.9,27.0,45.08,True,89,top-center,Natura - Ciclo 07,Natura,7
+97636,Base líquida checkmatte FPS 8 - 10N,Faces,Maquiagem,Maquiagem,20ml,,30.9,0.0,,,True,89,center-right,Natura - Ciclo 07,Natura,7
+97637,Base líquida checkmatte FPS 8 - 12F,Faces,Maquiagem,Maquiagem,20ml,,30.9,0.0,,,True,89,center-right,Natura - Ciclo 07,Natura,7
+97638,Base líquida checkmatte FPS 8 - 15Q,Faces,Maquiagem,Maquiagem,20ml,,30.9,0.0,,,True,89,center-right,Natura - Ciclo 07,Natura,7
+97639,Base líquida checkmatte FPS 8 - 16F,Faces,Maquiagem,Maquiagem,20ml,,30.9,0.0,,,True,89,center-right,Natura - Ciclo 07,Natura,7
+97640,Base líquida checkmatte FPS 8 - 19N,Faces,Maquiagem,Maquiagem,20ml,,30.9,0.0,,,True,89,center-right,Natura - Ciclo 07,Natura,7
+97642,Base líquida checkmatte FPS 8 - 20N,Faces,Maquiagem,Maquiagem,20ml,,30.9,0.0,,,True,89,center-right,Natura - Ciclo 07,Natura,7
+97644,Base líquida checkmatte FPS 8 - 21Q,Faces,Maquiagem,Maquiagem,20ml,,30.9,0.0,,,True,89,center-right,Natura - Ciclo 07,Natura,7
+97646,Base líquida checkmatte FPS 8 - 23F,Faces,Maquiagem,Maquiagem,20ml,,30.9,0.0,,,True,89,center-right,Natura - Ciclo 07,Natura,7
+102864,Base líquida checkmatte FPS 8 - 24F,Faces,Maquiagem,Maquiagem,20ml,,30.9,0.0,,,True,89,center-right,Natura - Ciclo 07,Natura,7
+97648,Base líquida checkmatte FPS 8 - 25Q,Faces,Maquiagem,Maquiagem,20ml,,30.9,0.0,,,True,89,center-right,Natura - Ciclo 07,Natura,7
+97650,Base líquida checkmatte FPS 8 - 27N,Faces,Maquiagem,Maquiagem,20ml,,30.9,0.0,,,True,89,center-right,Natura - Ciclo 07,Natura,7
+102865,Base líquida checkmatte FPS 8 - 29N,Faces,Maquiagem,Maquiagem,20ml,,30.9,0.0,,,True,89,center-right,Natura - Ciclo 07,Natura,7
+102866,Base líquida checkmatte FPS 8 - 30F,Faces,Maquiagem,Maquiagem,20ml,,30.9,0.0,,,True,89,center-right,Natura - Ciclo 07,Natura,7
+102867,Base líquida checkmatte FPS 8 - 31N,Faces,Maquiagem,Maquiagem,20ml,,30.9,0.0,,,True,89,center-right,Natura - Ciclo 07,Natura,7
+102868,Base líquida checkmatte FPS 8 - 32Q,Faces,Maquiagem,Maquiagem,20ml,,30.9,0.0,,,True,89,center-right,Natura - Ciclo 07,Natura,7
+102869,Base líquida checkmatte FPS 8 - 33N,Faces,Maquiagem,Maquiagem,20ml,,30.9,0.0,,,True,89,center-right,Natura - Ciclo 07,Natura,7
+102870,Base líquida checkmatte FPS 8 - 35N,Faces,Maquiagem,Maquiagem,20ml,,30.9,0.0,,,True,89,center-right,Natura - Ciclo 07,Natura,7
+102871,Base líquida checkmatte FPS 8 - 35Q,Faces,Maquiagem,Maquiagem,20ml,,30.9,0.0,,,True,89,center-right,Natura - Ciclo 07,Natura,7
+102872,Base líquida checkmatte FPS 8 - 37Q,Faces,Maquiagem,Maquiagem,20ml,,30.9,0.0,,,True,89,center-right,Natura - Ciclo 07,Natura,7
+102873,Base líquida checkmatte FPS 8 - 40Q,Faces,Maquiagem,Maquiagem,20ml,,30.9,0.0,,,True,89,center-right,Natura - Ciclo 07,Natura,7
+104099,Base líquida checkmatte FPS 8 - 43N,Faces,Maquiagem,Maquiagem,20ml,,30.9,0.0,,,True,89,center-right,Natura - Ciclo 07,Natura,7
+104101,Base líquida checkmatte FPS 8 - 44N,Faces,Maquiagem,Maquiagem,20ml,,30.9,0.0,,,True,89,center-right,Natura - Ciclo 07,Natura,7
+104102,Base líquida checkmatte FPS 8 - 46Q,Faces,Maquiagem,Maquiagem,20ml,,30.9,0.0,,,True,89,center-right,Natura - Ciclo 07,Natura,7
+104100,Base líquida checkmatte FPS 8 - 48F,Faces,Maquiagem,Maquiagem,20ml,,30.9,0.0,,,True,89,center-right,Natura - Ciclo 07,Natura,7
+08847,Pó compacto matte - claro 20,Faces,Maquiagem,Maquiagem,6.5g,,63.9,,,,False,89,bottom-left,Natura - Ciclo 07,Natura,7
+08848,Pó compacto matte - claro 24,Faces,Maquiagem,Maquiagem,6.5g,,63.9,,,,False,89,bottom-left,Natura - Ciclo 07,Natura,7
+08882,Pó compacto matte - médio 22,Faces,Maquiagem,Maquiagem,6.5g,,63.9,,,,False,89,bottom-left,Natura - Ciclo 07,Natura,7
+08883,Pó compacto matte - médio 24,Faces,Maquiagem,Maquiagem,6.5g,,63.9,,,,False,89,bottom-left,Natura - Ciclo 07,Natura,7
+08884,Pó compacto matte - médio 26,Faces,Maquiagem,Maquiagem,6.5g,,63.9,,,,False,89,bottom-left,Natura - Ciclo 07,Natura,7
+08885,Pó compacto matte - castanho 20,Faces,Maquiagem,Maquiagem,6.5g,,63.9,,,,False,89,bottom-left,Natura - Ciclo 07,Natura,7
+08888,Pó compacto matte - castanho 22,Faces,Maquiagem,Maquiagem,6.5g,,63.9,,,,False,89,bottom-left,Natura - Ciclo 07,Natura,7
+08889,Pó compacto matte - escuro 20,Faces,Maquiagem,Maquiagem,6.5g,,63.9,,,,False,89,bottom-left,Natura - Ciclo 07,Natura,7
+08992,Pó compacto matte REFIL - claro 20,Faces,Maquiagem,Maquiagem,6.5g,,49.9,,,,False,89,bottom-left,Natura - Ciclo 07,Natura,7
+09009,Pó compacto matte REFIL - claro 24,Faces,Maquiagem,Maquiagem,6.5g,,49.9,,,,False,89,bottom-left,Natura - Ciclo 07,Natura,7
+09025,Pó compacto matte REFIL - médio 22,Faces,Maquiagem,Maquiagem,6.5g,,49.9,,,,False,89,bottom-left,Natura - Ciclo 07,Natura,7
+09045,Pó compacto matte REFIL - médio 24,Faces,Maquiagem,Maquiagem,6.5g,,49.9,,,,False,89,bottom-left,Natura - Ciclo 07,Natura,7
+09125,Pó compacto matte REFIL - médio 26,Faces,Maquiagem,Maquiagem,6.5g,,49.9,,,,False,89,bottom-left,Natura - Ciclo 07,Natura,7
+09149,Pó compacto matte REFIL - castanho 20,Faces,Maquiagem,Maquiagem,6.5g,,49.9,,,,False,89,bottom-left,Natura - Ciclo 07,Natura,7
+09304,Pó compacto matte REFIL - castanho 22,Faces,Maquiagem,Maquiagem,6.5g,,49.9,,,,False,89,bottom-left,Natura - Ciclo 07,Natura,7
+09431,Pó compacto matte REFIL - escuro 20,Faces,Maquiagem,Maquiagem,6.5g,,49.9,,,,False,89,bottom-left,Natura - Ciclo 07,Natura,7
+90175,Sabonete gel para o rosto,Skincare Line,Corpo e Banho,Corpo e Banho,120g,,39.9,39.9,0.0,0.0,False,90,top-left,Natura - Ciclo 07,Natura,7
+91820,Hidratante facial pele normal a seca,Skincare Line,Hidratação,Corpo e Banho,50ml,,47.9,47.9,0.0,0.0,False,90,top-left,Natura - Ciclo 07,Natura,7
+117126,Demaquilante líquido,Skincare Line,Corpo e Banho,Corpo e Banho,55ml,,34.9,34.9,0.0,0.0,False,90,center-left,Natura - Ciclo 07,Natura,7
+91821,Hidratante facial pele mista a oleosa,Skincare Line,Hidratação,Corpo e Banho,50ml,,49.9,49.9,0.0,0.0,False,90,center-left,Natura - Ciclo 07,Natura,7
+85003,Máscara de poros,Skincare Line,Tratamento,Corpo e Banho,50ml,,39.9,39.9,0.0,0.0,False,90,bottom-left,Natura - Ciclo 07,Natura,7
+105024,Máscara hidratante refresh,Skincare Line,Tratamento,Corpo e Banho,50ml,,35.9,35.9,0.0,0.0,False,90,bottom-left,Natura - Ciclo 07,Natura,7
+105026,Gel glitter,Faces,Maquiagem,Maquiagem,80g,,45.9,45.9,0.0,0.0,False,90,bottom-left,Natura - Ciclo 07,Natura,7
+157257,Gel glitter cristal,Faces,Maquiagem,Maquiagem,80g,,43.9,43.9,0.0,0.0,False,90,bottom-left,Natura - Ciclo 07,Natura,7
+163224,Esmalte Faces glitter azul,Faces,Maquiagem,Maquiagem,6ml,,21.9,21.9,0.0,0.0,False,90,bottom-right,Natura - Ciclo 07,Natura,7
+163222,Esmalte Faces glitter dourado,Faces,Maquiagem,Maquiagem,6ml,,21.9,21.9,0.0,0.0,False,90,bottom-right,Natura - Ciclo 07,Natura,7
+106545,Esmalte Faces Lilás Ciudad de México,Natura Faces,Maquiagem,Maquiagem,6ml,,20.9,14.6,6.3,30.14,True,91,center,Natura - Ciclo 07,Natura,7
+106551,Esmalte Faces Verde Canberra,Natura Faces,Maquiagem,Maquiagem,6ml,,20.9,14.6,6.3,30.14,True,91,center,Natura - Ciclo 07,Natura,7
+106547,Esmalte Faces Azul La Paz,Natura Faces,Maquiagem,Maquiagem,6ml,,20.9,14.6,6.3,30.14,True,91,center,Natura - Ciclo 07,Natura,7
+106533,Esmalte Faces Rosa Brasília,Natura Faces,Maquiagem,Maquiagem,6ml,,20.9,14.6,6.3,30.14,True,91,center,Natura - Ciclo 07,Natura,7
+106536,Esmalte Faces Rosa Quito,Natura Faces,Maquiagem,Maquiagem,6ml,,20.9,14.6,6.3,30.14,True,91,center,Natura - Ciclo 07,Natura,7
+106535,Esmalte Faces Pink Rio,Natura Faces,Maquiagem,Maquiagem,6ml,,20.9,14.6,6.3,30.14,True,91,center,Natura - Ciclo 07,Natura,7
+106534,Esmalte Faces Rosa Nude Buenos Aires,Natura Faces,Maquiagem,Maquiagem,6ml,,20.9,14.6,6.3,30.14,True,91,center,Natura - Ciclo 07,Natura,7
+106543,Esmalte Faces Vermelho Asunción,Natura Faces,Maquiagem,Maquiagem,6ml,,20.9,14.6,6.3,30.14,True,91,center,Natura - Ciclo 07,Natura,7
+106553,Esmalte Faces Marrom Nude SP,Natura Faces,Maquiagem,Maquiagem,6ml,,20.9,14.6,6.3,30.14,True,91,center,Natura - Ciclo 07,Natura,7
+106542,Esmalte Faces Rosa Montevideo,Natura Faces,Maquiagem,Maquiagem,6ml,,20.9,14.6,6.3,30.14,True,91,center,Natura - Ciclo 07,Natura,7
+106544,Esmalte Faces Lilás Caracas,Natura Faces,Maquiagem,Maquiagem,6ml,,20.9,14.6,6.3,30.14,True,91,center,Natura - Ciclo 07,Natura,7
+106554,Esmalte Faces Preto London,Natura Faces,Maquiagem,Maquiagem,6ml,,20.9,14.6,6.3,30.14,True,91,center,Natura - Ciclo 07,Natura,7
+135057,Triplo Esfoliante Peeling Antissinais,Natura Chronos Derma,Tratamento Facial,Corpo e Banho,50g,,78.0,58.0,20.0,25.64,True,92,top-right,Natura - Ciclo 07,Natura,7
+135060,Sabonete em espuma limpeza suave,Chronos Derma,Limpeza Facial,Skincare,150ml,,89.0,66.0,23.0,25.84,True,93,top-left,Natura - Ciclo 07,Natura,7
+134586,Sabonete em mousse limpeza intensiva,Chronos Derma,Limpeza Facial,Skincare,85g,,78.0,58.0,20.0,25.64,True,93,top-right,Natura - Ciclo 07,Natura,7
+69720,Sabonete em gel Limpeza purificante antioleosidade,Chronos Derma,Limpeza Facial,Skincare,130g,,78.0,58.0,20.0,25.64,True,93,bottom-right,Natura - Ciclo 07,Natura,7
+171365,Sabonete em Óleo Limpeza Demaquilante,Chronos,Demaquilantes,Skincare,125 ml,,78.0,,,,False,94,top-left,Natura - Ciclo 07,Natura,7
+133503,Água Micelar Demaquilante Suave,Chronos,Demaquilantes,Skincare,150 ml,,78.0,,,,False,94,top-right,Natura - Ciclo 07,Natura,7
+137976,Demaquilante Bifásico Intensivo,Chronos,Demaquilantes,Skincare,150 ml,,78.0,,,,False,94,top-right,Natura - Ciclo 07,Natura,7
+69725,Protetor Antioleosidade Redutor de Poros FPS 30 / FPUVA 10,Chronos,Proteção Solar Facial,Proteção Solar,50 ml,,99.0,,,,False,94,bottom-left,Natura - Ciclo 07,Natura,7
+134189,Multiprotetor Antissinais FPS 50 / FPUVA 18,Chronos,Proteção Solar Facial,Proteção Solar,50 ml,,105.0,,,,False,94,bottom-center,Natura - Ciclo 07,Natura,7
+89247,Protetor Multiclareador FPS 70 / FPUVA 25 Claro/Médio,Chronos,Proteção Solar Facial,Proteção Solar,50 ml,,116.0,,,,False,94,bottom-right,Natura - Ciclo 07,Natura,7
+69049,Protetor Multiclareador FPS 70 / FPUVA 25 Médio/Escuro,Chronos,Proteção Solar Facial,Proteção Solar,50 ml,,116.0,,,,False,94,bottom-right,Natura - Ciclo 07,Natura,7
+59373,Chronos Elixir Redutor de Rugas,Chronos,Tratamento Facial,Corpo e Banho,15ml,,189.0,141.0,48.0,25.4,True,95,center,Natura - Ciclo 07,Natura,7
+131456,Chronos sérum intensivo antioxidante,Chronos,Tratamento Facial,Corpo e Banho,15 ml,,179.0,134.0,45.0,25.14,True,96,center,Natura - Ciclo 07,Natura,7
+135043,Essência de tratamento revitalização e luminosidade,Chronos,Tratamento Facial,Corpo e Banho,100 ml,,129.0,,,,False,96,bottom-left,Natura - Ciclo 07,Natura,7
+127754,Sérum intensivo para bolsas e olheiras,Chronos,Tratamento Facial,Corpo e Banho,15 ml,,179.0,,,,False,96,bottom-left,Natura - Ciclo 07,Natura,7
+80060,Sérum intensivo multiclareador,Chronos,Tratamento Facial,Corpo e Banho,30 g,,189.0,,,,False,96,bottom-right,Natura - Ciclo 07,Natura,7
+96735,Chronos super sérum redutor de rugas,Chronos,Tratamento Facial,Corpo e Banho,30 ml,,235.0,,,,False,96,bottom-right,Natura - Ciclo 07,Natura,7
+108634,Chronos Sérum Preenchedor Biohidratante,Chronos,Hidratação,Corpo e Banho,30 ml,,189.0,141.0,48.0,25.4,True,97,top-center,Natura - Ciclo 07,Natura,7
+108636,Chronos Sérum Intensivo Lifting & Firmeza,Chronos,Firmeza,Outros,30 ml,,189.0,,,,False,97,bottom-left,Natura - Ciclo 07,Natura,7
+69723,Chronos Sérum Noturno Antioleosidade e Poros,Chronos,Controle de Oleosidade,Perfumaria,30 ml,,189.0,,,,False,97,bottom-right,Natura - Ciclo 07,Natura,7
+111332,Chronos Balm Redutor de Rugas para Olhos,Chronos,Olhos,Maquiagem,15 g,,109.0,,,,False,97,bottom-left,Natura - Ciclo 07,Natura,7
+91849,Chronos Acqua Biohidratante Renovador,Chronos,Hidratação,Corpo e Banho,40 g,,179.0,,,,False,97,bottom-right,Natura - Ciclo 07,Natura,7
+91819,REFIL Chronos Acqua Biohidratante Renovador,Chronos,Hidratação,Corpo e Banho,40 g,,144.0,,,,False,97,bottom-right,Natura - Ciclo 07,Natura,7
+134592,Gel Creme Antissinais Renovação e Prevenção 30+ Dia,Antissinais,Hidratação Facial,Corpo e Banho,40g,,153.0,153.0,0.0,0.0,False,98,bottom-left,Natura - Ciclo 07,Natura,7
+134593,Gel Creme Antissinais Renovação e Prevenção 30+ Noite,Antissinais,Hidratação Facial,Corpo e Banho,40g,,153.0,153.0,0.0,0.0,False,98,bottom-left,Natura - Ciclo 07,Natura,7
+134725,Gel Creme Antissinais Firmeza e Luminosidade 45+ Dia,Antissinais,Hidratação Facial,Corpo e Banho,40g,,153.0,153.0,0.0,0.0,False,98,center,Natura - Ciclo 07,Natura,7
+135032,Gel Creme Antissinais Firmeza e Luminosidade 45+ Noite,Antissinais,Hidratação Facial,Corpo e Banho,40g,,153.0,153.0,0.0,0.0,False,98,center,Natura - Ciclo 07,Natura,7
+134693,Creme Antissinais Preenchimento e Revitalização 60+ Dia,Antissinais,Hidratação Facial,Corpo e Banho,40g,,153.0,153.0,0.0,0.0,False,98,bottom-right,Natura - Ciclo 07,Natura,7
+135036,Creme Antissinais Preenchimento e Revitalização 60+ Noite,Antissinais,Hidratação Facial,Corpo e Banho,40g,,153.0,153.0,0.0,0.0,False,98,bottom-right,Natura - Ciclo 07,Natura,7
+134697,Creme Antissinais Restauração e Cuidado 70+ Dia,Chronos,Cuidados para o Rosto,Skincare,40g,,153.0,,,,False,99,bottom-left,Natura - Ciclo 07,Natura,7
+135027,Creme Antissinais Restauração e Cuidado 70+ Noite,Chronos,Cuidados para o Rosto,Skincare,40g,,153.0,,,,False,99,bottom-left,Natura - Ciclo 07,Natura,7
+134695,Creme Antissinais Fortalecimento e Nutrição 80+ Dia,Chronos,Cuidados para o Rosto,Skincare,40g,,153.0,,,,False,99,bottom-right,Natura - Ciclo 07,Natura,7
+135039,Creme Antissinais Fortalecimento e Nutrição 80+ Noite,Chronos,Cuidados para o Rosto,Skincare,40g,,153.0,,,,False,99,bottom-right,Natura - Ciclo 07,Natura,7
+195211,Kit Tododia Cereja Negra e Praliné com Refil,Tododia,Corpo e Banho,Corpo e Banho,2x 400ml,,126.8,79.8,47.0,37.07,True,103,center,Natura - Ciclo 07,Natura,7
+174614,Creme Desodorante Nutritivo para o Corpo Tododia Cereja Negra e Praliné,Tododia,Corpo e Banho,Corpo e Banho,400ml,,72.9,,,,False,103,bottom-right,Natura - Ciclo 07,Natura,7
+174595,Refil Creme Desodorante Nutritivo para o Corpo Tododia Cereja Negra e Praliné,Tododia,Corpo e Banho,Corpo e Banho,400ml,,53.9,,,,False,103,bottom-right,Natura - Ciclo 07,Natura,7
+99137,Creme desodorante nutritivo para o corpo cereja e avelã,Tododia,Hidratação,Corpo e Banho,400ml,,72.9,53.9,19.0,26.06,True,104,top-left,Natura - Ciclo 07,Natura,7
+100605,REFIL Creme desodorante nutritivo para o corpo cereja e avelã,Tododia,Hidratação,Corpo e Banho,400ml,,53.9,,,,False,104,top-left,Natura - Ciclo 07,Natura,7
+176406,Essência para cabelo cereja e avelã,Tododia,Cabelos,Cabelos,60ml,,49.9,41.9,8.0,16.03,True,104,top-right,Natura - Ciclo 07,Natura,7
+95843,Sabonete líquido em gel cereja e avelã,Tododia,Corpo e Banho,Corpo e Banho,290g/300ml,,48.9,,,,False,104,center-left,Natura - Ciclo 07,Natura,7
+18978,REFIL Sabonete líquido em gel cereja e avelã,Tododia,Corpo e Banho,Corpo e Banho,290g/300ml,,35.9,,,,False,104,center-left,Natura - Ciclo 07,Natura,7
+95937,Creme nutritivo para as mãos cereja e avelã,Tododia,Hidratação,Corpo e Banho,50ml,,34.9,,,,False,104,center,Natura - Ciclo 07,Natura,7
+18979,Creme nutritivo para os pés cereja e avelã,Tododia,Hidratação,Corpo e Banho,50ml,,34.9,,,,False,104,center-right,Natura - Ciclo 07,Natura,7
+21307,Óleo bifásico corporal cereja e avelã,Tododia,Hidratação,Corpo e Banho,120ml,,53.9,,,,False,104,bottom-left,Natura - Ciclo 07,Natura,7
+174922,Balm labial cor cereja,Tododia,Maquiagem,Maquiagem,2.7g,,35.9,,,,False,104,bottom-center,Natura - Ciclo 07,Natura,7
+174612,Creme amanteigado corporal perfumado cereja e avelã,Tododia,Hidratação,Corpo e Banho,200ml,,81.9,,,,False,104,bottom-right,Natura - Ciclo 07,Natura,7
+174618,Body splash desodorante colônia cereja negra e praliné,Natura Tododia,Perfumaria,Perfumaria,200 ml,,83.9,58.5,25.4,30.27,True,105,top-right,Natura - Ciclo 07,Natura,7
+174926,Óleo bifásico corporal cereja negra e praliné,Natura Tododia,Corpo e Banho,Corpo e Banho,120 ml,,53.9,39.9,14.0,25.97,True,105,bottom-right,Natura - Ciclo 07,Natura,7
+152290,REFIL Creme desodorante nutritivo energizante para o corpo 2 em 1 flor de gengibre e tangerina,Tododia Energia,Hidratação,Corpo e Banho,400ml,,53.9,39.9,14.0,25.97,True,106,top-left,Natura - Ciclo 07,Natura,7
+152300,Creme desodorante nutritivo energizante para o corpo 2 em 1 flor de gengibre e tangerina,Tododia Energia,Hidratação,Corpo e Banho,400ml,,72.9,,,,False,106,top-right,Natura - Ciclo 07,Natura,7
+152297,Gel de banho energizante para o corpo flor de gengibre e tangerina,Tododia Energia,Corpo e Banho,Corpo e Banho,290g/300ml,,48.9,,,,False,106,top-right,Natura - Ciclo 07,Natura,7
+152283,REFIL Gel de banho energizante para o corpo flor de gengibre e tangerina,Tododia Energia,Corpo e Banho,Corpo e Banho,,,35.9,,,,False,106,center-right,Natura - Ciclo 07,Natura,7
+152289,Bruma facial energizante flor de gengibre e tangerina,Tododia Energia,Perfumaria,Perfumaria,100ml,,49.9,,,,False,106,center-right,Natura - Ciclo 07,Natura,7
+152301,Sabonete em barra esfoliante energizante flor de gengibre e tangerina,Tododia Energia,Corpo e Banho,Corpo e Banho,2 unidades de 90 g cada,,19.9,,,,False,106,bottom-right,Natura - Ciclo 07,Natura,7
+172097,Creme desodorante corporal nutrição radiante jambo rosa e flor de caju,Tododia Jambo Rosa e Flor de Caju,Hidratação,Corpo e Banho,400ml,,72.9,,,,False,106,bottom-left,Natura - Ciclo 07,Natura,7
+172100,REFIL Creme desodorante corporal nutrição radiante jambo rosa e flor de caju,Tododia Jambo Rosa e Flor de Caju,Hidratação,Corpo e Banho,,,53.9,,,,False,106,bottom-left,Natura - Ciclo 07,Natura,7
+172099,Esfoliante nutritivo jambo rosa e flor de caju,Tododia Jambo Rosa e Flor de Caju,Corpo e Banho,Corpo e Banho,190g,,48.9,,,,False,106,center,Natura - Ciclo 07,Natura,7
+172410,Geleia desodorante iluminadora jambo rosa e flor de caju,Tododia Jambo Rosa e Flor de Caju,Hidratação,Corpo e Banho,100g,,59.9,,,,False,106,center,Natura - Ciclo 07,Natura,7
+172407,Óleo em creme ultranutritivo restaurador desodorante corporal jambo rosa e flor de caju,Tododia Jambo Rosa e Flor de Caju,Hidratação,Corpo e Banho,200ml,,81.9,,,,False,106,bottom-right,Natura - Ciclo 07,Natura,7
+172411,Manteiga desodorante corporal uniformizadora de tom jambo rosa e flor de caju,Tododia Jambo Rosa e Flor de Caju,Hidratação,Corpo e Banho,200g,,81.9,,,,False,106,bottom-right,Natura - Ciclo 07,Natura,7
+05894,Refil Sabonete Líquido em Gel Amora Vermelha e Jabuticaba Tododia,Tododia,Corpo e Banho,Corpo e Banho,290g/300ml,,35.9,28.7,7.2,20.06,True,107,bottom-left,Natura - Ciclo 07,Natura,7
+113407,Refil Sabonete Líquido Cremoso para o Corpo Macadâmia Tododia,Tododia,Corpo e Banho,Corpo e Banho,300ml,,35.9,28.7,7.2,20.06,True,107,bottom-left,Natura - Ciclo 07,Natura,7
+07741,Refil Sabonete Líquido em Gel Tâmara e Canela Tododia,Tododia,Corpo e Banho,Corpo e Banho,290g/300ml,,35.9,28.7,7.2,20.06,True,107,bottom-right,Natura - Ciclo 07,Natura,7
+113406,Refil Sabonete Líquido Cremoso para o Corpo Algodão Tododia,Tododia,Corpo e Banho,Corpo e Banho,300ml,,35.9,28.7,7.2,20.06,True,107,bottom-right,Natura - Ciclo 07,Natura,7
+02786,Creme Desodorante Nutritivo para o Corpo Tododia Tâmara e Canela,Tododia,Corpo e Banho,Corpo e Banho,400ml,,72.9,,,,False,108,top-left,Natura - Ciclo 07,Natura,7
+02791,Refil Creme Desodorante Nutritivo para o Corpo Tododia Tâmara e Canela,Tododia,Corpo e Banho,Corpo e Banho,400ml,,72.9,53.9,19.0,26.06,True,108,top-left,Natura - Ciclo 07,Natura,7
+109156,Creme Desodorante Nutritivo para o Corpo Tododia Capim Limão e Hortelã,Tododia,Corpo e Banho,Corpo e Banho,400ml,,72.9,,,,False,108,top-left,Natura - Ciclo 07,Natura,7
+109159,Refil Creme Desodorante Nutritivo para o Corpo Tododia Capim Limão e Hortelã,Tododia,Corpo e Banho,Corpo e Banho,400ml,,72.9,53.9,19.0,26.06,True,108,top-left,Natura - Ciclo 07,Natura,7
+88103,Creme Desodorante Nutritivo para o Corpo Tododia Amora Vermelha e Jabuticaba,Tododia,Corpo e Banho,Corpo e Banho,400ml,,72.9,,,,False,108,top-right,Natura - Ciclo 07,Natura,7
+87516,Refil Creme Desodorante Nutritivo para o Corpo Tododia Amora Vermelha e Jabuticaba,Tododia,Corpo e Banho,Corpo e Banho,400ml,,72.9,53.9,19.0,26.06,True,108,top-right,Natura - Ciclo 07,Natura,7
+02816,Creme Desodorante Nutritivo para o Corpo Tododia Algodão,Tododia,Corpo e Banho,Corpo e Banho,400ml,,72.9,,,,False,108,top-right,Natura - Ciclo 07,Natura,7
+02817,Refil Creme Desodorante Nutritivo para o Corpo Tododia Algodão,Tododia,Corpo e Banho,Corpo e Banho,400ml,,72.9,53.9,19.0,26.06,True,108,top-right,Natura - Ciclo 07,Natura,7
+02814,Creme Desodorante Nutritivo para o Corpo Tododia Macadâmia,Tododia,Corpo e Banho,Corpo e Banho,400ml,,72.9,,,,False,108,top-right,Natura - Ciclo 07,Natura,7
+02815,Refil Creme Desodorante Nutritivo para o Corpo Tododia Macadâmia,Tododia,Corpo e Banho,Corpo e Banho,400ml,,72.9,53.9,19.0,26.06,True,108,top-right,Natura - Ciclo 07,Natura,7
+02820,Creme Desodorante Nutritivo para o Corpo Tododia Noz Pecã e Cacau,Tododia,Corpo e Banho,Corpo e Banho,400ml,,72.9,,,,False,108,top-right,Natura - Ciclo 07,Natura,7
+02821,Refil Creme Desodorante Nutritivo para o Corpo Tododia Noz Pecã e Cacau,Tododia,Corpo e Banho,Corpo e Banho,400ml,,72.9,53.9,19.0,26.06,True,108,top-right,Natura - Ciclo 07,Natura,7
+23081,Creme Desodorante Nutritivo para o Corpo Tododia Macadâmia,Tododia,Corpo e Banho,Corpo e Banho,200ml,,49.9,,,,False,108,center,Natura - Ciclo 07,Natura,7
+110810,Creme Desodorante Nutritivo para o Corpo Tododia Capim Limão e Hortelã,Tododia,Corpo e Banho,Corpo e Banho,200ml,,49.9,,,,False,108,center,Natura - Ciclo 07,Natura,7
+23037,Creme Desodorante Nutritivo para o Corpo Tododia Algodão,Tododia,Corpo e Banho,Corpo e Banho,200ml,,49.9,,,,False,108,center,Natura - Ciclo 07,Natura,7
+23082,Creme Desodorante Nutritivo para o Corpo Tododia Noz Pecã e Cacau,Tododia,Corpo e Banho,Corpo e Banho,200ml,,49.9,,,,False,108,center,Natura - Ciclo 07,Natura,7
+121970,Creme Noturno para o Corpo Tododia Todanoite Chá de Camomila e Lavanda,Tododia,Corpo e Banho,Corpo e Banho,400ml,,72.9,,,,False,108,bottom-left,Natura - Ciclo 07,Natura,7
+121961,Refil Creme Noturno para o Corpo Tododia Todanoite Chá de Camomila e Lavanda,Tododia,Corpo e Banho,Corpo e Banho,400ml,,72.9,53.9,19.0,26.06,True,108,bottom-left,Natura - Ciclo 07,Natura,7
+159711,Sabonete Líquido Cremoso para o Corpo Tododia Banho nas Nuvens,Tododia,Corpo e Banho,Corpo e Banho,300ml (290g),,48.9,,,,False,108,bottom-left,Natura - Ciclo 07,Natura,7
+159710,Refil Sabonete Líquido Cremoso para o Corpo Tododia Banho nas Nuvens,Tododia,Corpo e Banho,Corpo e Banho,300ml (290g),,48.9,35.9,13.0,26.58,True,108,bottom-left,Natura - Ciclo 07,Natura,7
+121966,Spray de Ambientes Tododia Todanoite Chá de Camomila e Lavanda,Tododia,Corpo e Banho,Corpo e Banho,200ml,,79.9,,,,False,108,bottom-right,Natura - Ciclo 07,Natura,7
+125798,Refil Spray de Ambientes Tododia Todanoite Chá de Camomila e Lavanda,Tododia,Corpo e Banho,Corpo e Banho,200ml,,79.9,55.9,24.0,30.04,True,108,bottom-right,Natura - Ciclo 07,Natura,7
+121968,Concentrado Relaxante Tododia Todanoite Chá de Camomila e Lavanda,Tododia,Corpo e Banho,Corpo e Banho,800mg,,63.9,,,,False,108,bottom-right,Natura - Ciclo 07,Natura,7
+121958,Creme Nuvem Relaxante para o Corpo Tododia Todanoite com Nutrição Prebiótica + B5 Chá de Camomila e Lavanda,Tododia,Corpo e Banho,Corpo e Banho,200ml,,81.9,,,,False,108,bottom-right,Natura - Ciclo 07,Natura,7
+121965,Sabonete em Barra Puro Vegetal Massageador Tododia Todanoite Chá de Camomila e Lavanda,Tododia,Corpo e Banho,Corpo e Banho,2x80g,,18.9,,,,False,108,bottom-right,Natura - Ciclo 07,Natura,7
+23153,Creme Desodorante Nutritivo para o Corpo Tâmara e Canela,Tododia,Hidratação Corporal,Corpo e Banho,200ml,,49.9,32.4,17.5,35.07,True,109,top-left,Natura - Ciclo 07,Natura,7
+23154,Creme Desodorante Nutritivo para o Corpo Amora Vermelha e Jabuticaba,Tododia,Hidratação Corporal,Corpo e Banho,200ml,,49.9,32.4,17.5,35.07,True,109,top-left,Natura - Ciclo 07,Natura,7
+152298,Creme Corporal Energizante 2 em 1 Flor de Gengibre e Tangerina,Tododia Energia,Hidratação Corporal,Corpo e Banho,200ml,,49.9,32.4,17.5,35.07,True,109,top-right,Natura - Ciclo 07,Natura,7
+23218,Creme Desodorante Nutritivo para o Corpo Cereja e Avelã,Tododia,Hidratação Corporal,Corpo e Banho,200ml,,49.9,32.4,17.5,35.07,True,109,top-right,Natura - Ciclo 07,Natura,7
+72178,Creme Nutritivo para as Mãos Algodão,Tododia,Hidratação para Mãos,Corpo e Banho,50ml,,34.9,,,,False,109,bottom-left,Natura - Ciclo 07,Natura,7
+06386,Creme Nutritivo para as Mãos Tâmara e Canela,Tododia,Hidratação para Mãos,Corpo e Banho,50ml,,34.9,,,,False,109,bottom-left,Natura - Ciclo 07,Natura,7
+72179,Creme Nutritivo para as Mãos Noz Pecã e Cacau FPS 20,Tododia,Hidratação para Mãos,Corpo e Banho,50ml,,34.9,,,,False,109,bottom-right,Natura - Ciclo 07,Natura,7
+72180,Creme Desodorante Nutritivo para os Pés Noz Pecã e Cacau,Tododia,Hidratação para Pés,Corpo e Banho,50ml,,34.9,,,,False,109,bottom-right,Natura - Ciclo 07,Natura,7
+83638,Sabonete líquido íntimo delicado frescor,Tododia,Corpo e Banho (Sabonetes Líquidos),Corpo e Banho,200 ml,,48.9,,,,False,110,top-left,Natura - Ciclo 07,Natura,7
+83641,Sabonete líquido íntimo suave conforto,Tododia,Corpo e Banho (Sabonetes Líquidos),Corpo e Banho,200 ml,,48.9,,,,False,110,top-left,Natura - Ciclo 07,Natura,7
+140759,Esfoliante em creme para o corpo macadâmia,Tododia,Corpo e Banho (Esfoliantes),Corpo e Banho,200 ml,,48.9,,,,False,110,top-right,Natura - Ciclo 07,Natura,7
+113412,Sabonete líquido esfoliante para o corpo capim limão e hortelã,Tododia,Corpo e Banho (Sabonetes Líquidos Esfoliantes),Corpo e Banho,190 g,,48.9,,,,False,110,top-right,Natura - Ciclo 07,Natura,7
+113403,Sabonete líquido cremoso para o corpo Algodão,Tododia,Corpo e Banho (Sabonetes Líquidos Cremosos),Corpo e Banho,300 ml,,48.9,,,,False,110,center-left,Natura - Ciclo 07,Natura,7
+110281,Sabonete líquido em gel para mãos e corpo alecrim e sálvia,Tododia,Corpo e Banho (Sabonetes Líquidos),Corpo e Banho,390 g,,57.9,,,,False,110,center-right,Natura - Ciclo 07,Natura,7
+05870,Sabonete líquido em gel Amora Vermelha e Jabuticaba,Tododia,Corpo e Banho (Sabonetes Líquidos),Corpo e Banho,290g/300ml,,48.9,,,,False,110,center-left,Natura - Ciclo 07,Natura,7
+86180,Sabonete líquido em gel Noz Pecã e Cacau,Tododia,Corpo e Banho (Sabonetes Líquidos),Corpo e Banho,290g/300ml,,48.9,,,,False,110,center-left,Natura - Ciclo 07,Natura,7
+86356,Sabonete líquido em gel Refil Noz Pecã e Cacau,Tododia,Corpo e Banho (Sabonetes Líquidos Refil),Corpo e Banho,290g/300ml,,48.9,35.9,13.0,26.58,True,110,center-left,Natura - Ciclo 07,Natura,7
+07740,Sabonete líquido em gel Tâmara e Canela,Tododia,Corpo e Banho (Sabonetes Líquidos),Corpo e Banho,290g/300ml,,48.9,,,,False,110,bottom-left,Natura - Ciclo 07,Natura,7
+86013,Sabonete líquido em gel Alecrim e Sálvia,Tododia,Corpo e Banho (Sabonetes Líquidos),Corpo e Banho,290g/300ml,,48.9,,,,False,110,bottom-left,Natura - Ciclo 07,Natura,7
+86329,Sabonete líquido em gel Refil Alecrim e Sálvia,Tododia,Corpo e Banho (Sabonetes Líquidos Refil),Corpo e Banho,290g/300ml,,48.9,35.9,13.0,26.58,True,110,bottom-left,Natura - Ciclo 07,Natura,7
+113403,Sabonete líquido em gel Refil Algodão,Tododia,Corpo e Banho (Sabonetes Líquidos Refil),Corpo e Banho,290g/300ml,,48.9,35.9,13.0,26.58,True,110,center-right,Natura - Ciclo 07,Natura,7
+113404,Sabonete líquido em gel Refil Macadâmia,Tododia,Corpo e Banho (Sabonetes Líquidos Refil),Corpo e Banho,290g/300ml,,48.9,35.9,13.0,26.58,True,110,bottom-right,Natura - Ciclo 07,Natura,7
+02832,Sabonete em barra puro vegetal Noz Pecã e Cacau,Tododia,Corpo e Banho (Sabonetes em Barra),Corpo e Banho,5x90g,,32.9,,,,False,110,bottom-left,Natura - Ciclo 07,Natura,7
+02829,Sabonete em barra puro vegetal Macadâmia,Tododia,Corpo e Banho (Sabonetes em Barra),Corpo e Banho,5x90g,,32.9,,,,False,110,bottom-left,Natura - Ciclo 07,Natura,7
+72147,Sabonete em barra puro vegetal Alecrim e Sálvia,Tododia,Corpo e Banho (Sabonetes em Barra),Corpo e Banho,5x90g,,32.9,,,,False,110,bottom-center,Natura - Ciclo 07,Natura,7
+07733,Sabonete em barra puro vegetal Tâmara e Canela,Tododia,Corpo e Banho (Sabonetes em Barra),Corpo e Banho,5x90g,,32.9,,,,False,110,bottom-center,Natura - Ciclo 07,Natura,7
+02830,Sabonete em barra puro vegetal Algodão,Tododia,Corpo e Banho (Sabonetes em Barra),Corpo e Banho,5x90g,,32.9,,,,False,110,bottom-right,Natura - Ciclo 07,Natura,7
+95840,Sabonete em barra puro vegetal Cereja e Avelã,Tododia,Corpo e Banho (Sabonetes em Barra),Corpo e Banho,5x90g,,32.9,,,,False,110,bottom-right,Natura - Ciclo 07,Natura,7
+174494,Sabonete em barra puro vegetal cereja negra e praliné,Tododia,Corpo e Banho,Corpo e Banho,5 unidades x 90g,,32.9,29.5,3.4,10.33,True,111,top-right,Natura - Ciclo 07,Natura,7
+109163,Sabonete em barra puro vegetal capim limão e hortelã,Tododia,Corpo e Banho,Corpo e Banho,5 unidades x 90g,,32.9,29.5,3.4,10.33,True,111,center-right,Natura - Ciclo 07,Natura,7
+87512,Sabonete em barra puro vegetal amora vermelha e jabuticaba,Tododia,Corpo e Banho,Corpo e Banho,5 unidades x 90g,,0.0,,,,False,111,bottom-left,Natura - Ciclo 07,Natura,7
+121969,Sabonete em barra puro vegetal chá de camomila e lavanda,Tododia,Corpo e Banho,Corpo e Banho,5 unidades x 90g,,0.0,,,,False,111,bottom-left,Natura - Ciclo 07,Natura,7
+152302,Sabonete em barra puro vegetal energizante flor de gengibre e tangerina,Tododia,Corpo e Banho,Corpo e Banho,5 unidades x 90g,,0.0,,,,False,111,bottom-left,Natura - Ciclo 07,Natura,7
+114464,Sabonete em barra puro vegetal sortido,Tododia,Corpo e Banho,Corpo e Banho,"5 unidades x 90g (1 flor de lis, 1 alecrim e sálvia, 1 framboesa e pimenta rosa, 1 macadâmia e 1 frutas vermelhas)",,39.9,,,,False,111,bottom-right,Natura - Ciclo 07,Natura,7
+200683,Kit Tododia Reparação para os Fios com Sabonete,Tododia,Cabelos,Cabelos,"Shampoo 300ml, Condicionador 280ml, Sabonetes 5x90g",,87.7,59.7,28.0,31.93,True,113,center,Natura - Ciclo 07,Natura,7
+154865,REFIL Shampoo Reparador Flor de Cereja e Abacate,Tododia Flor de Cereja e Abacate,Cabelos,Cabelos,300ml,,26.9,21.9,5.0,18.59,True,113,bottom-left,Natura - Ciclo 07,Natura,7
+155601,Shampoo Reparador Flor de Cereja e Abacate,Tododia Flor de Cereja e Abacate,Cabelos,Cabelos,300ml,,33.9,,,,False,113,bottom-left,Natura - Ciclo 07,Natura,7
+154861,REFIL Condicionador Reparador Flor de Cereja e Abacate,Tododia Flor de Cereja e Abacate,Cabelos,Cabelos,280ml,,27.9,22.9,5.0,17.92,True,113,bottom-center,Natura - Ciclo 07,Natura,7
+154876,Condicionador Reparador Flor de Cereja e Abacate,Tododia Flor de Cereja e Abacate,Cabelos,Cabelos,280ml,,35.9,,,,False,113,bottom-center,Natura - Ciclo 07,Natura,7
+156234,REFIL Creme para Pentear Reparador Flor de Cereja e Abacate,Tododia Flor de Cereja e Abacate,Cabelos,Cabelos,180ml,,27.9,22.9,5.0,17.92,True,113,bottom-right,Natura - Ciclo 07,Natura,7
+156233,Creme para Pentear Reparador Flor de Cereja e Abacate,Tododia Flor de Cereja e Abacate,Cabelos,Cabelos,180ml,,35.9,,,,False,113,bottom-right,Natura - Ciclo 07,Natura,7
+154871,Máscara concentrada cronocapilar hidrata,Cronocapilar,Cabelos,Cabelos,250 ml,,45.9,,,,False,114,top-left,Natura - Ciclo 07,Natura,7
+154862,REFIL Máscara concentrada cronocapilar hidrata,Cronocapilar,Cabelos,Cabelos,250 ml,,35.9,,,,False,114,top-left,Natura - Ciclo 07,Natura,7
+154872,Máscara concentrada cronocapilar nutre,Cronocapilar,Cabelos,Cabelos,250 ml,,45.9,,,,False,114,top-left,Natura - Ciclo 07,Natura,7
+154863,REFIL Máscara concentrada cronocapilar nutre,Cronocapilar,Cabelos,Cabelos,250 ml,,35.9,,,,False,114,top-left,Natura - Ciclo 07,Natura,7
+154875,Máscara concentrada cronocapilar repara,Cronocapilar,Cabelos,Cabelos,250 ml,,45.9,,,,False,114,top-left,Natura - Ciclo 07,Natura,7
+154864,REFIL Máscara concentrada cronocapilar repara,Cronocapilar,Cabelos,Cabelos,250 ml,,35.9,,,,False,114,top-left,Natura - Ciclo 07,Natura,7
+154866,Shampoo hidratante Maçã Verde e Aloe Vera,Maçã Verde e Aloe Vera,Cabelos,Cabelos,300 ml,,33.9,,,,False,114,bottom-left,Natura - Ciclo 07,Natura,7
+154868,REFIL Shampoo hidratante Maçã Verde e Aloe Vera,Maçã Verde e Aloe Vera,Cabelos,Cabelos,300 ml,,26.9,,,,False,114,bottom-left,Natura - Ciclo 07,Natura,7
+154873,Condicionador hidratante Maçã Verde e Aloe Vera,Maçã Verde e Aloe Vera,Cabelos,Cabelos,280 ml,,35.9,,,,False,114,bottom-left,Natura - Ciclo 07,Natura,7
+154860,REFIL Condicionador hidratante Maçã Verde e Aloe Vera,Maçã Verde e Aloe Vera,Cabelos,Cabelos,280 ml,,27.9,,,,False,114,bottom-left,Natura - Ciclo 07,Natura,7
+156235,Spray hidratante Maçã Verde e Aloe Vera,Maçã Verde e Aloe Vera,Cabelos,Cabelos,200 ml,,37.9,,,,False,114,bottom-left,Natura - Ciclo 07,Natura,7
+173588,Shampoo cachos e crespos Amora e Óleo de Coco,Amora e Óleo de Coco,Cabelos,Cabelos,300 ml,,33.9,,,,False,114,bottom-right,Natura - Ciclo 07,Natura,7
+173581,Creme para pentear cachos Amora e Óleo de Coco,Amora e Óleo de Coco,Cabelos,Cabelos,280 ml,,37.9,,,,False,114,bottom-right,Natura - Ciclo 07,Natura,7
+173587,Condicionador cachos e crespos Amora e Óleo de Coco,Amora e Óleo de Coco,Cabelos,Cabelos,280 ml,,35.9,,,,False,114,bottom-right,Natura - Ciclo 07,Natura,7
+173584,Creme para pentear crespos Amora e Óleo de Coco,Amora e Óleo de Coco,Cabelos,Cabelos,280 ml,,37.9,,,,False,114,bottom-right,Natura - Ciclo 07,Natura,7
+173583,Spray reativador cachos e crespos Amora e Óleo de Coco,Amora e Óleo de Coco,Cabelos,Cabelos,200 ml,,37.9,,,,False,114,bottom-right,Natura - Ciclo 07,Natura,7
+173590,Gelatina cachos e crespos Amora e Óleo de Coco,Amora e Óleo de Coco,Cabelos,Cabelos,240 g,,37.9,,,,False,114,bottom-right,Natura - Ciclo 07,Natura,7
+200708,Kit Tododia Nutrição para os Fios com Sabonete,Tododia,Cabelos,Cabelos,"Kit (Shampoo 300ml, Condicionador 280ml, Sabonetes 5x90g)",,87.7,59.7,28.0,31.93,True,115,top-right,Natura - Ciclo 07,Natura,7
+154867,REFIL Shampoo nutritivo Pêssego e Amêndoa,Tododia,Cabelos,Cabelos,300ml,,26.9,21.9,5.0,18.59,True,115,bottom-left,Natura - Ciclo 07,Natura,7
+154869,Shampoo nutritivo Pêssego e Amêndoa,Tododia,Cabelos,Cabelos,300ml,,33.9,,,,False,115,bottom-left,Natura - Ciclo 07,Natura,7
+154859,REFIL Condicionador nutritivo Pêssego e Amêndoa,Tododia,Cabelos,Cabelos,280ml,,27.9,22.9,5.0,17.92,True,115,bottom-center,Natura - Ciclo 07,Natura,7
+154870,Condicionador nutritivo Pêssego e Amêndoa,Tododia,Cabelos,Cabelos,280ml,,35.9,,,,False,115,bottom-center,Natura - Ciclo 07,Natura,7
+156236,REFIL Creme para pentear nutritivo Pêssego e Amêndoa,Tododia,Cabelos,Cabelos,180ml,,27.9,22.9,5.0,17.92,True,115,bottom-right,Natura - Ciclo 07,Natura,7
+156237,Creme para pentear nutritivo Pêssego e Amêndoa,Tododia,Cabelos,Cabelos,180ml,,35.9,,,,False,115,bottom-right,Natura - Ciclo 07,Natura,7
+70404,Sabonete líquido hidratante corporal Ucuuba,Natura Ekos Ucuuba,Corpo e Banho,Corpo e Banho,195 ml,,52.9,36.9,16.0,30.25,True,116,top-left,Natura - Ciclo 07,Natura,7
+70391,REFIL Sabonete líquido hidratante corporal Ucuuba,Natura Ekos Ucuuba,Corpo e Banho,Corpo e Banho,195 ml,,38.9,26.9,12.0,30.85,True,116,top-right,Natura - Ciclo 07,Natura,7
+72981,Manteiga reparadora para o corpo e áreas ressecadas Ucuuba,Natura Ekos Ucuuba,Hidratação,Corpo e Banho,200 g,,87.9,78.9,9.0,10.24,True,116,bottom-left,Natura - Ciclo 07,Natura,7
+72980,Polpa hidratante para as mãos Ucuuba,Natura Ekos Ucuuba,Hidratação,Corpo e Banho,75 g,,56.9,41.9,15.0,26.36,True,116,bottom-right,Natura - Ciclo 07,Natura,7
+124356,Polpa hidratante para as mãos Ucuuba,Natura Ekos Ucuuba,Hidratação,Corpo e Banho,40 g,,36.5,,,,False,116,bottom-right,Natura - Ciclo 07,Natura,7
+118005,Kit Hidratação Ekos Ucuuba,Ekos Ucuuba,Corpo e Banho,Corpo e Banho,Composto por: 1 Polpa 400ml (72982) + 1 Refil 400ml (72983),,156.8,98.8,58.0,36.99,True,117,top-right,Natura - Ciclo 07,Natura,7
+72982,Polpa desodorante hidratante para o corpo,Ekos Ucuuba,Corpo e Banho,Corpo e Banho,400ml,,88.9,,,,False,117,center,Natura - Ciclo 07,Natura,7
+72983,REFIL Polpa desodorante hidratante para o corpo,Ekos Ucuuba,Corpo e Banho,Corpo e Banho,400ml,,67.9,,,,False,117,center,Natura - Ciclo 07,Natura,7
+108625,Desodorante hidratante para o corpo Polpa Açaí,Ekos,Hidratação Corporal,Corpo e Banho,200ml,,63.9,50.9,13.0,20.34,True,118,center,Natura - Ciclo 07,Natura,7
+108623,Desodorante hidratante para o corpo Polpa Tukumã,Ekos,Hidratação Corporal,Corpo e Banho,200ml,,63.9,50.9,13.0,20.34,True,118,center,Natura - Ciclo 07,Natura,7
+162315,Protetor labial hidratante Cacau,Cacau Anti Ressecamento,Cuidados Labiais,Skincare,3.5g,,42.9,,,,False,118,bottom-left,Natura - Ciclo 07,Natura,7
+162210,Polpa hidratante para mãos e unhas Cacau,Cacau Anti Ressecamento,Mãos e Unhas,Unhas,75g,,56.9,,,,False,118,bottom-right,Natura - Ciclo 07,Natura,7
+108626,Néctar para o Corpo Desodorante Hidratante Maracujá,Natura Ekos,Corpo e Banho,Corpo e Banho,200ml,,63.9,37.9,26.0,40.69,True,119,top-left,Natura - Ciclo 07,Natura,7
+108622,Polpa para o Corpo Desodorante Hidratante Ucuuba,Natura Ekos,Corpo e Banho,Corpo e Banho,200ml,,63.9,37.9,26.0,40.69,True,119,top-right,Natura - Ciclo 07,Natura,7
+162220,Sabonete em barra puro vegetal cremoso,Natura Ekos,Corpo e Banho,Corpo e Banho,4x 100g,,69.9,69.9,0.0,0.0,False,119,bottom-left,Natura - Ciclo 07,Natura,7
+162219,Desodorante colônia frescor feminino Cacau,Natura Ekos,Perfumaria,Perfumaria,150ml,,121.9,121.9,0.0,0.0,False,119,bottom-center,Natura - Ciclo 07,Natura,7
+163708,Polpa desodorante hidratante para o corpo Cacau,Natura Ekos,Corpo e Banho,Corpo e Banho,400ml,,88.9,88.9,0.0,0.0,False,119,bottom-right,Natura - Ciclo 07,Natura,7
+166358,Refil Polpa desodorante hidratante para o corpo Cacau,Natura Ekos,Corpo e Banho,Corpo e Banho,400ml,,67.9,67.9,0.0,0.0,False,119,bottom-right,Natura - Ciclo 07,Natura,7
+195212,Kit Óleo Trifásico Ekos Açaí,Ekos Açaí,Corpo e Banho,Corpo e Banho,Kit com 2 Óleos 200ml,,161.8,97.8,64.0,39.56,True,120,center,Natura - Ciclo 07,Natura,7
+97258,Polpa Desodorante Hidratante para o Corpo Açaí,Ekos Açaí,Hidratação,Corpo e Banho,400ml,,88.9,,,,False,120,bottom-left,Natura - Ciclo 07,Natura,7
+97259,Refil Polpa Desodorante Hidratante para o Corpo Açaí,Ekos Açaí,Hidratação,Corpo e Banho,400ml,,67.9,,,,False,120,bottom-left,Natura - Ciclo 07,Natura,7
+110643,Óleo Trifásico Desodorante Corporal Açaí,Ekos Açaí,Corpo e Banho,Corpo e Banho,200ml,,89.9,,,,False,120,bottom-center-left,Natura - Ciclo 07,Natura,7
+110644,Refil Óleo Trifásico Desodorante Corporal Açaí,Ekos Açaí,Corpo e Banho,Corpo e Banho,200ml,,71.9,,,,False,120,bottom-center-left,Natura - Ciclo 07,Natura,7
+97261,Sabonete Líquido Esfoliante Corporal Açaí,Ekos Açaí,Corpo e Banho,Corpo e Banho,185ml,,52.9,,,,False,120,bottom-center-right,Natura - Ciclo 07,Natura,7
+103839,Refil Sabonete Líquido Esfoliante Corporal Açaí,Ekos Açaí,Corpo e Banho,Corpo e Banho,185ml,,38.9,,,,False,120,bottom-center-right,Natura - Ciclo 07,Natura,7
+97260,Polpa Hidratante para Mãos Açaí,Ekos Açaí,Hidratação,Corpo e Banho,75g,,56.9,,,,False,120,bottom-right,Natura - Ciclo 07,Natura,7
+108905,Kit Hidratação Ekos Açaí,Ekos,Hidratação,Corpo e Banho,1 Polpa 400ml + 1 Refil 400ml,,156.8,98.8,58.0,36.99,True,121,center,Natura - Ciclo 07,Natura,7
+124395,Sabonete em barra puro vegetal cremoso e esfoliante (Caixa com 4 unidades),Ekos,Corpo e Banho,Corpo e Banho,4 unidades x 100g,,42.9,40.5,2.4,5.59,True,121,bottom-center,Natura - Ciclo 07,Natura,7
+73176,Néctar desodorante hidratante para o corpo,Maracujá,Hidratação,Corpo e Banho,400 ml,,88.9,,,,False,122,top-left,Natura - Ciclo 07,Natura,7
+73179,Néctar desodorante hidratante para o corpo (Refil),Maracujá,Hidratação,Corpo e Banho,,,67.9,,,,False,122,top-left,Natura - Ciclo 07,Natura,7
+124393,Sabonete em barra puro vegetal cremoso e esfoliante (Caixa com 4 unidades),Maracujá,Corpo e Banho,Corpo e Banho,4x 100 g,,42.9,,,,False,122,top-left,Natura - Ciclo 07,Natura,7
+73212,Polpa desodorante hidratante para o corpo,Andiroba,Hidratação,Corpo e Banho,400 ml,,88.9,,,,False,122,top-right,Natura - Ciclo 07,Natura,7
+73211,Polpa desodorante hidratante para o corpo (Refil),Andiroba,Hidratação,Corpo e Banho,,,67.9,,,,False,122,top-right,Natura - Ciclo 07,Natura,7
+108621,Polpa desodorante hidratante para o corpo,Andiroba,Hidratação,Corpo e Banho,200 ml,,63.9,,,,False,122,top-right,Natura - Ciclo 07,Natura,7
+70405,Sabonete líquido esfoliante corporal,Maracujá,Corpo e Banho,Corpo e Banho,185 ml,,52.9,,,,False,122,middle-left,Natura - Ciclo 07,Natura,7
+70392,Sabonete líquido esfoliante corporal (Refil),Maracujá,Corpo e Banho,Corpo e Banho,,,38.9,,,,False,122,middle-left,Natura - Ciclo 07,Natura,7
+97425,Óleo trifásico desodorante corporal,Maracujá,Corpo e Banho,Corpo e Banho,200 ml,,89.9,,,,False,122,middle-left,Natura - Ciclo 07,Natura,7
+97431,Óleo trifásico desodorante corporal (Refil),Maracujá,Corpo e Banho,Corpo e Banho,,,71.9,,,,False,122,middle-left,Natura - Ciclo 07,Natura,7
+70406,Sabonete líquido corporal,Andiroba,Corpo e Banho,Corpo e Banho,195 ml,,52.9,,,,False,122,middle-right,Natura - Ciclo 07,Natura,7
+70393,Sabonete líquido corporal (Refil),Andiroba,Corpo e Banho,Corpo e Banho,,,38.9,,,,False,122,middle-right,Natura - Ciclo 07,Natura,7
+97427,Óleo trifásico desodorante corporal,Andiroba,Corpo e Banho,Corpo e Banho,200 ml,,89.9,,,,False,122,middle-right,Natura - Ciclo 07,Natura,7
+97433,Óleo trifásico desodorante corporal (Refil),Andiroba,Corpo e Banho,Corpo e Banho,,,71.9,,,,False,122,middle-right,Natura - Ciclo 07,Natura,7
+70401,Sabonete líquido para mãos,Maracujá,Corpo e Banho,Corpo e Banho,250 ml,,64.9,,,,False,122,bottom-left,Natura - Ciclo 07,Natura,7
+70388,Sabonete líquido para mãos (Refil),Maracujá,Corpo e Banho,Corpo e Banho,,,47.9,,,,False,122,bottom-left,Natura - Ciclo 07,Natura,7
+73172,Néctar hidratante para mãos,Maracujá,Hidratação,Corpo e Banho,75 g,,56.9,,,,False,122,bottom-left,Natura - Ciclo 07,Natura,7
+73214,Fluido de massagem para o corpo,Andiroba,Corpo e Banho,Corpo e Banho,100 g,,76.9,,,,False,122,bottom-right,Natura - Ciclo 07,Natura,7
+122484,Polpa hidratante para as mãos,Andiroba,Hidratação,Corpo e Banho,75 g,,56.9,,,,False,122,bottom-right,Natura - Ciclo 07,Natura,7
+70359,Polpa desodorante hidratante para o corpo,Tukumã,Corpo e Banho,Corpo e Banho,400 ml,,88.9,,,,False,123,top-left,Natura - Ciclo 07,Natura,7
+70360,REFIL Polpa desodorante hidratante para o corpo,Tukumã,Corpo e Banho,Corpo e Banho,400 ml,,67.9,,,,False,123,top-left,Natura - Ciclo 07,Natura,7
+27238,Bálsamo concentrado para o corpo,Tukumã,Corpo e Banho,Corpo e Banho,200 g,,97.9,,,,False,123,top-left,Natura - Ciclo 07,Natura,7
+98767,Sabonete líquido esfoliante corporal,Tukumã,Corpo e Banho,Corpo e Banho,185 ml,,52.9,,,,False,123,bottom-left,Natura - Ciclo 07,Natura,7
+19949,REFIL Sabonete líquido esfoliante corporal,Tukumã,Corpo e Banho,Corpo e Banho,185 ml,,38.9,,,,False,123,bottom-left,Natura - Ciclo 07,Natura,7
+75522,Óleo bifásico desodorante corporal,Tukumã,Corpo e Banho,Corpo e Banho,200 ml,,89.9,,,,False,123,bottom-left,Natura - Ciclo 07,Natura,7
+75505,REFIL Óleo bifásico desodorante corporal,Tukumã,Corpo e Banho,Corpo e Banho,200 ml,,71.9,,,,False,123,bottom-left,Natura - Ciclo 07,Natura,7
+70358,Polpa hidratante para mãos,Tukumã,Mãos,Outros,75 g,,56.9,,,,False,123,bottom-left,Natura - Ciclo 07,Natura,7
+69824,Polpa desodorante hidratante para o corpo,Castanha,Corpo e Banho,Corpo e Banho,400 ml,,88.9,,,,False,123,top-right,Natura - Ciclo 07,Natura,7
+69822,REFIL Polpa desodorante hidratante para o corpo,Castanha,Corpo e Banho,Corpo e Banho,400 ml,,67.9,,,,False,123,top-right,Natura - Ciclo 07,Natura,7
+108620,REFIL Polpa desodorante hidratante para o corpo,Castanha,Corpo e Banho,Corpo e Banho,200 ml,,63.9,,,,False,123,top-right,Natura - Ciclo 07,Natura,7
+150219,Kit concentrado para o corpo,Castanha,Corpo e Banho,Corpo e Banho,"1 Frasco 250 ml, 1 Concentrado para o corpo 30 ml",,78.9,,,,True,123,top-right,Natura - Ciclo 07,Natura,7
+139243,Concentrado para o corpo,Castanha,Corpo e Banho,Corpo e Banho,30 ml,,60.5,,,,False,123,top-right,Natura - Ciclo 07,Natura,7
+70402,Sabonete líquido para mãos,Castanha,Mãos,Outros,250 ml,,64.9,,,,False,123,bottom-right,Natura - Ciclo 07,Natura,7
+70389,REFIL Sabonete líquido para mãos,Castanha,Mãos,Outros,250 ml,,47.9,,,,False,123,bottom-right,Natura - Ciclo 07,Natura,7
+69819,Polpa hidratante para mãos,Castanha,Mãos,Outros,75 g,,56.9,,,,False,123,bottom-right,Natura - Ciclo 07,Natura,7
+69821,Polpa hidratante para mãos,Castanha,Mãos,Outros,40 g,,38.9,,,,False,123,bottom-right,Natura - Ciclo 07,Natura,7
+69825,Polpa esfoliante hidratação e renovação para o corpo,Castanha,Corpo e Banho,Corpo e Banho,200 g,,87.9,,,,False,123,bottom-right,Natura - Ciclo 07,Natura,7
+69823,Polpa desodorante hidratante para pés,Castanha,Pés,Maquiagem,75 g,,56.9,,,,False,123,bottom-right,Natura - Ciclo 07,Natura,7
+124394,Sabonete em barra puro vegetal cremoso ucuuba,Ekos,Corpo e Banho,Corpo e Banho,4x100g,,42.9,40.5,2.4,5.59,True,124,top-left,Natura - Ciclo 07,Natura,7
+129799,Sabonete em barra puro vegetal cremoso e esfoliante refrescante,Ekos,Corpo e Banho,Corpo e Banho,4x100g,,42.9,,,,False,124,mid-left,Natura - Ciclo 07,Natura,7
+134574,Sabonete em barra puro vegetal cremoso e esfoliante,Ekos,Corpo e Banho,Corpo e Banho,4x100g,,42.9,,,,False,124,mid-left,Natura - Ciclo 07,Natura,7
+129797,Sabonete em barra puro vegetal esfoliante,Ekos,Corpo e Banho,Corpo e Banho,4x100g,,42.9,,,,False,124,bottom-left,Natura - Ciclo 07,Natura,7
+134575,Sabonete em barra puro vegetal cremoso,Ekos,Corpo e Banho,Corpo e Banho,4x100g,,42.9,,,,False,124,bottom-left,Natura - Ciclo 07,Natura,7
+112765,Shampoo Patauá,Patauá,Cabelos,Cabelos,300 ml,,56.9,,,,False,124,top-right,Natura - Ciclo 07,Natura,7
+112766,REFIL Shampoo Patauá,Patauá,Cabelos,Cabelos,300 ml,,43.5,,,,False,124,top-right,Natura - Ciclo 07,Natura,7
+112767,Condicionador Patauá,Patauá,Cabelos,Cabelos,300 ml,,59.9,,,,False,124,mid-right,Natura - Ciclo 07,Natura,7
+112768,REFIL Condicionador Patauá,Patauá,Cabelos,Cabelos,300 ml,,45.5,,,,False,124,mid-right,Natura - Ciclo 07,Natura,7
+112764,Máscara fortalecedora Patauá,Patauá,Cabelos,Cabelos,200 g,,81.9,,,,False,124,mid-right,Natura - Ciclo 07,Natura,7
+112763,Tônico noturno de crescimento Patauá,Patauá,Cabelos,Cabelos,30 ml,,73.9,,,,False,124,bottom-right,Natura - Ciclo 07,Natura,7
+122544,Óleo finalizador fortalecedor Patauá,Patauá,Cabelos,Cabelos,60 ml,,89.9,,,,False,124,bottom-right,Natura - Ciclo 07,Natura,7
+113149,Pré-shampoo Ekos Murumuru Anti Danos,Natura Ekos Murumuru,Cabelos,Cabelos,100 g,,59.9,,,,False,125,top-left,Natura - Ciclo 07,Natura,7
+112759,Shampoo Ekos Murumuru Anti Danos,Natura Ekos Murumuru,Cabelos,Cabelos,300 ml,,56.9,,,,False,125,top-left,Natura - Ciclo 07,Natura,7
+112760,REFIL Shampoo Ekos Murumuru Anti Danos,Natura Ekos Murumuru,Cabelos,Cabelos,300 ml,,43.5,,,,False,125,top-left,Natura - Ciclo 07,Natura,7
+112761,Condicionador Ekos Murumuru Anti Danos,Natura Ekos Murumuru,Cabelos,Cabelos,300 ml,,59.9,,,,False,125,center-left,Natura - Ciclo 07,Natura,7
+112762,REFIL Condicionador Ekos Murumuru Anti Danos,Natura Ekos Murumuru,Cabelos,Cabelos,300 ml,,45.5,,,,False,125,center-left,Natura - Ciclo 07,Natura,7
+112757,Creme para pentear condicionador multibenefícios Ekos Murumuru Anti Danos,Natura Ekos Murumuru,Cabelos,Cabelos,150 ml,,59.9,,,,False,125,bottom-left,Natura - Ciclo 07,Natura,7
+112758,Máscara reconstrutora Ekos Murumuru Anti Danos,Natura Ekos Murumuru,Cabelos,Cabelos,200 g,,81.9,,,,False,125,bottom-left,Natura - Ciclo 07,Natura,7
+112890,Sérum noturno nutritivo Ekos Murumuru Anti Danos,Natura Ekos Murumuru,Cabelos,Cabelos,30 ml,,73.9,,,,False,125,bottom-left,Natura - Ciclo 07,Natura,7
+201606,Kit Shampoo Ekos Murumuru,Natura Ekos Murumuru,Cabelos,Cabelos,1 Shampoo 300 ml + 1 REFIL Shampoo 300 ml,,100.4,65.9,34.5,34.36,True,125,top-right,Natura - Ciclo 07,Natura,7
+201607,Kit Condicionador Ekos Murumuru,Natura Ekos Murumuru,Cabelos,Cabelos,1 Condicionador 300 ml + 1 REFIL Condicionador 300 ml,,105.4,68.9,36.5,34.63,True,125,bottom-right,Natura - Ciclo 07,Natura,7
+KIT164516_164517,Kit Shampoo e Condicionador Força e Reparação Molecular,Natura Lumina,Cabelos,Cabelos,2x 300ml,,100.8,74.8,26.0,25.79,True,126,bottom-right,Natura - Ciclo 07,Natura,7
+164516,Shampoo força e reparação molecular,Natura Lumina,Cabelos,Cabelos,300 ml,,48.9,35.9,13.0,26.58,True,127,bottom-left,Natura - Ciclo 07,Natura,7
+164517,Condicionador força e reparação molecular,Natura Lumina,Cabelos,Cabelos,300 ml,,51.9,38.9,13.0,25.05,True,127,bottom-left,Natura - Ciclo 07,Natura,7
+164505,Máscara força e reparação molecular,Natura Lumina,Cabelos,Cabelos,250 ml,,73.9,54.9,19.0,25.71,True,127,bottom-center,Natura - Ciclo 07,Natura,7
+164508,Sérum noturno força e reparação molecular,Natura Lumina,Cabelos,Cabelos,100 ml,,73.9,54.9,19.0,25.71,True,127,bottom-right,Natura - Ciclo 07,Natura,7
+164518,Protetor térmico força e reparação molecular,Natura Lumina,Cabelos,Cabelos,150 ml,,73.9,54.9,19.0,25.71,True,127,bottom-right,Natura - Ciclo 07,Natura,7
+147411,Shampoo nutritivo,Natura Lumina,Cabelos,Cabelos,300ml,,61.13,48.9,12.23,20.01,True,128,bottom-left,Natura - Ciclo 07,Natura,7
+147412,Refil Shampoo nutritivo,Natura Lumina,Cabelos,Cabelos,300ml,,46.13,36.9,9.23,20.01,True,128,bottom-left,Natura - Ciclo 07,Natura,7
+147440,Condicionador polinutrição,Natura Lumina,Cabelos,Cabelos,300ml,,51.9,41.5,10.4,20.04,True,128,bottom-left,Natura - Ciclo 07,Natura,7
+147410,Refil Condicionador polinutrição,Natura Lumina,Cabelos,Cabelos,300ml,,48.63,38.9,9.73,20.01,True,128,bottom-left,Natura - Ciclo 07,Natura,7
+147448,Ampola reparação instantânea,Natura Lumina,Cabelos,Cabelos,4 unidades de 20ml cada,,73.9,58.9,15.0,20.3,True,128,center,Natura - Ciclo 07,Natura,7
+147453,Creme de pentear selador de cutículas,Natura Lumina,Cabelos,Cabelos,250ml,,54.9,43.9,11.0,20.04,True,128,bottom-right,Natura - Ciclo 07,Natura,7
+147439,Óleo leve reparador,Natura Lumina,Cabelos,Cabelos,100ml,,73.9,58.9,15.0,20.3,True,128,bottom-right,Natura - Ciclo 07,Natura,7
+147406,Refil Óleo leve reparador,Natura Lumina,Cabelos,Cabelos,100ml,,52.38,41.9,10.48,20.01,True,128,bottom-right,Natura - Ciclo 07,Natura,7
+147418,Máscara Reparadora Nutrição e Reparação Profunda,Natura Lumina,Cabelos,Cabelos,250ml,,122.8,73.9,48.9,39.82,True,129,center,Natura - Ciclo 07,Natura,7
+147447,Refil Máscara Reparadora Nutrição e Reparação Profunda,Natura Lumina,Cabelos,Cabelos,250ml,,55.9,,,,False,129,center-left,Natura - Ciclo 07,Natura,7
+148437,Creme de Pentear de Definição,Natura Lumina,Cabelos,Cabelos,300 ml,,96.8,54.9,41.9,43.29,True,130,top-left,Natura - Ciclo 07,Natura,7
+148403,Refil Creme de Pentear de Definição,Natura Lumina,Cabelos,Cabelos,,,41.9,,,,False,130,top-left,Natura - Ciclo 07,Natura,7
+KIT-LUMINA-CACHOS-01,Kit hidratação e definição Cabelos Cacheados (Shampoo Cremoso + Condicionador Hidratante),Natura Lumina,Cabelos,Cabelos,"Shampoo 300ml, Condicionador 300ml",,100.8,69.9,30.9,30.65,True,131,center,Natura - Ciclo 07,Natura,7
+148161,Shampoo Cremoso Lumina Cabelos Cacheados,Natura Lumina,Cabelos,Cabelos,300ml,,48.9,38.9,10.0,20.45,True,131,bottom-left,Natura - Ciclo 07,Natura,7
+148162,REFIL Shampoo Cremoso Lumina Cabelos Cacheados,Natura Lumina,Cabelos,Cabelos,300ml,,36.9,,,,False,131,bottom-left,Natura - Ciclo 07,Natura,7
+148411,Condicionador Hidratante Lumina Cabelos Cacheados,Natura Lumina,Cabelos,Cabelos,300ml,,51.9,40.9,11.0,21.19,True,131,bottom-center,Natura - Ciclo 07,Natura,7
+148413,REFIL Condicionador Hidratante Lumina Cabelos Cacheados,Natura Lumina,Cabelos,Cabelos,300ml,,38.9,,,,False,131,bottom-center,Natura - Ciclo 07,Natura,7
+148440,Máscara Recuperadora Lumina Cabelos Cacheados,Natura Lumina,Cabelos,Cabelos,250ml,,73.9,58.9,15.0,20.3,True,131,bottom-right,Natura - Ciclo 07,Natura,7
+148406,REFIL Máscara Recuperadora Lumina Cabelos Cacheados,Natura Lumina,Cabelos,Cabelos,250ml,,55.9,,,,False,131,bottom-right,Natura - Ciclo 07,Natura,7
+148171,Shampoo hidratante,Natura Lumina,Cabelos,Cabelos,300ml,,48.9,,,,False,132,top-left,Natura - Ciclo 07,Natura,7
+148169,Refil Shampoo hidratante,Natura Lumina,Cabelos,Cabelos,300ml,,48.9,36.9,12.0,24.54,True,132,top-left,Natura - Ciclo 07,Natura,7
+148409,Condicionador nutritivo,Natura Lumina,Cabelos,Cabelos,300ml,,51.9,,,,False,132,top-left,Natura - Ciclo 07,Natura,7
+148400,Refil Condicionador nutritivo,Natura Lumina,Cabelos,Cabelos,300ml,,51.9,38.9,13.0,25.05,True,132,top-left,Natura - Ciclo 07,Natura,7
+148417,Máscara reconstrutora,Natura Lumina,Cabelos,Cabelos,250ml,,73.9,,,,False,132,top-right,Natura - Ciclo 07,Natura,7
+148439,Refil Máscara reconstrutora,Natura Lumina,Cabelos,Cabelos,250ml,,73.9,55.9,18.0,24.36,True,132,top-right,Natura - Ciclo 07,Natura,7
+148436,Creme de pentear ativador,Natura Lumina,Cabelos,Cabelos,300ml,,54.9,,,,False,132,top-right,Natura - Ciclo 07,Natura,7
+148432,Refil Creme de pentear ativador,Natura Lumina,Cabelos,Cabelos,300ml,,54.9,41.9,13.0,23.68,True,132,top-right,Natura - Ciclo 07,Natura,7
+148415,Condicionador de limpeza,Natura Lumina,Cabelos,Cabelos,300ml,,49.9,,,,False,132,bottom-left,Natura - Ciclo 07,Natura,7
+148441,Refil Condicionador de limpeza,Natura Lumina,Cabelos,Cabelos,300ml,,49.9,37.9,12.0,24.05,True,132,bottom-left,Natura - Ciclo 07,Natura,7
+148404,Gelatina de definição e brilho,Natura Lumina,Cabelos,Cabelos,240g,,54.9,,,,False,132,bottom-left,Natura - Ciclo 07,Natura,7
+148165,Óleo multifuncional,Natura Lumina,Cabelos,Cabelos,100ml,,73.9,,,,False,132,bottom-right,Natura - Ciclo 07,Natura,7
+148419,Spray umidificador reativador,Natura Lumina,Cabelos,Cabelos,150ml,,73.9,,,,False,132,bottom-right,Natura - Ciclo 07,Natura,7
+147416,Shampoo purificante,Natura Lumina,Cabelos,Cabelos,300ml,,48.9,,,,False,132,bottom-left,Natura - Ciclo 07,Natura,7
+147414,Refil Shampoo purificante,Natura Lumina,Cabelos,Cabelos,300ml,,48.9,36.9,12.0,24.54,True,132,bottom-left,Natura - Ciclo 07,Natura,7
+147446,Condicionador protetor,Natura Lumina,Cabelos,Cabelos,300ml,,51.9,,,,False,132,bottom-left,Natura - Ciclo 07,Natura,7
+147402,Refil Condicionador protetor,Natura Lumina,Cabelos,Cabelos,300ml,,51.9,38.9,13.0,25.05,True,132,bottom-left,Natura - Ciclo 07,Natura,7
+147434,Spray de pentear antipoluição,Natura Lumina,Cabelos,Cabelos,150ml,,73.9,,,,False,132,bottom-right,Natura - Ciclo 07,Natura,7
+147421,Shampoo estimulante,Lumina,Antiqueda e crescimento,Masculino,300ml,,52.9,,,,False,133,top-left,Natura - Ciclo 07,Natura,7
+147450,Refil Shampoo estimulante,Lumina,Antiqueda e crescimento,Masculino,300ml,,39.9,,,,False,133,top-left,Natura - Ciclo 07,Natura,7
+147444,Condicionador fortificante,Lumina,Antiqueda e crescimento,Masculino,300ml,,55.9,,,,False,133,top-left,Natura - Ciclo 07,Natura,7
+147451,Refil Condicionador fortificante,Lumina,Antiqueda e crescimento,Masculino,300ml,,41.9,,,,False,133,top-left,Natura - Ciclo 07,Natura,7
+147417,Máscara antiquebra,Lumina,Antiqueda e crescimento,Masculino,250ml,,73.9,,,,False,133,top-right,Natura - Ciclo 07,Natura,7
+147407,Refil Máscara antiquebra,Lumina,Antiqueda e crescimento,Masculino,250ml,,55.9,,,,False,133,top-right,Natura - Ciclo 07,Natura,7
+147427,Sérum noturno antiqueda e crescimento,Lumina,Antiqueda e crescimento,Masculino,100ml,,89.9,,,,False,133,top-right,Natura - Ciclo 07,Natura,7
+148176,Shampoo revitalizante,Lumina,Brilho e proteção da cor,Corpo e Banho,300ml,,48.9,,,,False,133,center,Natura - Ciclo 07,Natura,7
+148175,Refil Shampoo revitalizante,Lumina,Brilho e proteção da cor,Corpo e Banho,300ml,,36.9,,,,False,133,center,Natura - Ciclo 07,Natura,7
+148433,Condicionador protetor da cor,Lumina,Brilho e proteção da cor,Corpo e Banho,300ml,,51.9,,,,False,133,center,Natura - Ciclo 07,Natura,7
+148405,Refil Condicionador protetor da cor,Lumina,Brilho e proteção da cor,Corpo e Banho,300ml,,38.9,,,,False,133,center,Natura - Ciclo 07,Natura,7
+148410,Máscara de blindagem,Lumina,Brilho e proteção da cor,Corpo e Banho,220ml,,73.9,,,,False,133,center,Natura - Ciclo 07,Natura,7
+148444,Refil Máscara de blindagem,Lumina,Brilho e proteção da cor,Corpo e Banho,220ml,,55.9,,,,False,133,center,Natura - Ciclo 07,Natura,7
+148449,Spray antidesbotamento e brilho,Lumina,Brilho e proteção da cor,Corpo e Banho,150ml,,73.9,,,,False,133,center,Natura - Ciclo 07,Natura,7
+148158,Shampoo matizador,Lumina,Matização e restauração,Outros,300ml,,48.9,,,,False,133,bottom-left,Natura - Ciclo 07,Natura,7
+148157,Refil Shampoo matizador,Lumina,Matização e restauração,Outros,300ml,,36.9,,,,False,133,bottom-left,Natura - Ciclo 07,Natura,7
+148159,Ampola matização e restauração,Lumina,Matização e restauração,Outros,4 unidades de 20ml cada,,73.9,,,,False,133,bottom-right,Natura - Ciclo 07,Natura,7
+148450,Leave-in matizador,Lumina,Matização e restauração,Outros,150ml,,73.9,,,,False,133,bottom-right,Natura - Ciclo 07,Natura,7
+147420,Nativa SPA Shampoo Reequilibrante Anticaspa,Nativa SPA,Cabelos,Cabelos,300 ml,,52.9,,,,False,134,top-left,Natura - Ciclo 07,Natura,7
+147408,Nativa SPA Refil Shampoo Reequilibrante Anticaspa,Nativa SPA,Cabelos,Cabelos,300 ml,,39.9,,,,False,134,top-left,Natura - Ciclo 07,Natura,7
+147457,Nativa SPA Tônico de Tratamento Intensivo Anticaspa,Nativa SPA,Cabelos,Cabelos,100 ml,,89.9,,,,False,134,top-center,Natura - Ciclo 07,Natura,7
+147449,Nativa SPA Shampoo Equilibrante Antioleosidade,Nativa SPA,Cabelos,Cabelos,300 ml,,52.9,,,,False,134,center-left,Natura - Ciclo 07,Natura,7
+147442,Nativa SPA Refil Shampoo Equilibrante Antioleosidade,Nativa SPA,Cabelos,Cabelos,300 ml,,39.9,,,,False,134,center-left,Natura - Ciclo 07,Natura,7
+147401,Nativa SPA Condicionador Suave Antioleosidade,Nativa SPA,Cabelos,Cabelos,300 ml,,55.9,,,,False,134,center-center,Natura - Ciclo 07,Natura,7
+147445,Nativa SPA Refil Condicionador Suave Antioleosidade,Nativa SPA,Cabelos,Cabelos,300 ml,,41.9,,,,False,134,center-center,Natura - Ciclo 07,Natura,7
+147404,Nativa SPA Shampoo Detox,Nativa SPA,Cabelos,Cabelos,300 ml,,48.9,,,,False,134,center-right,Natura - Ciclo 07,Natura,7
+148170,Nativa SPA Shampoo Reestruturante Reconstrução Extrema,Nativa SPA,Cabelos,Cabelos,300 ml,,48.9,,,,False,134,bottom-left,Natura - Ciclo 07,Natura,7
+148177,Nativa SPA Refil Shampoo Reestruturante Reconstrução Extrema,Nativa SPA,Cabelos,Cabelos,300 ml,,36.9,,,,False,134,bottom-left,Natura - Ciclo 07,Natura,7
+148442,Nativa SPA Condicionador Provitalidade Reconstrução Extrema,Nativa SPA,Cabelos,Cabelos,300 ml,,51.9,,,,False,134,bottom-left,Natura - Ciclo 07,Natura,7
+148399,Nativa SPA Refil Condicionador Provitalidade Reconstrução Extrema,Nativa SPA,Cabelos,Cabelos,300 ml,,38.9,,,,False,134,bottom-left,Natura - Ciclo 07,Natura,7
+148412,Nativa SPA Máscara Regeneradora Reconstrução Extrema,Nativa SPA,Cabelos,Cabelos,250 ml,,73.9,,,,False,134,bottom-right,Natura - Ciclo 07,Natura,7
+148443,Nativa SPA Refil Máscara Regeneradora Reconstrução Extrema,Nativa SPA,Cabelos,Cabelos,250 ml,,55.9,,,,False,134,bottom-right,Natura - Ciclo 07,Natura,7
+148448,Nativa SPA Kit Tratamento Intensivo Reconstrução Extrema,Nativa SPA,Cabelos,Cabelos,1 Primer 100ml + 1 Máscara 220ml,,144.9,,,,False,134,bottom-left,Natura - Ciclo 07,Natura,7
+148421,Nativa SPA Sérum Regenerador Progressivo Reconstrução Extrema,Nativa SPA,Cabelos,Cabelos,100 ml,,73.9,,,,False,134,bottom-center,Natura - Ciclo 07,Natura,7
+148459,Nativa SPA Protetor Térmico Finalizador,Nativa SPA,Cabelos,Cabelos,150 ml,,73.9,,,,False,134,bottom-left,Natura - Ciclo 07,Natura,7
+148455,Nativa SPA Spray Texturizador Finalizador,Nativa SPA,Cabelos,Cabelos,150 ml,,73.9,,,,False,134,bottom-center,Natura - Ciclo 07,Natura,7
+148166,Nativa SPA Spray de Volume Finalizador,Nativa SPA,Cabelos,Cabelos,150 ml,,73.9,,,,False,134,bottom-center,Natura - Ciclo 07,Natura,7
+148167,Nativa SPA Essência Capilar Finalizador,Nativa SPA,Cabelos,Cabelos,30 ml,,73.9,,,,False,134,bottom-right,Natura - Ciclo 07,Natura,7
+171367,Nativa SPA Essência Sublime Capilar Finalizador,Nativa SPA,Cabelos,Cabelos,30 ml,,73.9,,,,False,134,bottom-right,Natura - Ciclo 07,Natura,7
+28724,Óleo Desodorante Corporal Rosas e Amêndoas,Natura Sève,Corpo e Banho,Corpo e Banho,200ml,,107.9,74.9,33.0,30.58,True,135,top-left,Natura - Ciclo 07,Natura,7
+38856,Refil Óleo Desodorante Corporal Rosas e Amêndoas,Natura Sève,Corpo e Banho,Corpo e Banho,200ml,,91.9,63.9,28.0,30.47,True,135,top-right,Natura - Ciclo 07,Natura,7
+20214,Óleo Desodorante Corporal Pimenta Rosa,Natura Sève,Corpo e Banho,Corpo e Banho,200ml,,107.9,,,,False,135,bottom-left,Natura - Ciclo 07,Natura,7
+25543,Refil Óleo Desodorante Corporal Pimenta Rosa,Natura Sève,Corpo e Banho,Corpo e Banho,200ml,,91.9,,,,False,135,bottom-left,Natura - Ciclo 07,Natura,7
+19081,Óleo Desodorante Corporal Amêndoas Doces,Natura Sève,Corpo e Banho,Corpo e Banho,200ml,,107.9,,,,False,135,bottom-center,Natura - Ciclo 07,Natura,7
+18624,Refil Óleo Desodorante Corporal Amêndoas Doces,Natura Sève,Corpo e Banho,Corpo e Banho,200ml,,91.9,,,,False,135,bottom-center,Natura - Ciclo 07,Natura,7
+38854,Óleo Desodorante Corporal Amêndoas Doces Intensa,Natura Sève,Corpo e Banho,Corpo e Banho,200ml,,107.9,,,,False,135,bottom-right,Natura - Ciclo 07,Natura,7
+39015,Refil Óleo Desodorante Corporal Amêndoas Doces Intensa,Natura Sève,Corpo e Banho,Corpo e Banho,200ml,,91.9,,,,False,135,bottom-right,Natura - Ciclo 07,Natura,7
+162027,Kit Desodorante Corporal Luna feminino,Luna,Corpo e Banho,Corpo e Banho,1 Desodorante corporal 100ml + 2 REFIS Desodorantes corporais 100ml,,129.7,64.8,64.9,50.04,True,136,center,Natura - Ciclo 07,Natura,7
+None,Desodorante Corporal Luna 100 ml,Luna,Corpo e Banho,Corpo e Banho,100ml,,51.9,,,,False,136,bottom-left,Natura - Ciclo 07,Natura,7
+None,Refil Desodorante Corporal Luna 100 ml,Luna,Corpo e Banho,Corpo e Banho,100ml,,38.9,,,,False,136,bottom-left,Natura - Ciclo 07,Natura,7
+69200,Desodorante Corporal Luna feminino (Chipre),Luna,Corpo e Banho,Corpo e Banho,100ml,,51.9,,,,False,136,bottom-left,Natura - Ciclo 07,Natura,7
+89259,Refil Desodorante Corporal Luna feminino (Chipre),Luna,Corpo e Banho,Corpo e Banho,100ml,,38.9,,,,False,136,bottom-left,Natura - Ciclo 07,Natura,7
+56754,Desodorante Corporal Kaiak feminino (Cítrico),Kaiak,Corpo e Banho,Corpo e Banho,100ml,,51.9,,,,False,136,bottom-left,Natura - Ciclo 07,Natura,7
+56763,Refil Desodorante Corporal Kaiak feminino (Cítrico),Kaiak,Corpo e Banho,Corpo e Banho,100ml,,38.9,,,,False,136,bottom-left,Natura - Ciclo 07,Natura,7
+56744,Desodorante Corporal Meu Primeiro Humor feminino (Frutal),Humor,Corpo e Banho,Corpo e Banho,100ml,,51.9,,,,False,136,bottom-center,Natura - Ciclo 07,Natura,7
+56766,Refil Desodorante Corporal Meu Primeiro Humor feminino (Frutal),Humor,Corpo e Banho,Corpo e Banho,100ml,,38.9,,,,False,136,bottom-center,Natura - Ciclo 07,Natura,7
+102728,Desodorante Corporal Kaiak Oceano feminino (Floral),Kaiak,Corpo e Banho,Corpo e Banho,100ml,,51.9,,,,False,136,bottom-center,Natura - Ciclo 07,Natura,7
+102729,Refil Desodorante Corporal Kaiak Oceano feminino (Floral),Kaiak,Corpo e Banho,Corpo e Banho,100ml,,38.9,,,,False,136,bottom-center,Natura - Ciclo 07,Natura,7
+123156,Desodorante Corporal Erva Doce (Aromático e fresco),Erva Doce,Corpo e Banho,Corpo e Banho,100ml,,51.9,,,,False,136,bottom-right,Natura - Ciclo 07,Natura,7
+123157,Refil Desodorante Corporal Erva Doce (Aromático e fresco),Erva Doce,Corpo e Banho,Corpo e Banho,100ml,,38.9,,,,False,136,bottom-right,Natura - Ciclo 07,Natura,7
+88453,Desodorante Corporal Biografia feminino (Floral),Biografia,Corpo e Banho,Corpo e Banho,100ml,,51.9,,,,False,136,bottom-right,Natura - Ciclo 07,Natura,7
+88455,Refil Desodorante Corporal Biografia feminino (Floral),Biografia,Corpo e Banho,Corpo e Banho,100ml,,38.9,,,,False,136,bottom-right,Natura - Ciclo 07,Natura,7
+162026,Kit Desodorante Corporal Natura Homem (1 Desodorante Corporal 100ml + 2 Refis),Natura Homem,Corpo e Banho,Corpo e Banho,Kit com 1x100ml + 2x100ml,,129.7,64.8,64.9,50.04,True,137,top-left,Natura - Ciclo 07,Natura,7
+None,Desodorante Corporal Natura Homem,Natura Homem,Corpo e Banho,Corpo e Banho,100ml,,51.9,,,,False,137,bottom-left,Natura - Ciclo 07,Natura,7
+None,Refil Desodorante Corporal Natura Homem,Natura Homem,Corpo e Banho,Corpo e Banho,100ml,,38.9,,,,False,137,bottom-left,Natura - Ciclo 07,Natura,7
+85393,Desodorante Corporal Sr. N Cítrico,Sr. N,Corpo e Banho,Corpo e Banho,100ml,,0.0,,,,False,137,bottom-left,Natura - Ciclo 07,Natura,7
+85390,Refil Desodorante Corporal Sr. N,Sr. N,Corpo e Banho,Corpo e Banho,100ml,,0.0,,,,False,137,bottom-left,Natura - Ciclo 07,Natura,7
+56747,Desodorante Corporal Kaiak Masculino Aromático,Kaiak,Corpo e Banho,Corpo e Banho,100ml,,0.0,,,,False,137,bottom-left,Natura - Ciclo 07,Natura,7
+56948,Refil Desodorante Corporal Kaiak Masculino,Kaiak,Corpo e Banho,Corpo e Banho,100ml,,0.0,,,,False,137,bottom-left,Natura - Ciclo 07,Natura,7
+110686,Desodorante Corporal Natura Homem Amadeirado,Natura Homem,Corpo e Banho,Corpo e Banho,100ml,,0.0,,,,False,137,bottom-right,Natura - Ciclo 07,Natura,7
+57412,Refil Desodorante Corporal Natura Homem Amadeirado,Natura Homem,Corpo e Banho,Corpo e Banho,100ml,,0.0,,,,False,137,bottom-right,Natura - Ciclo 07,Natura,7
+16623,Desodorante Corporal Kaiak Oceano Masculino Aromático,Kaiak Oceano,Corpo e Banho,Corpo e Banho,100ml,,0.0,,,,False,137,bottom-right,Natura - Ciclo 07,Natura,7
+16626,Refil Desodorante Corporal Kaiak Oceano Masculino,Kaiak Oceano,Corpo e Banho,Corpo e Banho,100ml,,0.0,,,,False,137,bottom-right,Natura - Ciclo 07,Natura,7
+167242,Desodorante Corporal Natura Homem Aromáticos,Natura Homem,Corpo e Banho,Corpo e Banho,100ml,,0.0,,,,False,137,bottom-right,Natura - Ciclo 07,Natura,7
+167243,Refil Desodorante Corporal Natura Homem Aromáticos,Natura Homem,Corpo e Banho,Corpo e Banho,100ml,,0.0,,,,False,137,bottom-right,Natura - Ciclo 07,Natura,7
+88454,Desodorante Corporal Biografia Masculino Amadeirado,Biografia,Corpo e Banho,Corpo e Banho,100ml,,0.0,,,,False,137,bottom-right,Natura - Ciclo 07,Natura,7
+88431,Refil Desodorante Corporal Biografia Masculino,Biografia,Corpo e Banho,Corpo e Banho,100ml,,0.0,,,,False,137,bottom-right,Natura - Ciclo 07,Natura,7
+150227,Natura Homem Dom Desodorante Antitranspirante Roll-on,Natura Homem,Corpo e Banho,Corpo e Banho,75ml,,29.9,22.4,7.5,25.08,True,138,top-right,Natura - Ciclo 07,Natura,7
+150222,Natura Homem Tato Desodorante Antitranspirante Roll-on,Natura Homem,Corpo e Banho,Corpo e Banho,75ml,,29.9,22.4,7.5,25.08,True,138,top-left,Natura - Ciclo 07,Natura,7
+150225,Natura Homem Desodorante Antitranspirante Roll-on,Natura Homem,Corpo e Banho,Corpo e Banho,75ml,,29.9,22.4,7.5,25.08,True,138,top-right,Natura - Ciclo 07,Natura,7
+150223,Natura Homem Sem Perfume Desodorante Antitranspirante Roll-on,Natura Homem,Corpo e Banho,Corpo e Banho,75ml,,29.9,22.4,7.5,25.08,True,138,bottom-left,Natura - Ciclo 07,Natura,7
+150229,Natura Homem Essence Desodorante Antitranspirante Roll-on,Natura Homem,Corpo e Banho,Corpo e Banho,75ml,,29.9,22.4,7.5,25.08,True,138,bottom-left,Natura - Ciclo 07,Natura,7
+150228,Natura Homem Elo Desodorante Antitranspirante Roll-on,Natura Homem,Corpo e Banho,Corpo e Banho,75ml,,29.9,22.4,7.5,25.08,True,138,center,Natura - Ciclo 07,Natura,7
+155842,Natura Homem Sagaz Desodorante Antitranspirante Roll-on,Natura Homem,Corpo e Banho,Corpo e Banho,75ml,,29.9,22.4,7.5,25.08,True,138,bottom-right,Natura - Ciclo 07,Natura,7
+152271,Natura Homem Nós Desodorante Antitranspirante Roll-on,Natura Homem,Corpo e Banho,Corpo e Banho,75ml,,29.9,22.4,7.5,25.08,True,138,bottom-right,Natura - Ciclo 07,Natura,7
+109840,Natura Luna Feminino Desodorante Antitranspirante Roll-on,Natura Luna,Corpo e Banho,Corpo e Banho,75ml,,29.9,22.4,7.5,25.08,True,138,bottom-left,Natura - Ciclo 07,Natura,7
+124214,Natura Kaiak Oceano Feminino Desodorante Antitranspirante Roll-on,Natura Kaiak,Corpo e Banho,Corpo e Banho,75ml,,29.9,22.4,7.5,25.08,True,138,bottom-left,Natura - Ciclo 07,Natura,7
+69654,Natura Kaiak Feminino Desodorante Antitranspirante Roll-on,Natura Kaiak,Corpo e Banho,Corpo e Banho,75ml,,29.9,22.4,7.5,25.08,True,138,bottom-right,Natura - Ciclo 07,Natura,7
+124219,Natura Kaiak Aventura Feminino Desodorante Antitranspirante Roll-on,Natura Kaiak,Corpo e Banho,Corpo e Banho,75ml,,29.9,22.4,7.5,25.08,True,138,bottom-right,Natura - Ciclo 07,Natura,7
+69651,Natura Kaiak Urbe Masculino Desodorante Antitranspirante Roll-on,Natura Kaiak,Corpo e Banho,Corpo e Banho,75ml,,29.9,22.4,7.5,25.08,True,138,bottom-left,Natura - Ciclo 07,Natura,7
+109839,Natura Kaiak Oceano Masculino Desodorante Antitranspirante Roll-on,Natura Kaiak,Corpo e Banho,Corpo e Banho,75ml,,29.9,22.4,7.5,25.08,True,138,bottom-left,Natura - Ciclo 07,Natura,7
+69653,Natura Kaiak Masculino Desodorante Antitranspirante Roll-on,Natura Kaiak,Corpo e Banho,Corpo e Banho,75ml,,29.9,22.4,7.5,25.08,True,138,center,Natura - Ciclo 07,Natura,7
+69655,Natura Kaiak Aventura Masculino Desodorante Antitranspirante Roll-on,Natura Kaiak,Corpo e Banho,Corpo e Banho,75ml,,29.9,22.4,7.5,25.08,True,138,bottom-right,Natura - Ciclo 07,Natura,7
+102730,Natura Kaiak Pulso Masculino Desodorante Antitranspirante Roll-on,Natura Kaiak,Corpo e Banho,Corpo e Banho,75ml,,29.9,22.4,7.5,25.08,True,138,bottom-right,Natura - Ciclo 07,Natura,7
+96515,Desodorante Antitranspirante em Creme Tododia Sem Perfume,Tododia,Corpo e Banho,Corpo e Banho,80g,,30.9,15.45,15.45,50.0,True,139,top-center,Natura - Ciclo 07,Natura,7
+None,Desodorante Antitranspirante em Creme Tododia Cereja e Avelã,Tododia,Corpo e Banho,Corpo e Banho,80g,,30.9,30.9,0.0,0.0,False,139,mid-left,Natura - Ciclo 07,Natura,7
+02185,Desodorante Antitranspirante em Creme Tododia Noz Pecã e Cacau,Tododia,Corpo e Banho,Corpo e Banho,80g,,30.9,30.9,0.0,0.0,False,139,mid-left,Natura - Ciclo 07,Natura,7
+96519,Desodorante Antitranspirante em Creme Tododia Leite de Algodão,Tododia,Corpo e Banho,Corpo e Banho,80g,,30.9,30.9,0.0,0.0,False,139,mid-left,Natura - Ciclo 07,Natura,7
+01925,Desodorante Antitranspirante em Creme Tododia Macadâmia,Tododia,Corpo e Banho,Corpo e Banho,80g,,30.9,30.9,0.0,0.0,False,139,mid-left,Natura - Ciclo 07,Natura,7
+96518,Desodorante Antitranspirante em Creme Tododia Flor de Lis,Tododia,Corpo e Banho,Corpo e Banho,80g,,30.9,30.9,0.0,0.0,False,139,mid-left,Natura - Ciclo 07,Natura,7
+02179,Desodorante Antitranspirante em Creme Tododia Erva Doce,Tododia,Corpo e Banho,Corpo e Banho,80g,,30.9,30.9,0.0,0.0,False,139,mid-left,Natura - Ciclo 07,Natura,7
+189406,Desodorante Antitranspirante Roll-On Tododia Cereja e Avelã,Tododia,Corpo e Banho,Corpo e Banho,70ml,,29.9,29.9,0.0,0.0,False,139,bottom-left,Natura - Ciclo 07,Natura,7
+123129,Desodorante Antitranspirante Roll-On Tododia Alecrim e Sálvia,Tododia,Corpo e Banho,Corpo e Banho,70ml,,29.9,29.9,0.0,0.0,False,139,bottom-left,Natura - Ciclo 07,Natura,7
+123122,Desodorante Antitranspirante Roll-On Tododia Leite de Algodão,Tododia,Corpo e Banho,Corpo e Banho,70ml,,29.9,29.9,0.0,0.0,False,139,bottom-left,Natura - Ciclo 07,Natura,7
+123133,Desodorante Antitranspirante Roll-On Tododia Macadâmia,Tododia,Corpo e Banho,Corpo e Banho,70ml,,29.9,29.9,0.0,0.0,False,139,bottom-left,Natura - Ciclo 07,Natura,7
+123124,Desodorante Antitranspirante Roll-On Tododia Flor de Lis,Tododia,Corpo e Banho,Corpo e Banho,70ml,,29.9,29.9,0.0,0.0,False,139,bottom-left,Natura - Ciclo 07,Natura,7
+70825,Desodorante Antitranspirante Roll-On Tododia Erva Doce,Tododia,Corpo e Banho,Corpo e Banho,70ml,,29.9,29.9,0.0,0.0,False,139,bottom-left,Natura - Ciclo 07,Natura,7
+123131,Desodorante Antitranspirante Roll-On Tododia Aclarar,Tododia,Corpo e Banho,Corpo e Banho,70ml,,29.9,29.9,0.0,0.0,False,139,bottom-left,Natura - Ciclo 07,Natura,7
+123118,Desodorante Antitranspirante Roll-On Tododia Tâmara e Canela,Tododia,Corpo e Banho,Corpo e Banho,70ml,,29.9,29.9,0.0,0.0,False,139,bottom-left,Natura - Ciclo 07,Natura,7
+123128,Desodorante Antitranspirante Roll-On Tododia Sem Perfume,Tododia,Corpo e Banho,Corpo e Banho,70ml,,29.9,29.9,0.0,0.0,False,139,bottom-left,Natura - Ciclo 07,Natura,7
+123126,Desodorante Antitranspirante Roll-On Tododia Capim Limão e Hortelã,Tododia,Corpo e Banho,Corpo e Banho,70ml,,29.9,29.9,0.0,0.0,False,139,bottom-left,Natura - Ciclo 07,Natura,7
+123120,Desodorante Antitranspirante Roll-On Tododia Amora Vermelha e Jabuticaba,Tododia,Corpo e Banho,Corpo e Banho,70ml,,29.9,29.9,0.0,0.0,False,139,bottom-left,Natura - Ciclo 07,Natura,7
+92795,Sabonete em Barra Mamãe e Bebê,Natura Mamãe e Bebê,Corpo e Banho,Corpo e Banho,5 unidades de 100g cada,,47.9,47.9,0.0,0.0,False,140,bottom-center,Natura - Ciclo 07,Natura,7
+92800,Sabonete Líquido Mamãe e Bebê,Natura Mamãe e Bebê,Corpo e Banho,Corpo e Banho,200ml,,49.9,49.9,0.0,0.0,False,140,bottom-center,Natura - Ciclo 07,Natura,7
+92802,Refil Sabonete Líquido Mamãe e Bebê,Natura Mamãe e Bebê,Corpo e Banho,Corpo e Banho,200ml,,38.9,38.9,0.0,0.0,False,140,bottom-center,Natura - Ciclo 07,Natura,7
+75234,Óleo de Massagem no Bebê com Guia de Massagem Mamãe e Bebê,Natura Mamãe e Bebê,Corpo e Banho,Corpo e Banho,100ml,,59.9,59.9,0.0,0.0,False,140,bottom-center,Natura - Ciclo 07,Natura,7
+92786,Água de Colônia Sem Álcool Mamãe e Bebê,Natura Mamãe e Bebê,Perfumaria,Perfumaria,100ml,,103.9,103.9,0.0,0.0,False,140,bottom-center,Natura - Ciclo 07,Natura,7
+128286,Kit Banho Mamãe e Bebê com Cheirinho de Amor,Mamãe e Bebê,Corpo e Banho,Corpo e Banho,"Shampoo 200ml, Condicionador 200ml, Sabonete 100g",,95.5,69.9,25.6,26.81,True,141,top-right,Natura - Ciclo 07,Natura,7
+92790,Shampoo Mamãe e Bebê,Mamãe e Bebê,Corpo e Banho,Corpo e Banho,200ml,,43.5,36.9,6.6,15.17,True,141,bottom-left,Natura - Ciclo 07,Natura,7
+92791,Refil Shampoo Mamãe e Bebê,Mamãe e Bebê,Corpo e Banho,Corpo e Banho,200ml (refil),,34.5,34.5,0.0,0.0,False,141,bottom-left,Natura - Ciclo 07,Natura,7
+92793,Condicionador Mamãe e Bebê,Mamãe e Bebê,Corpo e Banho,Corpo e Banho,200ml,,43.5,36.9,6.6,15.17,True,141,bottom-right,Natura - Ciclo 07,Natura,7
+92794,Refil Condicionador Mamãe e Bebê,Mamãe e Bebê,Corpo e Banho,Corpo e Banho,200ml (refil),,34.5,34.5,0.0,0.0,False,141,bottom-right,Natura - Ciclo 07,Natura,7
+92808,Hidratante Preventivo de Estrias,Boti Baby,Hidratação,Corpo e Banho,200 ml,,89.9,,,,False,142,top-left,Natura - Ciclo 07,Natura,7
+106415,Álcool em Gel,Boti Baby,Higiene,Outros,55 g,,34.9,,,,False,142,top-left,Natura - Ciclo 07,Natura,7
+133589,Água de Colônia Sem Álcool para a Mamãe,Boti Baby,Perfumaria,Perfumaria,100 ml,,103.9,,,,False,142,top-right,Natura - Ciclo 07,Natura,7
+75233,Óleo para Gestante com Guia de Massagem,Boti Baby,Cuidados Pessoais,Corpo e Banho,200 ml,,99.9,,,,False,142,top-right,Natura - Ciclo 07,Natura,7
+92806,Hidratante Relaxante,Boti Baby,Hidratação,Corpo e Banho,200 ml,,64.9,,,,False,142,center-left,Natura - Ciclo 07,Natura,7
+92952,Sabonete em Espuma Relaxante,Boti Baby,Corpo e Banho,Corpo e Banho,200 ml,,59.9,,,,False,142,center-left,Natura - Ciclo 07,Natura,7
+92788,Água de Colônia Relaxante,Boti Baby,Perfumaria,Perfumaria,100 ml,,103.9,,,,False,142,center-right,Natura - Ciclo 07,Natura,7
+92799,Lenços Umedecidos Sem Fragrância,Boti Baby,Higiene,Outros,50 folhas,,31.9,,,,False,142,bottom-left,Natura - Ciclo 07,Natura,7
+97955,Creme Preventivo de Assaduras,Boti Baby,Tratamento,Corpo e Banho,60 g,,49.9,,,,False,142,bottom-left,Natura - Ciclo 07,Natura,7
+106422,Sabonete Líquido Sem Fragrância,Boti Baby,Corpo e Banho,Corpo e Banho,200 ml,,49.9,,,,False,142,bottom-right,Natura - Ciclo 07,Natura,7
+106423,Hidratante Sem Fragrância,Boti Baby,Hidratação,Corpo e Banho,200 ml,,64.9,,,,False,142,bottom-right,Natura - Ciclo 07,Natura,7
+187034,Conjunto Mamãe e Bebê com Frasqueira,Boti Baby,Kits/Presentes,Kits e Presentes,,,279.9,,,,False,142,bottom-left,Natura - Ciclo 07,Natura,7
+126980,Conjunto Papai e Bebê com Mochila,Boti Baby,Kits/Presentes,Kits e Presentes,,,489.9,,,,False,142,bottom-center,Natura - Ciclo 07,Natura,7
+169427,Kit Miniatura Mamãe e Bebê,Boti Baby,Kits/Presentes,Kits e Presentes,,,129.9,,,,False,142,bottom-right,Natura - Ciclo 07,Natura,7
+92804,Hidratante Mamãe e Bebê,Mamãe e Bebê,Hidratação,Corpo e Banho,200ml,,114.8,64.9,49.9,43.47,True,143,top-center,Natura - Ciclo 07,Natura,7
+106418,Refil Hidratante Mamãe e Bebê,Mamãe e Bebê,Hidratação,Corpo e Banho,200ml,,49.9,0.0,,,True,143,top-center,Natura - Ciclo 07,Natura,7
+92798,Lenços Umedecidos Mamãe e Bebê com fragrância,Mamãe e Bebê,Corpo e Banho,Corpo e Banho,50 folhas,,31.9,22.3,9.6,30.09,True,143,bottom-center,Natura - Ciclo 07,Natura,7
+106496,Hidratante corporal,Natura Naturé,Hidratação,Corpo e Banho,125ml,,41.9,,,,False,144,bottom-right,Natura - Ciclo 07,Natura,7
+112788,Sabonetes em barra quadradinhos,Infantis Naturé,Corpo e Banho,Corpo e Banho,5 unidades de 90g cada,,46.9,39.8,7.1,15.14,True,145,top-left,Natura - Ciclo 07,Natura,7
+128757,Colônia corre corre,Infantis Naturé,Perfumaria,Perfumaria,100ml,,103.9,59.9,44.0,42.35,True,145,top-right,Natura - Ciclo 07,Natura,7
+146473,REFIL Colônia corre corre,Infantis Naturé,Perfumaria,Perfumaria,,,82.9,,,,False,145,top-right,Natura - Ciclo 07,Natura,7
+126266,Sabonetes em barra naturês,Infantis Naturé,Corpo e Banho,Corpo e Banho,3 unidades de 90g cada,,56.9,,,,False,145,bottom-left,Natura - Ciclo 07,Natura,7
+166022,Sabonetes em barra naturês na natureza,Infantis Naturé,Corpo e Banho,Corpo e Banho,4 unidades de 90g cada,,49.9,,,,False,145,bottom-left,Natura - Ciclo 07,Natura,7
+128758,Colônia pula pula,Infantis Naturé,Perfumaria,Perfumaria,100ml,,103.9,,,,False,145,bottom-right,Natura - Ciclo 07,Natura,7
+146474,REFIL Colônia pula pula,Infantis Naturé,Perfumaria,Perfumaria,,,82.9,,,,False,145,bottom-right,Natura - Ciclo 07,Natura,7
+106421,Colônia catavento,Infantis Naturé,Perfumaria,Perfumaria,100ml,,103.9,,,,False,145,bottom-right,Natura - Ciclo 07,Natura,7
+156244,REFIL Colônia catavento,Infantis Naturé,Perfumaria,Perfumaria,,,82.9,,,,False,145,bottom-right,Natura - Ciclo 07,Natura,7
+26441,Sabonete cremoso para as mãos,Natura Erva Doce,Corpo e Banho,Corpo e Banho,250 ml,,57.9,,,,False,146,center,Natura - Ciclo 07,Natura,7
+28175,Refil Sabonete cremoso para as mãos,Natura Erva Doce,Corpo e Banho,Corpo e Banho,250 ml,,42.9,,,,False,146,center,Natura - Ciclo 07,Natura,7
+27730,Álcool gel antisséptico 70° inpm,Natura Erva Doce,Higiene Pessoal,Outros,45 g,,25.9,,,,False,146,bottom-left,Natura - Ciclo 07,Natura,7
+26384,Sabonete em barra puro vegetal (caixa com 3 unidades),Natura Erva Doce,Corpo e Banho,Corpo e Banho,3 unidades de 90g cada,,28.9,,,,False,146,bottom-left,Natura - Ciclo 07,Natura,7
+34089,Sabonete em barra puro vegetal sortido (caixa com 4 unidades),Natura Erva Doce,Corpo e Banho,Corpo e Banho,4 unidades de 90g cada,,36.9,,,,False,146,bottom-right,Natura - Ciclo 07,Natura,7
+103136,Loção Protetora Criança FPS 60 / FPUVA 20,Natura Fotoequilíbrio,Proteção Solar,Proteção Solar,120ml,,122.9,84.9,38.0,30.92,True,147,bottom-left,Natura - Ciclo 07,Natura,7
+103144,Protetor Solar Facial Gel Creme FPS 60 / FPUVA 20 para Pele Mista a Oleosa,Natura Fotoequilíbrio,Proteção Solar,Proteção Solar,50g,,105.9,78.9,27.0,25.5,True,147,center,Natura - Ciclo 07,Natura,7
+103145,Emulsão Facial FPS 60 / FPUVA 20 para Pele Normal a Seca,Natura Fotoequilíbrio,Proteção Solar,Proteção Solar,50g,,105.9,78.9,27.0,25.5,True,147,center,Natura - Ciclo 07,Natura,7
+103134,Loção Protetora Corporal FPS 30 / FPUVA 10,Natura Fotoequilíbrio,Proteção Solar,Proteção Solar,120ml,,95.9,,,,False,147,bottom-left,Natura - Ciclo 07,Natura,7
+103135,Loção Protetora Corporal FPS 60 / FPUVA 20,Natura Fotoequilíbrio,Proteção Solar,Proteção Solar,120ml,,117.9,,,,False,147,bottom-center,Natura - Ciclo 07,Natura,7
+170767,Mochila Natura Crer Para Ver,Natura Crer Para Ver,Acessórios,Acessórios,,,149.9,134.9,15.0,10.01,True,148,top-right,Natura - Ciclo 07,Natura,7
+170772,Caderno Natura Crer Para Ver,Natura Crer Para Ver,Escolares,Outros,,,47.9,,,,False,148,bottom-left,Natura - Ciclo 07,Natura,7
+170766,Kit Lápis e Caneta Natura Crer Para Ver,Natura Crer Para Ver,Escolares,Outros,,,21.9,,,,False,148,bottom-left,Natura - Ciclo 07,Natura,7
+170765,Estojo Natura Crer Para Ver,Natura Crer Para Ver,Escolares,Outros,,,24.9,,,,False,148,bottom-center,Natura - Ciclo 07,Natura,7
+170770,Duo Cadernos Natura Crer Para Ver,Natura Crer Para Ver,Escolares,Outros,,,29.9,,,,False,148,bottom-right,Natura - Ciclo 07,Natura,7
+185928,Garrafa Térmica Natura Crer Para Ver,Natura Crer Para Ver,Utensílios Domésticos,Maquiagem,500ml,,109.9,,,,False,148,bottom-right,Natura - Ciclo 07,Natura,7
+148133,Xícara e Pires Natura Crer Para Ver,Natura Crer Para Ver,Utensílios Domésticos,Maquiagem,75ml,,36.9,,,,False,148,bottom-left,Natura - Ciclo 07,Natura,7
+148141,Prato de Sobremesa Natura Crer Para Ver,Natura Crer Para Ver,Utensílios Domésticos,Maquiagem,,,36.9,,,,False,148,bottom-center,Natura - Ciclo 07,Natura,7
+148136,Tigela Natura Crer Para Ver,Natura Crer Para Ver,Utensílios Domésticos,Maquiagem,400ml,,49.9,,,,False,148,bottom-right,Natura - Ciclo 07,Natura,7
+148135,Caneca Natura Crer Para Ver,Natura Crer Para Ver,Utensílios Domésticos,Maquiagem,325ml,,39.9,,,,False,148,bottom-right,Natura - Ciclo 07,Natura,7
+194202,Bolsa de Mão,Crer Para Ver,Acessórios,Acessórios,"C 17 x L 3 x A 11,5 cm",,41.9,37.7,4.2,10.02,True,149,center,Natura - Ciclo 07,Natura,7
+189544,Nécessaire Estampado,Crer Para Ver,Acessórios,Acessórios,"C 20 x L 8 x A 9,5 cm",,45.9,,,,False,149,bottom-left,Natura - Ciclo 07,Natura,7
+170769,Bolsa Tiracolo com Porta-Celular,Crer Para Ver,Acessórios,Acessórios,C 12 x L 1 x A 17 cm,,49.9,,,,False,149,bottom-left,Natura - Ciclo 07,Natura,7
+163212,Frasqueira Térmica,Crer Para Ver,Acessórios,Acessórios,"C 20 x L 11 x A 22 cm, Capacidade para 4,5 litros",,86.9,,,,False,149,bottom-center,Natura - Ciclo 07,Natura,7
+163210,Frasqueira,Crer Para Ver,Acessórios,Acessórios,C 20 x L 13 x A 17 cm,,83.9,,,,False,149,bottom-right,Natura - Ciclo 07,Natura,7
+176442,Lugar Americano,Crer Para Ver,Acessórios para Casa,Acessórios,C 45 x A 28 cm,,29.9,,,,False,149,bottom-left,Natura - Ciclo 07,Natura,7
+152269,Sacola de Presente P,Crer Para Ver,Embalagem,Outros,C 25 x L 12 x A 26 cm,,7.5,,,,False,149,bottom-center,Natura - Ciclo 07,Natura,7
+152267,Sacola de Presente M,Crer Para Ver,Embalagem,Outros,C 31 x L 12 x A 40 cm,,8.9,,,,False,149,bottom-center,Natura - Ciclo 07,Natura,7
+134197,Saboneteira 100% Reciclada,Crer Para Ver,Acessórios para Banho,Acessórios,,,23.8,,,,False,149,bottom-right,Natura - Ciclo 07,Natura,7
+105059,Garrafa,Crer Para Ver,Acessórios para Casa,Acessórios,"D 6,4 x A 22,7 cm, Capacidade para 500 ml",,28.9,,,,False,149,bottom-right,Natura - Ciclo 07,Natura,7
+193770,Presente Natura Homem,Natura Homem,Kits e Presentes,Kits e Presentes,"Kit com 1 desodorante colônia 100ml, 1 hidratante mãos 50ml",,234.8,199.9,34.9,14.86,True,151,top-right,Natura - Ciclo 07,Natura,7
+194503,Presente Natura Naturé Pique Pega,Natura Naturé,Kits e Presentes,Kits e Presentes,"Kit com 1 colônia 100ml, 1 caixa de sabonetes (4x90g)",,153.8,129.9,23.9,15.54,True,151,center,Natura - Ciclo 07,Natura,7
+174326,Embalagem de presente P Parabéns,Presentes,Embalagens para Presente,Kits e Presentes,"C 9,5 x L 11 x A 21 cm",,5.0,,,,False,151,bottom-left,Natura - Ciclo 07,Natura,7
+178148,Embalagem de presente M Parabéns,Presentes,Embalagens para Presente,Kits e Presentes,"C 11,8 x L 13,8 x A 27,3 cm",,7.0,,,,False,151,bottom-right,Natura - Ciclo 07,Natura,7
+99137,Creme desodorante nutritivo para o corpo Tododia cereja e avelã,Natura Tododia,Corpo e Banho,Corpo e Banho,400ml,,72.9,53.9,19.0,26.06,True,152,top-left,Natura - Ciclo 07,Natura,7
+72980,Polpa hidratante para as mãos Ekos Ucuuba,Natura Ekos,Hidratação,Corpo e Banho,75g,,56.9,41.9,15.0,26.36,True,152,top-right,Natura - Ciclo 07,Natura,7
+118910,Gel booster hidratante facial Faces,Natura Faces,Tratamento Facial,Corpo e Banho,35g,,59.9,32.9,27.0,45.08,True,152,bottom-left,Natura - Ciclo 07,Natura,7
+70391,Refil Sabonete líquido hidratante corporal Ekos Ucuuba,Natura Ekos,Corpo e Banho,Corpo e Banho,195ml,,38.9,26.9,12.0,30.85,True,152,bottom-right,Natura - Ciclo 07,Natura,7
+108634,Chronos sérum preenchedor biohidratante,Chronos,Cuidados com a Pele,Outros,30ml,,189.0,141.0,48.0,25.4,True,153,top-left,Natura - Ciclo 07,Natura,7
+131456,Chronos sérum intensivo antioxidante,Chronos,Cuidados com a Pele,Outros,15ml,,179.0,134.0,45.0,25.14,True,153,top-right,Natura - Ciclo 07,Natura,7
+28724,Óleo desodorante corporal Sève Rosas e Amêndoas,Sève,Corpo e Banho,Corpo e Banho,200ml,,107.9,74.9,33.0,30.58,True,153,bottom-left,Natura - Ciclo 07,Natura,7
+152298,Creme desodorante nutritivo energizante para o corpo 2 em 1 Tododia Flor de Gengibre e Tangerina,Tododia,Corpo e Banho,Corpo e Banho,200ml,,49.9,32.4,17.5,35.07,True,153,bottom-right,Natura - Ciclo 07,Natura,7
+None,Sabonete em Barra Mamãe e Bebê,Natura Mamãe e Bebê,Corpo e Banho,Corpo e Banho,,,0.0,,,,True,155,bottom-left,Natura - Ciclo 07,Natura,7
+None,Shampoo Cabelo e Corpo Mamãe e Bebê,Natura Mamãe e Bebê,Cabelos,Cabelos,200ml,,0.0,,,,True,155,center,Natura - Ciclo 07,Natura,7
+None,Condicionador Mamãe e Bebê,Natura Mamãe e Bebê,Cabelos,Cabelos,200ml,,0.0,,,,True,155,center,Natura - Ciclo 07,Natura,7

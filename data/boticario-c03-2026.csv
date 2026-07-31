@@ -1,0 +1,34 @@
+code,name,product_line,category,normalized_category,volume_weight,quantity,regular_price,promotional_price,savings,discount_percentage,promotion_active,page,quadrant,catalog_name,brand,cycle
+85675,Creme Relaxante Hidratante Corporal (Cereja de Fases),Cuide-se Bem,Hidratação,Corpo e Banho,200 g,,69.9,55.9,14.0,20.03,True,2,bottom-left,O Boticário - Ciclo 03,O Boticário,3
+85679,"Sabonete em Barra, 4 unidades (Cereja de Fases)",Cuide-se Bem,Limpeza,Corpo e Banho,4 unidades de 80 g cada,,36.9,28.9,8.0,21.68,True,2,bottom-left,O Boticário - Ciclo 03,O Boticário,3
+90995,Sabonete Líquido 2 em 1 Corpo e Rosto (Cereja de Fases),Cuide-se Bem,Limpeza,Corpo e Banho,200 ml,,52.9,41.9,11.0,20.79,True,2,bottom-right,O Boticário - Ciclo 03,O Boticário,3
+85672,Loção Desodorante Hidratante Corporal (Cereja de Fases),Cuide-se Bem,Hidratação,Corpo e Banho,200 ml,,54.9,43.9,11.0,20.04,True,2,bottom-right,O Boticário - Ciclo 03,O Boticário,3
+87963,Óleo Corporal Térmico Cuide-se Bem Cereja de Fases,Cuide-se Bem Cereja de Fases,Tratamento,Corpo e Banho,110 ml,,57.9,45.9,12.0,20.73,True,3,bottom-left,O Boticário - Ciclo 03,O Boticário,3
+85671,Loção Desodorante Hidratante Corporal Cuide-se Bem Cereja de Fases,Cuide-se Bem Cereja de Fases,Hidratação,Corpo e Banho,400 ml,,74.9,59.9,15.0,20.03,True,3,bottom-right,O Boticário - Ciclo 03,O Boticário,3
+88913,Spray Íntimo Cuide-se Bem Cereja de Fases,Cuide-se Bem Cereja de Fases,Proteção,Proteção Solar,75 ml,,44.9,35.9,9.0,20.04,True,4,bottom-left,O Boticário - Ciclo 03,O Boticário,3
+88396,Body Splash Desodorante Colônia Cuide-se Bem Cereja de Fases,Cuide-se Bem Cereja de Fases,Perfumaria,Perfumaria,200 ml,,92.9,92.9,0.0,0.0,False,4,bottom-center,O Boticário - Ciclo 03,O Boticário,3
+89697,Adesivos para Espinha Facial Cuide-se Bem Cereja de Fases,Cuide-se Bem Cereja de Fases,Facial,Skincare,24 unidades,,43.9,34.9,9.0,20.5,True,4,bottom-center,O Boticário - Ciclo 03,O Boticário,3
+89338,Nécessaire Cuide-se Bem Cereja de Fases,Cuide-se Bem Cereja de Fases,Acessório,Acessórios,"19 x 6,5 x 14,5 cm",,59.9,47.9,12.0,20.03,True,4,bottom-right,O Boticário - Ciclo 03,O Boticário,3
+KIT_CUIDADO_DIARIO,Kit Cuidado Diário e Perfumação,Cuide-se Bem Cereja de Ciclo,Corpo e Banho,Corpo e Banho,,,204.7,181.7,23.0,11.24,True,5,top-left,O Boticário - Ciclo 03,O Boticário,3
+85671,Loção Hidratante Corporal,Cuide-se Bem Cereja de Ciclo,Hidratação,Corpo e Banho,400ml,,0.0,,,,False,5,top-left,O Boticário - Ciclo 03,O Boticário,3
+88396,Body Splash,Cuide-se Bem Cereja de Ciclo,Perfumaria,Perfumaria,200ml,,0.0,,,,False,5,top-left,O Boticário - Ciclo 03,O Boticário,3
+85679,Sabonete em Barra,Cuide-se Bem Cereja de Ciclo,Corpo e Banho,Corpo e Banho,4 unidades de 80g cada,,0.0,,,,False,5,top-left,O Boticário - Ciclo 03,O Boticário,3
+KIT_CUIDADOS_ESPECIAIS,Kit Cuidados Especiais,Cuide-se Bem Cereja de Ciclo,Corpo e Banho,Corpo e Banho,,,172.7,137.7,35.0,20.27,True,5,center-left,O Boticário - Ciclo 03,O Boticário,3
+87963,Óleo Corporal Térmico,Cuide-se Bem Cereja de Ciclo,Corpo e Banho,Corpo e Banho,110ml,,0.0,,,,False,5,center-left,O Boticário - Ciclo 03,O Boticário,3
+88913,Spray Íntimo,Cuide-se Bem Cereja de Ciclo,Higiene Íntima,Outros,75ml,,0.0,,,,False,5,center-left,O Boticário - Ciclo 03,O Boticário,3
+85675,Creme Relaxante Hidratante Corporal,Cuide-se Bem Cereja de Ciclo,Hidratação,Corpo e Banho,200g,,0.0,,,,False,5,center-left,O Boticário - Ciclo 03,O Boticário,3
+KIT_PARA_LEVAR,Kit Para Levar Com Você,Cuide-se Bem Cereja de Ciclo,Corpo e Banho,Corpo e Banho,,,211.6,168.6,43.0,20.32,True,5,bottom-left,O Boticário - Ciclo 03,O Boticário,3
+90995,Sabonete Líquido 2 em 1,Cuide-se Bem Cereja de Ciclo,Corpo e Banho,Corpo e Banho,200ml,,0.0,,,,False,5,bottom-left,O Boticário - Ciclo 03,O Boticário,3
+89338,Nécessaire Cereja de Fases,Cuide-se Bem Cereja de Ciclo,Acessórios,Acessórios,,,0.0,,,,False,5,bottom-left,O Boticário - Ciclo 03,O Boticário,3
+85672,Loção Desodorante Hidratante Corporal,Cuide-se Bem Cereja de Ciclo,Hidratação,Corpo e Banho,200ml,,0.0,,,,False,5,bottom-left,O Boticário - Ciclo 03,O Boticário,3
+89697,Adesivos para Espinha Facial,Cuide-se Bem Cereja de Ciclo,Cuidados Faciais,Skincare,24 unidades,,0.0,,,,False,5,bottom-left,O Boticário - Ciclo 03,O Boticário,3
+27858,Lápis Retrátil À Prova D'Água Preto,Make B.,Maquiagem,Maquiagem,"0,35 g",,67.9,43.9,24.0,35.35,True,6,top-left,O Boticário - Ciclo 03,O Boticário,3
+50756,Máscara Cílios Postiços com Vitamina B5,Make B.,Maquiagem,Maquiagem,10 g,,94.9,60.9,34.0,35.83,True,6,center,O Boticário - Ciclo 03,O Boticário,3
+52619,Máscara para Cílios Scandal Lashes com Óleo de Coco,Make B.,Maquiagem,Maquiagem,10 g,,94.9,70.9,24.0,25.29,True,6,bottom-center,O Boticário - Ciclo 03,O Boticário,3
+59555,HER CODE TOUCH EAU DE PARFUM,Her Code,Perfumaria,Perfumaria,50 ml,,244.9,199.9,45.0,18.37,True,7,bottom-left,O Boticário - Ciclo 03,O Boticário,3
+50022,HER CODE EAU DE PARFUM,Her Code,Perfumaria,Perfumaria,50 ml,,244.9,199.9,45.0,18.37,True,7,center,O Boticário - Ciclo 03,O Boticário,3
+86983,HER CODE CLÍMAX EAU DE PARFUM,Her Code,Perfumaria,Perfumaria,50 ml,,244.9,199.9,45.0,18.37,True,7,bottom-right,O Boticário - Ciclo 03,O Boticário,3
+52627,BOTIK ÁCIDO HIALURÔNICO BALM HIDRATANTE FPS 15,Botik,Tratamento Facial,Corpo e Banho,"3,2 g",,47.9,,,,True,8,bottom-left,O Boticário - Ciclo 03,O Boticário,3
+04520,BOTIK ÁCIDO HIALURÔNICO GEL CREME,Botik,Tratamento Facial,Corpo e Banho,40 g,,174.9,,,,True,8,bottom-left,O Boticário - Ciclo 03,O Boticário,3
+77138,BOTIK HIALU + CAFEÍNA CREME CONCENTRADO PARA OLHOS,Botik,Tratamento Facial,Corpo e Banho,15 g,,149.9,,,,True,8,bottom-right,O Boticário - Ciclo 03,O Boticário,3
+77129,BOTIK ÁCIDO HIALURÔNICO SÉRUM DE ALTA POTÊNCIA,Botik,Tratamento Facial,Corpo e Banho,30 ml,,199.9,,,,True,8,bottom-right,O Boticário - Ciclo 03,O Boticário,3

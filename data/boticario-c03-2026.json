@@ -1,0 +1,1135 @@
+{
+  "metadata": {
+    "name": "O Boticário - Ciclo 03",
+    "brand": "O Boticário",
+    "cycle": 3,
+    "reference_date": "2026",
+    "validity_start": "2026-02-09",
+    "validity_end": "2026-03-01",
+    "total_pages": 10,
+    "source_file": "data/catalogs/boticario-c03.pdf",
+    "pages_processed": 0,
+    "pages_with_errors": [],
+    "exported_at": "2026-03-05T21:11:13.298430"
+  },
+  "global_promotional_rules": [],
+  "products": [
+    {
+      "code": "85675",
+      "name": "Creme Relaxante Hidratante Corporal (Cereja de Fases)",
+      "product_line": "Cuide-se Bem",
+      "category": "Hidratação",
+      "normalized_category": "Corpo e Banho",
+      "volume_weight": "200 g",
+      "quantity": null,
+      "regular_price": 69.9,
+      "promotional_price": 55.9,
+      "savings": 14.0,
+      "discount_percentage": 20.03,
+      "promotion_active": true,
+      "promotional_rule": {
+        "type": "simple_discount",
+        "description": "Economize R$ 14,00",
+        "conditions": {},
+        "discount_tiers": {},
+        "combo_codes": [],
+        "related_pages": []
+      },
+      "features": [
+        "Vegano",
+        "Para pernas, pés e costas",
+        "Sensaçao relaxante",
+        "Ajuda a aliviar o cansaço"
+      ],
+      "page": 2,
+      "quadrant": "bottom-left",
+      "alerts": []
+    },
+    {
+      "code": "85679",
+      "name": "Sabonete em Barra, 4 unidades (Cereja de Fases)",
+      "product_line": "Cuide-se Bem",
+      "category": "Limpeza",
+      "normalized_category": "Corpo e Banho",
+      "volume_weight": "4 unidades de 80 g cada",
+      "quantity": null,
+      "regular_price": 36.9,
+      "promotional_price": 28.9,
+      "savings": 8.0,
+      "discount_percentage": 21.68,
+      "promotion_active": true,
+      "promotional_rule": {
+        "type": "simple_discount",
+        "description": "Economize R$ 8,00",
+        "conditions": {},
+        "discount_tiers": {},
+        "combo_codes": [],
+        "related_pages": []
+      },
+      "features": [
+        "Vegano",
+        "Espuma cremosa",
+        "Limpa sem ressecar"
+      ],
+      "page": 2,
+      "quadrant": "bottom-left",
+      "alerts": [
+        {
+          "level": "info",
+          "field": "nome",
+          "message": "Product name contains unusual characters",
+          "original_value": "Sabonete em Barra, 4 unidades (Cereja de Fases)",
+          "corrected_value": null
+        }
+      ]
+    },
+    {
+      "code": "90995",
+      "name": "Sabonete Líquido 2 em 1 Corpo e Rosto (Cereja de Fases)",
+      "product_line": "Cuide-se Bem",
+      "category": "Limpeza",
+      "normalized_category": "Corpo e Banho",
+      "volume_weight": "200 ml",
+      "quantity": null,
+      "regular_price": 52.9,
+      "promotional_price": 41.9,
+      "savings": 11.0,
+      "discount_percentage": 20.79,
+      "promotion_active": true,
+      "promotional_rule": {
+        "type": "simple_discount",
+        "description": "Economize R$ 11,00",
+        "conditions": {},
+        "discount_tiers": {},
+        "combo_codes": [],
+        "related_pages": []
+      },
+      "features": [
+        "Para corpo e rosto",
+        "Controla a oleosidade",
+        "Melhora a textura da pele"
+      ],
+      "page": 2,
+      "quadrant": "bottom-right",
+      "alerts": []
+    },
+    {
+      "code": "85672",
+      "name": "Loção Desodorante Hidratante Corporal (Cereja de Fases)",
+      "product_line": "Cuide-se Bem",
+      "category": "Hidratação",
+      "normalized_category": "Corpo e Banho",
+      "volume_weight": "200 ml",
+      "quantity": null,
+      "regular_price": 54.9,
+      "promotional_price": 43.9,
+      "savings": 11.0,
+      "discount_percentage": 20.04,
+      "promotion_active": true,
+      "promotional_rule": {
+        "type": "simple_discount",
+        "description": "Economize R$ 11,00",
+        "conditions": {},
+        "discount_tiers": {},
+        "combo_codes": [],
+        "related_pages": []
+      },
+      "features": [
+        "Vegano",
+        "48h de hidratação",
+        "Pele ultramacia"
+      ],
+      "page": 2,
+      "quadrant": "bottom-right",
+      "alerts": []
+    },
+    {
+      "code": "87963",
+      "name": "Óleo Corporal Térmico Cuide-se Bem Cereja de Fases",
+      "product_line": "Cuide-se Bem Cereja de Fases",
+      "category": "Tratamento",
+      "normalized_category": "Corpo e Banho",
+      "volume_weight": "110 ml",
+      "quantity": null,
+      "regular_price": 57.9,
+      "promotional_price": 45.9,
+      "savings": 12.0,
+      "discount_percentage": 20.73,
+      "promotion_active": true,
+      "promotional_rule": {
+        "type": "simple_discount",
+        "description": "Economize R$ 12,00",
+        "conditions": {},
+        "discount_tiers": {},
+        "combo_codes": [],
+        "related_pages": []
+      },
+      "features": [
+        "Vegano",
+        "Óleo com sensação de bolsa térmica",
+        "Sensação de relaxamento",
+        "Calor que abraça"
+      ],
+      "page": 3,
+      "quadrant": "bottom-left",
+      "alerts": []
+    },
+    {
+      "code": "85671",
+      "name": "Loção Desodorante Hidratante Corporal Cuide-se Bem Cereja de Fases",
+      "product_line": "Cuide-se Bem Cereja de Fases",
+      "category": "Hidratação",
+      "normalized_category": "Corpo e Banho",
+      "volume_weight": "400 ml",
+      "quantity": null,
+      "regular_price": 74.9,
+      "promotional_price": 59.9,
+      "savings": 15.0,
+      "discount_percentage": 20.03,
+      "promotion_active": true,
+      "promotional_rule": {
+        "type": "simple_discount",
+        "description": "Economize R$ 15,00",
+        "conditions": {},
+        "discount_tiers": {},
+        "combo_codes": [],
+        "related_pages": []
+      },
+      "features": [
+        "Vegano",
+        "48h de hidratação profunda",
+        "Absorve rápido"
+      ],
+      "page": 3,
+      "quadrant": "bottom-right",
+      "alerts": []
+    },
+    {
+      "code": "88913",
+      "name": "Spray Íntimo Cuide-se Bem Cereja de Fases",
+      "product_line": "Cuide-se Bem Cereja de Fases",
+      "category": "Proteção",
+      "normalized_category": "Proteção Solar",
+      "volume_weight": "75 ml",
+      "quantity": null,
+      "regular_price": 44.9,
+      "promotional_price": 35.9,
+      "savings": 9.0,
+      "discount_percentage": 20.04,
+      "promotion_active": true,
+      "promotional_rule": {
+        "type": "simple_discount",
+        "description": "Desconto simples",
+        "conditions": {},
+        "discount_tiers": {},
+        "combo_codes": [],
+        "related_pages": []
+      },
+      "features": [
+        "Proteção e perfumação ginecologicamente testado",
+        "Frescor prolongado",
+        "Mantém o pH da pele"
+      ],
+      "page": 4,
+      "quadrant": "bottom-left",
+      "alerts": []
+    },
+    {
+      "code": "88396",
+      "name": "Body Splash Desodorante Colônia Cuide-se Bem Cereja de Fases",
+      "product_line": "Cuide-se Bem Cereja de Fases",
+      "category": "Perfumaria",
+      "normalized_category": "Perfumaria",
+      "volume_weight": "200 ml",
+      "quantity": null,
+      "regular_price": 92.9,
+      "promotional_price": 92.9,
+      "savings": 0.0,
+      "discount_percentage": 0.0,
+      "promotion_active": false,
+      "promotional_rule": {
+        "type": "none",
+        "description": "Nenhuma promoção aparente",
+        "conditions": {},
+        "discount_tiers": {},
+        "combo_codes": [],
+        "related_pages": []
+      },
+      "features": [
+        "Fragrância Floriental Frutal",
+        "Pele perfumada",
+        "Fragrância que te acolhe"
+      ],
+      "page": 4,
+      "quadrant": "bottom-center",
+      "alerts": [
+        {
+          "level": "info",
+          "field": "preco_promocional",
+          "message": "Promotional price equals regular price (no discount)",
+          "original_value": 92.9,
+          "corrected_value": null
+        }
+      ]
+    },
+    {
+      "code": "89697",
+      "name": "Adesivos para Espinha Facial Cuide-se Bem Cereja de Fases",
+      "product_line": "Cuide-se Bem Cereja de Fases",
+      "category": "Facial",
+      "normalized_category": "Skincare",
+      "volume_weight": "24 unidades",
+      "quantity": null,
+      "regular_price": 43.9,
+      "promotional_price": 34.9,
+      "savings": 9.0,
+      "discount_percentage": 20.5,
+      "promotion_active": true,
+      "promotional_rule": {
+        "type": "simple_discount",
+        "description": "Desconto simples",
+        "conditions": {},
+        "discount_tiers": {},
+        "combo_codes": [],
+        "related_pages": []
+      },
+      "features": [
+        "Novidade em Cuide-se Bem!",
+        "Melhora a aparência da espinha",
+        "Impermeável"
+      ],
+      "page": 4,
+      "quadrant": "bottom-center",
+      "alerts": []
+    },
+    {
+      "code": "89338",
+      "name": "Nécessaire Cuide-se Bem Cereja de Fases",
+      "product_line": "Cuide-se Bem Cereja de Fases",
+      "category": "Acessório",
+      "normalized_category": "Acessórios",
+      "volume_weight": "19 x 6,5 x 14,5 cm",
+      "quantity": null,
+      "regular_price": 59.9,
+      "promotional_price": 47.9,
+      "savings": 12.0,
+      "discount_percentage": 20.03,
+      "promotion_active": true,
+      "promotional_rule": {
+        "type": "simple_discount",
+        "description": "Economize R$ 12,00",
+        "conditions": {},
+        "discount_tiers": {},
+        "combo_codes": [],
+        "related_pages": []
+      },
+      "features": [
+        "Ideal para o seu kit menstruação",
+        "Estampa interna de cerejinhas"
+      ],
+      "page": 4,
+      "quadrant": "bottom-right",
+      "alerts": []
+    },
+    {
+      "code": "KIT_CUIDADO_DIARIO",
+      "name": "Kit Cuidado Diário e Perfumação",
+      "product_line": "Cuide-se Bem Cereja de Ciclo",
+      "category": "Corpo e Banho",
+      "normalized_category": "Corpo e Banho",
+      "volume_weight": null,
+      "quantity": null,
+      "regular_price": 204.7,
+      "promotional_price": 181.7,
+      "savings": 23.0,
+      "discount_percentage": 11.24,
+      "promotion_active": true,
+      "promotional_rule": {
+        "type": "combo",
+        "description": "Combo com Loção Hidratante 400ml, Body Splash 200ml e Sabonete em Barra (4x80g). Economize R$ 23,00.",
+        "conditions": {},
+        "discount_tiers": {},
+        "combo_codes": [
+          "85671",
+          "88396",
+          "85679"
+        ],
+        "related_pages": []
+      },
+      "features": [],
+      "page": 5,
+      "quadrant": "top-left",
+      "alerts": [
+        {
+          "level": "warning",
+          "field": "codigo",
+          "message": "Product code contains non-numeric characters: KIT_CUIDADO_DIARIO",
+          "original_value": "KIT_CUIDADO_DIARIO",
+          "corrected_value": null
+        },
+        {
+          "level": "warning",
+          "field": "codigo",
+          "message": "Product code seems too long: KIT_CUIDADO_DIARIO",
+          "original_value": "KIT_CUIDADO_DIARIO",
+          "corrected_value": null
+        }
+      ]
+    },
+    {
+      "code": "85671",
+      "name": "Loção Hidratante Corporal",
+      "product_line": "Cuide-se Bem Cereja de Ciclo",
+      "category": "Hidratação",
+      "normalized_category": "Corpo e Banho",
+      "volume_weight": "400ml",
+      "quantity": null,
+      "regular_price": 0.0,
+      "promotional_price": null,
+      "savings": null,
+      "discount_percentage": null,
+      "promotion_active": false,
+      "promotional_rule": {
+        "type": "none",
+        "description": "Vendido como parte do Kit Cuidado Diário e Perfumação",
+        "conditions": {},
+        "discount_tiers": {},
+        "combo_codes": [],
+        "related_pages": []
+      },
+      "features": [],
+      "page": 5,
+      "quadrant": "top-left",
+      "alerts": [
+        {
+          "level": "error",
+          "field": "preco_regular",
+          "message": "Regular price is zero or negative",
+          "original_value": 0.0,
+          "corrected_value": null
+        }
+      ]
+    },
+    {
+      "code": "88396",
+      "name": "Body Splash",
+      "product_line": "Cuide-se Bem Cereja de Ciclo",
+      "category": "Perfumaria",
+      "normalized_category": "Perfumaria",
+      "volume_weight": "200ml",
+      "quantity": null,
+      "regular_price": 0.0,
+      "promotional_price": null,
+      "savings": null,
+      "discount_percentage": null,
+      "promotion_active": false,
+      "promotional_rule": {
+        "type": "none",
+        "description": "Vendido como parte do Kit Cuidado Diário e Perfumação",
+        "conditions": {},
+        "discount_tiers": {},
+        "combo_codes": [],
+        "related_pages": []
+      },
+      "features": [],
+      "page": 5,
+      "quadrant": "top-left",
+      "alerts": [
+        {
+          "level": "error",
+          "field": "preco_regular",
+          "message": "Regular price is zero or negative",
+          "original_value": 0.0,
+          "corrected_value": null
+        }
+      ]
+    },
+    {
+      "code": "85679",
+      "name": "Sabonete em Barra",
+      "product_line": "Cuide-se Bem Cereja de Ciclo",
+      "category": "Corpo e Banho",
+      "normalized_category": "Corpo e Banho",
+      "volume_weight": "4 unidades de 80g cada",
+      "quantity": null,
+      "regular_price": 0.0,
+      "promotional_price": null,
+      "savings": null,
+      "discount_percentage": null,
+      "promotion_active": false,
+      "promotional_rule": {
+        "type": "none",
+        "description": "Vendido como parte do Kit Cuidado Diário e Perfumação",
+        "conditions": {},
+        "discount_tiers": {},
+        "combo_codes": [],
+        "related_pages": []
+      },
+      "features": [],
+      "page": 5,
+      "quadrant": "top-left",
+      "alerts": [
+        {
+          "level": "error",
+          "field": "preco_regular",
+          "message": "Regular price is zero or negative",
+          "original_value": 0.0,
+          "corrected_value": null
+        }
+      ]
+    },
+    {
+      "code": "KIT_CUIDADOS_ESPECIAIS",
+      "name": "Kit Cuidados Especiais",
+      "product_line": "Cuide-se Bem Cereja de Ciclo",
+      "category": "Corpo e Banho",
+      "normalized_category": "Corpo e Banho",
+      "volume_weight": null,
+      "quantity": null,
+      "regular_price": 172.7,
+      "promotional_price": 137.7,
+      "savings": 35.0,
+      "discount_percentage": 20.27,
+      "promotion_active": true,
+      "promotional_rule": {
+        "type": "combo",
+        "description": "Combo com Óleo Corporal Térmico 110ml, Spray Íntimo 75ml e Creme Relaxante Hidratante Corporal 200g. Economize R$ 35,00.",
+        "conditions": {},
+        "discount_tiers": {},
+        "combo_codes": [
+          "87963",
+          "88913",
+          "85675"
+        ],
+        "related_pages": []
+      },
+      "features": [],
+      "page": 5,
+      "quadrant": "center-left",
+      "alerts": [
+        {
+          "level": "warning",
+          "field": "codigo",
+          "message": "Product code contains non-numeric characters: KIT_CUIDADOS_ESPECIAIS",
+          "original_value": "KIT_CUIDADOS_ESPECIAIS",
+          "corrected_value": null
+        },
+        {
+          "level": "warning",
+          "field": "codigo",
+          "message": "Product code seems too long: KIT_CUIDADOS_ESPECIAIS",
+          "original_value": "KIT_CUIDADOS_ESPECIAIS",
+          "corrected_value": null
+        }
+      ]
+    },
+    {
+      "code": "87963",
+      "name": "Óleo Corporal Térmico",
+      "product_line": "Cuide-se Bem Cereja de Ciclo",
+      "category": "Corpo e Banho",
+      "normalized_category": "Corpo e Banho",
+      "volume_weight": "110ml",
+      "quantity": null,
+      "regular_price": 0.0,
+      "promotional_price": null,
+      "savings": null,
+      "discount_percentage": null,
+      "promotion_active": false,
+      "promotional_rule": {
+        "type": "none",
+        "description": "Vendido como parte do Kit Cuidados Especiais",
+        "conditions": {},
+        "discount_tiers": {},
+        "combo_codes": [],
+        "related_pages": []
+      },
+      "features": [],
+      "page": 5,
+      "quadrant": "center-left",
+      "alerts": [
+        {
+          "level": "error",
+          "field": "preco_regular",
+          "message": "Regular price is zero or negative",
+          "original_value": 0.0,
+          "corrected_value": null
+        }
+      ]
+    },
+    {
+      "code": "88913",
+      "name": "Spray Íntimo",
+      "product_line": "Cuide-se Bem Cereja de Ciclo",
+      "category": "Higiene Íntima",
+      "normalized_category": "Outros",
+      "volume_weight": "75ml",
+      "quantity": null,
+      "regular_price": 0.0,
+      "promotional_price": null,
+      "savings": null,
+      "discount_percentage": null,
+      "promotion_active": false,
+      "promotional_rule": {
+        "type": "none",
+        "description": "Vendido como parte do Kit Cuidados Especiais",
+        "conditions": {},
+        "discount_tiers": {},
+        "combo_codes": [],
+        "related_pages": []
+      },
+      "features": [],
+      "page": 5,
+      "quadrant": "center-left",
+      "alerts": [
+        {
+          "level": "error",
+          "field": "preco_regular",
+          "message": "Regular price is zero or negative",
+          "original_value": 0.0,
+          "corrected_value": null
+        }
+      ]
+    },
+    {
+      "code": "85675",
+      "name": "Creme Relaxante Hidratante Corporal",
+      "product_line": "Cuide-se Bem Cereja de Ciclo",
+      "category": "Hidratação",
+      "normalized_category": "Corpo e Banho",
+      "volume_weight": "200g",
+      "quantity": null,
+      "regular_price": 0.0,
+      "promotional_price": null,
+      "savings": null,
+      "discount_percentage": null,
+      "promotion_active": false,
+      "promotional_rule": {
+        "type": "none",
+        "description": "Vendido como parte do Kit Cuidados Especiais",
+        "conditions": {},
+        "discount_tiers": {},
+        "combo_codes": [],
+        "related_pages": []
+      },
+      "features": [],
+      "page": 5,
+      "quadrant": "center-left",
+      "alerts": [
+        {
+          "level": "error",
+          "field": "preco_regular",
+          "message": "Regular price is zero or negative",
+          "original_value": 0.0,
+          "corrected_value": null
+        }
+      ]
+    },
+    {
+      "code": "KIT_PARA_LEVAR",
+      "name": "Kit Para Levar Com Você",
+      "product_line": "Cuide-se Bem Cereja de Ciclo",
+      "category": "Corpo e Banho",
+      "normalized_category": "Corpo e Banho",
+      "volume_weight": null,
+      "quantity": null,
+      "regular_price": 211.6,
+      "promotional_price": 168.6,
+      "savings": 43.0,
+      "discount_percentage": 20.32,
+      "promotion_active": true,
+      "promotional_rule": {
+        "type": "combo",
+        "description": "Combo com Sabonete Líquido 2 em 1 200ml, Nécessaire Cereja de Fases, Loção Desodorante Hidratante Corporal 200ml e Adesivos para Espinha Facial (24 unidades). Economize R$ 43,00.",
+        "conditions": {},
+        "discount_tiers": {},
+        "combo_codes": [
+          "90995",
+          "89338",
+          "85672",
+          "89697"
+        ],
+        "related_pages": []
+      },
+      "features": [],
+      "page": 5,
+      "quadrant": "bottom-left",
+      "alerts": [
+        {
+          "level": "warning",
+          "field": "codigo",
+          "message": "Product code contains non-numeric characters: KIT_PARA_LEVAR",
+          "original_value": "KIT_PARA_LEVAR",
+          "corrected_value": null
+        },
+        {
+          "level": "warning",
+          "field": "codigo",
+          "message": "Product code seems too long: KIT_PARA_LEVAR",
+          "original_value": "KIT_PARA_LEVAR",
+          "corrected_value": null
+        }
+      ]
+    },
+    {
+      "code": "90995",
+      "name": "Sabonete Líquido 2 em 1",
+      "product_line": "Cuide-se Bem Cereja de Ciclo",
+      "category": "Corpo e Banho",
+      "normalized_category": "Corpo e Banho",
+      "volume_weight": "200ml",
+      "quantity": null,
+      "regular_price": 0.0,
+      "promotional_price": null,
+      "savings": null,
+      "discount_percentage": null,
+      "promotion_active": false,
+      "promotional_rule": {
+        "type": "none",
+        "description": "Vendido como parte do Kit Para Levar Com Você",
+        "conditions": {},
+        "discount_tiers": {},
+        "combo_codes": [],
+        "related_pages": []
+      },
+      "features": [],
+      "page": 5,
+      "quadrant": "bottom-left",
+      "alerts": [
+        {
+          "level": "error",
+          "field": "preco_regular",
+          "message": "Regular price is zero or negative",
+          "original_value": 0.0,
+          "corrected_value": null
+        }
+      ]
+    },
+    {
+      "code": "89338",
+      "name": "Nécessaire Cereja de Fases",
+      "product_line": "Cuide-se Bem Cereja de Ciclo",
+      "category": "Acessórios",
+      "normalized_category": "Acessórios",
+      "volume_weight": null,
+      "quantity": null,
+      "regular_price": 0.0,
+      "promotional_price": null,
+      "savings": null,
+      "discount_percentage": null,
+      "promotion_active": false,
+      "promotional_rule": {
+        "type": "none",
+        "description": "Vendido como parte do Kit Para Levar Com Você",
+        "conditions": {},
+        "discount_tiers": {},
+        "combo_codes": [],
+        "related_pages": []
+      },
+      "features": [],
+      "page": 5,
+      "quadrant": "bottom-left",
+      "alerts": [
+        {
+          "level": "error",
+          "field": "preco_regular",
+          "message": "Regular price is zero or negative",
+          "original_value": 0.0,
+          "corrected_value": null
+        }
+      ]
+    },
+    {
+      "code": "85672",
+      "name": "Loção Desodorante Hidratante Corporal",
+      "product_line": "Cuide-se Bem Cereja de Ciclo",
+      "category": "Hidratação",
+      "normalized_category": "Corpo e Banho",
+      "volume_weight": "200ml",
+      "quantity": null,
+      "regular_price": 0.0,
+      "promotional_price": null,
+      "savings": null,
+      "discount_percentage": null,
+      "promotion_active": false,
+      "promotional_rule": {
+        "type": "none",
+        "description": "Vendido como parte do Kit Para Levar Com Você",
+        "conditions": {},
+        "discount_tiers": {},
+        "combo_codes": [],
+        "related_pages": []
+      },
+      "features": [],
+      "page": 5,
+      "quadrant": "bottom-left",
+      "alerts": [
+        {
+          "level": "error",
+          "field": "preco_regular",
+          "message": "Regular price is zero or negative",
+          "original_value": 0.0,
+          "corrected_value": null
+        }
+      ]
+    },
+    {
+      "code": "89697",
+      "name": "Adesivos para Espinha Facial",
+      "product_line": "Cuide-se Bem Cereja de Ciclo",
+      "category": "Cuidados Faciais",
+      "normalized_category": "Skincare",
+      "volume_weight": "24 unidades",
+      "quantity": null,
+      "regular_price": 0.0,
+      "promotional_price": null,
+      "savings": null,
+      "discount_percentage": null,
+      "promotion_active": false,
+      "promotional_rule": {
+        "type": "none",
+        "description": "Vendido como parte do Kit Para Levar Com Você",
+        "conditions": {},
+        "discount_tiers": {},
+        "combo_codes": [],
+        "related_pages": []
+      },
+      "features": [],
+      "page": 5,
+      "quadrant": "bottom-left",
+      "alerts": [
+        {
+          "level": "error",
+          "field": "preco_regular",
+          "message": "Regular price is zero or negative",
+          "original_value": 0.0,
+          "corrected_value": null
+        }
+      ]
+    },
+    {
+      "code": "27858",
+      "name": "Lápis Retrátil À Prova D'Água Preto",
+      "product_line": "Make B.",
+      "category": "Maquiagem",
+      "normalized_category": "Maquiagem",
+      "volume_weight": "0,35 g",
+      "quantity": null,
+      "regular_price": 67.9,
+      "promotional_price": 43.9,
+      "savings": 24.0,
+      "discount_percentage": 35.35,
+      "promotion_active": true,
+      "promotional_rule": {
+        "type": "simple_discount",
+        "description": "Economize R$ 24,00",
+        "conditions": {},
+        "discount_tiers": {},
+        "combo_codes": [],
+        "related_pages": []
+      },
+      "features": [
+        "Vegano"
+      ],
+      "page": 6,
+      "quadrant": "top-left",
+      "alerts": [
+        {
+          "level": "info",
+          "field": "nome",
+          "message": "Product name contains unusual characters",
+          "original_value": "Lápis Retrátil À Prova D'Água Preto",
+          "corrected_value": null
+        }
+      ]
+    },
+    {
+      "code": "50756",
+      "name": "Máscara Cílios Postiços com Vitamina B5",
+      "product_line": "Make B.",
+      "category": "Maquiagem",
+      "normalized_category": "Maquiagem",
+      "volume_weight": "10 g",
+      "quantity": null,
+      "regular_price": 94.9,
+      "promotional_price": 60.9,
+      "savings": 34.0,
+      "discount_percentage": 35.83,
+      "promotion_active": true,
+      "promotional_rule": {
+        "type": "simple_discount",
+        "description": "Economize R$ 34,00",
+        "conditions": {},
+        "discount_tiers": {},
+        "combo_codes": [],
+        "related_pages": []
+      },
+      "features": [],
+      "page": 6,
+      "quadrant": "center",
+      "alerts": []
+    },
+    {
+      "code": "52619",
+      "name": "Máscara para Cílios Scandal Lashes com Óleo de Coco",
+      "product_line": "Make B.",
+      "category": "Maquiagem",
+      "normalized_category": "Maquiagem",
+      "volume_weight": "10 g",
+      "quantity": null,
+      "regular_price": 94.9,
+      "promotional_price": 70.9,
+      "savings": 24.0,
+      "discount_percentage": 25.29,
+      "promotion_active": true,
+      "promotional_rule": {
+        "type": "simple_discount",
+        "description": "Economize R$ 24,00",
+        "conditions": {},
+        "discount_tiers": {},
+        "combo_codes": [],
+        "related_pages": []
+      },
+      "features": [],
+      "page": 6,
+      "quadrant": "bottom-center",
+      "alerts": []
+    },
+    {
+      "code": "59555",
+      "name": "HER CODE TOUCH EAU DE PARFUM",
+      "product_line": "Her Code",
+      "category": "Perfumaria",
+      "normalized_category": "Perfumaria",
+      "volume_weight": "50 ml",
+      "quantity": null,
+      "regular_price": 244.9,
+      "promotional_price": 199.9,
+      "savings": 45.0,
+      "discount_percentage": 18.37,
+      "promotion_active": true,
+      "promotional_rule": {
+        "type": "simple_discount",
+        "description": "Preço Especial: Economize R$45,00 (18% de desconto)",
+        "conditions": {},
+        "discount_tiers": {},
+        "combo_codes": [],
+        "related_pages": []
+      },
+      "features": [
+        "Vegano",
+        "Fragrância Amadeirada Oriental",
+        "Quente e cremosa, com Baunilha Absoluta que desperta desejo."
+      ],
+      "page": 7,
+      "quadrant": "bottom-left",
+      "alerts": []
+    },
+    {
+      "code": "50022",
+      "name": "HER CODE EAU DE PARFUM",
+      "product_line": "Her Code",
+      "category": "Perfumaria",
+      "normalized_category": "Perfumaria",
+      "volume_weight": "50 ml",
+      "quantity": null,
+      "regular_price": 244.9,
+      "promotional_price": 199.9,
+      "savings": 45.0,
+      "discount_percentage": 18.37,
+      "promotion_active": true,
+      "promotional_rule": {
+        "type": "simple_discount",
+        "description": "Preço Especial: Economize R$45,00 (18% de desconto)",
+        "conditions": {},
+        "discount_tiers": {},
+        "combo_codes": [],
+        "related_pages": []
+      },
+      "features": [
+        "Vegano",
+        "Fragrância Amadeirada Frutal",
+        "Frutada e floral, com toque licoroso que revela sensualidade."
+      ],
+      "page": 7,
+      "quadrant": "center",
+      "alerts": []
+    },
+    {
+      "code": "86983",
+      "name": "HER CODE CLÍMAX EAU DE PARFUM",
+      "product_line": "Her Code",
+      "category": "Perfumaria",
+      "normalized_category": "Perfumaria",
+      "volume_weight": "50 ml",
+      "quantity": null,
+      "regular_price": 244.9,
+      "promotional_price": 199.9,
+      "savings": 45.0,
+      "discount_percentage": 18.37,
+      "promotion_active": true,
+      "promotional_rule": {
+        "type": "simple_discount",
+        "description": "Preço Especial: Economize R$45,00 (18% de desconto)",
+        "conditions": {},
+        "discount_tiers": {},
+        "combo_codes": [],
+        "related_pages": []
+      },
+      "features": [
+        "Vegano",
+        "Fragrância Amadeirada Gourmand",
+        "Doce e viciante, com Chocolate Noir que dá água na boca."
+      ],
+      "page": 7,
+      "quadrant": "bottom-right",
+      "alerts": []
+    },
+    {
+      "code": "52627",
+      "name": "BOTIK ÁCIDO HIALURÔNICO BALM HIDRATANTE FPS 15",
+      "product_line": "Botik",
+      "category": "Tratamento Facial",
+      "normalized_category": "Corpo e Banho",
+      "volume_weight": "3,2 g",
+      "quantity": null,
+      "regular_price": 47.9,
+      "promotional_price": null,
+      "savings": null,
+      "discount_percentage": null,
+      "promotion_active": true,
+      "promotional_rule": {
+        "type": "progressive_discount",
+        "description": "Desconto progressivo: 1 unidade = 20% off, 2 ou + unidades = 30% off",
+        "conditions": {},
+        "discount_tiers": {
+          "1_unit": 0.2,
+          "2_plus": 0.3
+        },
+        "combo_codes": [],
+        "related_pages": []
+      },
+      "features": [
+        "FPS 15",
+        "Linha 100% Vegana"
+      ],
+      "page": 8,
+      "quadrant": "bottom-left",
+      "alerts": []
+    },
+    {
+      "code": "04520",
+      "name": "BOTIK ÁCIDO HIALURÔNICO GEL CREME",
+      "product_line": "Botik",
+      "category": "Tratamento Facial",
+      "normalized_category": "Corpo e Banho",
+      "volume_weight": "40 g",
+      "quantity": null,
+      "regular_price": 174.9,
+      "promotional_price": null,
+      "savings": null,
+      "discount_percentage": null,
+      "promotion_active": true,
+      "promotional_rule": {
+        "type": "progressive_discount",
+        "description": "Desconto progressivo: 1 unidade = 20% off, 2 ou + unidades = 30% off",
+        "conditions": {},
+        "discount_tiers": {
+          "1_unit": 0.2,
+          "2_plus": 0.3
+        },
+        "combo_codes": [],
+        "related_pages": []
+      },
+      "features": [
+        "Linha 100% Vegana"
+      ],
+      "page": 8,
+      "quadrant": "bottom-left",
+      "alerts": []
+    },
+    {
+      "code": "77138",
+      "name": "BOTIK HIALU + CAFEÍNA CREME CONCENTRADO PARA OLHOS",
+      "product_line": "Botik",
+      "category": "Tratamento Facial",
+      "normalized_category": "Corpo e Banho",
+      "volume_weight": "15 g",
+      "quantity": null,
+      "regular_price": 149.9,
+      "promotional_price": null,
+      "savings": null,
+      "discount_percentage": null,
+      "promotion_active": true,
+      "promotional_rule": {
+        "type": "progressive_discount",
+        "description": "Desconto progressivo: 1 unidade = 20% off, 2 ou + unidades = 30% off",
+        "conditions": {},
+        "discount_tiers": {
+          "1_unit": 0.2,
+          "2_plus": 0.3
+        },
+        "combo_codes": [],
+        "related_pages": []
+      },
+      "features": [
+        "Linha 100% Vegana"
+      ],
+      "page": 8,
+      "quadrant": "bottom-right",
+      "alerts": []
+    },
+    {
+      "code": "77129",
+      "name": "BOTIK ÁCIDO HIALURÔNICO SÉRUM DE ALTA POTÊNCIA",
+      "product_line": "Botik",
+      "category": "Tratamento Facial",
+      "normalized_category": "Corpo e Banho",
+      "volume_weight": "30 ml",
+      "quantity": null,
+      "regular_price": 199.9,
+      "promotional_price": null,
+      "savings": null,
+      "discount_percentage": null,
+      "promotion_active": true,
+      "promotional_rule": {
+        "type": "progressive_discount",
+        "description": "Desconto progressivo: 1 unidade = 20% off, 2 ou + unidades = 30% off",
+        "conditions": {},
+        "discount_tiers": {
+          "1_unit": 0.2,
+          "2_plus": 0.3
+        },
+        "combo_codes": [],
+        "related_pages": []
+      },
+      "features": [
+        "Linha 100% Vegana"
+      ],
+      "page": 8,
+      "quadrant": "bottom-right",
+      "alerts": []
+    }
+  ],
+  "statistics": {
+    "total_products": 33,
+    "products_with_promotion": 22,
+    "categories": [
+      "Skincare",
+      "Proteção Solar",
+      "Acessórios",
+      "Maquiagem",
+      "Outros",
+      "Perfumaria",
+      "Corpo e Banho"
+    ],
+    "product_lines": [
+      "Make B.",
+      "Her Code",
+      "Cuide-se Bem",
+      "Cuide-se Bem Cereja de Ciclo",
+      "Botik",
+      "Cuide-se Bem Cereja de Fases"
+    ]
+  }
+}
