@@ -51,11 +51,11 @@
       <!-- STAT CARDS -->
       <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mt-8">
         <div class="stat-card rounded-xl p-4 text-white">
-          <p class="text-3xl font-bold">37</p>
+          <p class="text-3xl font-bold">40</p>
           <p class="text-violet-200 text-sm mt-1">Catalogs</p>
         </div>
         <div class="stat-card rounded-xl p-4 text-white">
-          <p class="text-3xl font-bold">44,527</p>
+          <p class="text-3xl font-bold">47,567</p>
           <p class="text-violet-200 text-sm mt-1">Product records</p>
         </div>
         <div class="stat-card rounded-xl p-4 text-white">
@@ -100,7 +100,7 @@
         <option value="pending">Pending</option>
       </select>
 
-      <span id="count-label" class="text-sm text-gray-400 ml-auto">37 catalogs</span>
+      <span id="count-label" class="text-sm text-gray-400 ml-auto">40 catalogs</span>
     </div>
 
     <!-- TABLE -->
@@ -108,10 +108,10 @@
       <table class="w-full text-sm">
         <thead>
           <tr class="border-b border-gray-100 text-left">
-            <th class="px-5 py-3 text-gray-500 font-semibold">Brand</th>
-            <th class="px-5 py-3 text-gray-500 font-semibold text-center">Cycle</th>
-            <th class="px-5 py-3 text-gray-500 font-semibold text-center">Year</th>
-            <th class="px-5 py-3 text-gray-500 font-semibold text-right">Products</th>
+            <th class="px-5 py-3 text-gray-500 font-semibold cursor-pointer hover:text-gray-800 select-none" data-col="brand">Brand <span class="sort-icon">↕</span></th>
+            <th class="px-5 py-3 text-gray-500 font-semibold text-center cursor-pointer hover:text-gray-800 select-none" data-col="cycle">Cycle <span class="sort-icon">↕</span></th>
+            <th class="px-5 py-3 text-gray-500 font-semibold text-center cursor-pointer hover:text-gray-800 select-none" data-col="year">Year <span class="sort-icon">↕</span></th>
+            <th class="px-5 py-3 text-gray-500 font-semibold text-right cursor-pointer hover:text-gray-800 select-none" data-col="products">Products <span class="sort-icon">↕</span></th>
             <th class="px-5 py-3 text-gray-500 font-semibold text-center">Status</th>
             <th class="px-5 py-3 text-gray-500 font-semibold text-center">Download</th>
           </tr>
@@ -166,10 +166,13 @@
       {slug:'natura-c09-2026',    brand:'Natura',      cycle:9,  year:2026, products:0,    status:'pending'},
       {slug:'natura-c10-2025',    brand:'Natura',      cycle:10, year:2025, products:1227, status:'complete'},
       {slug:'natura-c10-2026',    brand:'Natura',      cycle:10, year:2026, products:0,    status:'pending'},
+      {slug:'natura-c11-2026',    brand:'Natura',      cycle:11, year:2026, products:934,  status:'complete'},
       {slug:'natura-c12-2025',    brand:'Natura',      cycle:12, year:2025, products:1263, status:'complete'},
       {slug:'natura-c13-2025',    brand:'Natura',      cycle:13, year:2025, products:1201, status:'complete'},
       {slug:'natura-c14-2025',    brand:'Natura',      cycle:14, year:2025, products:1065, status:'complete'},
+      {slug:'natura-c14-2026',    brand:'Natura',      cycle:14, year:2026, products:1134, status:'complete'},
       {slug:'natura-c15-2025',    brand:'Natura',      cycle:15, year:2025, products:1083, status:'complete'},
+      {slug:'natura-c15-2026',    brand:'Natura',      cycle:15, year:2026, products:972,  status:'complete'},
       {slug:'natura-c16-2025',    brand:'Natura',      cycle:16, year:2025, products:1302, status:'complete'},
       {slug:'natura-c17-2025',    brand:'Natura',      cycle:17, year:2025, products:1258, status:'complete'},
       {slug:'natura-c18-2025',    brand:'Natura',      cycle:18, year:2025, products:1242, status:'complete'},
@@ -227,6 +230,29 @@
       }).join('');
     }
 
+    // Sorting state: default = year desc, cycle desc (most recent first)
+    let sortCol = 'year', sortDir = -1;
+
+    function sortList(list) {
+      return [...list].sort((a, b) => {
+        let av = a[sortCol], bv = b[sortCol];
+        if (typeof av === 'string') av = av.toLowerCase(), bv = bv.toLowerCase();
+        if (av < bv) return -sortDir;
+        if (av > bv) return  sortDir;
+        // secondary: cycle desc
+        if (sortCol !== 'cycle') return b.cycle - a.cycle;
+        return 0;
+      });
+    }
+
+    function updateSortIcons() {
+      document.querySelectorAll('th[data-col]').forEach(th => {
+        const icon = th.querySelector('.sort-icon');
+        if (th.dataset.col === sortCol) icon.textContent = sortDir === 1 ? '↑' : '↓';
+        else icon.textContent = '↕';
+      });
+    }
+
     function applyFilters() {
       const q      = document.getElementById('search').value.toLowerCase();
       const brand  = document.getElementById('filter-brand').value;
@@ -241,14 +267,24 @@
         if (status && c.status !== status) return false;
         return true;
       });
-      renderTable(filtered);
+      renderTable(sortList(filtered));
     }
+
+    document.querySelectorAll('th[data-col]').forEach(th => {
+      th.addEventListener('click', () => {
+        if (sortCol === th.dataset.col) sortDir *= -1;
+        else { sortCol = th.dataset.col; sortDir = th.dataset.col === 'brand' ? 1 : -1; }
+        updateSortIcons();
+        applyFilters();
+      });
+    });
 
     ['search','filter-brand','filter-year','filter-status'].forEach(id =>
       document.getElementById(id).addEventListener('input', applyFilters)
     );
 
-    renderTable(CATALOGS);
+    updateSortIcons();
+    applyFilters();
   </script>
 </body>
 </html>
