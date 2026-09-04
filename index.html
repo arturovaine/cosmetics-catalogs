@@ -26,6 +26,9 @@
     .download-json { background:#2563eb; color:#fff; }
     .download-json:hover { background:#1d4ed8; }
     .stat-card { background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.2); }
+    .tab-btn { color:#6b7280; border-bottom:3px solid transparent; }
+    .tab-btn:hover { color:#374151; }
+    .tab-btn.tab-active { color:#6d28d9; border-color:#7c3aed; font-weight:600; }
   </style>
 </head>
 <body class="bg-gray-50 min-h-screen">
@@ -80,6 +83,18 @@
   <!-- MAIN -->
   <main class="max-w-7xl mx-auto px-6 py-8">
 
+    <!-- TABS -->
+    <div class="flex gap-1 mb-6 border-b border-gray-200">
+      <button data-tab="data" class="tab-btn tab-active px-5 py-3 text-sm transition-colors">
+        Catalog Data
+      </button>
+      <button data-tab="analysis" class="tab-btn px-5 py-3 text-sm transition-colors">
+        Portfolio Analysis <span class="ml-1 text-xs bg-violet-100 text-violet-700 px-1.5 py-0.5 rounded-full font-medium">ML</span>
+      </button>
+    </div>
+
+    <div id="tab-data">
+
     <!-- FILTERS -->
     <div class="bg-white rounded-2xl shadow-sm border border-gray-100 p-4 mb-6 flex flex-wrap gap-3 items-center">
       <input id="search" type="search" placeholder="Search catalog…"
@@ -127,6 +142,136 @@
       </table>
       <div id="empty-msg" class="hidden text-center py-12 text-gray-400">No catalogs match the current filters.</div>
     </div>
+
+    </div><!-- /tab-data -->
+
+    <!-- ANALYSIS TAB -->
+    <div id="tab-analysis" class="hidden">
+
+      <!-- Intro -->
+      <div class="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 mb-6">
+        <h2 class="text-xl font-bold text-gray-900">Portfolio clustering: four product archetypes</h2>
+        <p class="text-sm text-gray-600 mt-2 leading-relaxed">
+          The 50,535 usable product rows across 39 processed catalogs collapse into
+          <b>14,166 unique products</b> (brand + normalized name). Each product is described by five features
+          aggregated over every catalog appearance — median price, promo exposure, discount depth,
+          catalog persistence, and price volatility — then standardized and clustered with
+          <span class="font-mono text-xs bg-gray-100 px-1.5 py-0.5 rounded">scikit-learn KMeans</span>.
+          Silhouette analysis picks <b>k&nbsp;=&nbsp;4</b>, and the four clusters turn out to be four
+          very different jobs a product can do in a catalog.
+        </p>
+      </div>
+
+      <!-- Archetype cards -->
+      <div class="grid md:grid-cols-2 xl:grid-cols-4 gap-4 mb-6">
+        <div class="bg-white rounded-2xl shadow-sm border border-gray-100 p-5 border-t-4" style="border-top-color:#15803d">
+          <p class="text-xs font-semibold text-gray-400 uppercase tracking-wide">C1 · 45.7% of products</p>
+          <h3 class="font-bold text-gray-900 mt-1">One-cycle full-pricers</h3>
+          <p class="text-sm text-gray-600 mt-2 leading-relaxed">Appear in a single catalog, at full price
+          (98% never promoted), then rotate out. The novelty engine: makeup shades and seasonal variety
+          from Una, Make B. and Quem Disse, Berenice?</p>
+          <p class="text-xs text-gray-400 mt-3">R$63 median · 1 appearance · 2% promo</p>
+        </div>
+        <div class="bg-white rounded-2xl shadow-sm border border-gray-100 p-5 border-t-4" style="border-top-color:#0ea5e9">
+          <p class="text-xs font-semibold text-gray-400 uppercase tracking-wide">C3 · 28.2% of products</p>
+          <h3 class="font-bold text-gray-900 mt-1">Born on promotion</h3>
+          <p class="text-sm text-gray-600 mt-2 leading-relaxed">Also single-appearance — but 94% arrive
+          already discounted. The priciest archetype (R$78 median) and where gift kits
+          (&ldquo;Presente&hellip;&rdquo;) concentrate: offers built as offers.</p>
+          <p class="text-xs text-gray-400 mt-3">R$78 median · 1 appearance · 94% promo · −21%</p>
+        </div>
+        <div class="bg-white rounded-2xl shadow-sm border border-gray-100 p-5 border-t-4" style="border-top-color:#b45309">
+          <p class="text-xs font-semibold text-gray-400 uppercase tracking-wide">C2 · 21.8% of products</p>
+          <h3 class="font-bold text-gray-900 mt-1">The evergreen backbone</h3>
+          <p class="text-sm text-gray-600 mt-2 leading-relaxed">The recurring assortment: median 9 catalog
+          appearances with rock-stable prices (volatility 1.5%) and a promotion roughly every fourth
+          appearance. This is the shelf the rotation revolves around.</p>
+          <p class="text-xs text-gray-400 mt-3">R$65 median · 9 appearances · 27% promo · −21%</p>
+        </div>
+        <div class="bg-white rounded-2xl shadow-sm border border-gray-100 p-5 border-t-4" style="border-top-color:#7c3aed">
+          <p class="text-xs font-semibold text-gray-400 uppercase tracking-wide">C0 · 4.3% of products</p>
+          <h3 class="font-bold text-gray-900 mt-1">The managed few</h3>
+          <p class="text-sm text-gray-600 mt-2 leading-relaxed">The only archetype whose prices actually
+          move (volatility 17%): persistent staples that are repriced <i>and</i> heavily promoted.
+          Active price management is rare — and 65% of it is Natura.</p>
+          <p class="text-xs text-gray-400 mt-3">R$59 median · 6 appearances · 38% promo · −24%</p>
+        </div>
+      </div>
+
+      <!-- Architecture map -->
+      <div class="bg-white rounded-2xl shadow-sm border border-gray-100 p-5 mb-6">
+        <img src="images/analysis/architecture_map.png" alt="Scatter of unique products: catalog persistence versus promo exposure, colored by cluster" class="w-full h-auto rounded-lg" loading="lazy" />
+        <p class="text-sm text-gray-500 mt-3">The whole architecture in one picture: two dense single-appearance
+        columns on the left — full-price novelty (green, bottom) and promo-born kits (blue, top) — with the
+        persistent backbone (amber) and the actively managed set (violet) stretching to the right.</p>
+      </div>
+
+      <!-- Key insights -->
+      <div class="bg-violet-50 border-l-4 border-violet-600 rounded-r-2xl p-6 mb-6">
+        <h3 class="font-bold text-gray-900 mb-3">What the clusters reveal</h3>
+        <ul class="text-sm text-gray-700 space-y-2 list-disc pl-5">
+          <li><b>The catalog is a showcase, not a shelf.</b> 74% of unique products appear in exactly one
+          cycle; only about a quarter of the portfolio is recurring assortment.</li>
+          <li><b>Promotion is a birth trait, not a lifecycle event.</b> Single-appearance products either
+          never promote (C1) or debut on promotion (C3) — there is almost no middle ground.</li>
+          <li><b>The house discount is ~20%.</b> Wherever promotion happens, the median discount lands at
+          21–24% — a standardized markdown, not product-level price tuning.</li>
+          <li><b>True price management is the exception.</b> Just 4% of products combine repricing with
+          heavy promotion — and that set skews strongly Natura (65/35).</li>
+          <li><b>Both brands run the same playbook.</b> Aside from the managed set, every archetype splits
+          roughly 50/50 between Natura and O Boticário.</li>
+        </ul>
+      </div>
+
+      <!-- Charts grid -->
+      <div class="grid lg:grid-cols-2 gap-6 mb-6">
+        <div class="bg-white rounded-2xl shadow-sm border border-gray-100 p-5">
+          <img src="images/analysis/cluster_profiles.png" alt="Bar charts of median price, promo exposure, discount depth and appearances per cluster" class="w-full h-auto rounded-lg" loading="lazy" />
+        </div>
+        <div class="bg-white rounded-2xl shadow-sm border border-gray-100 p-5">
+          <img src="images/analysis/category_mix.png" alt="Category composition of each cluster" class="w-full h-auto rounded-lg" loading="lazy" />
+        </div>
+        <div class="bg-white rounded-2xl shadow-sm border border-gray-100 p-5">
+          <img src="images/analysis/brand_mix.png" alt="Brand split inside each cluster" class="w-full h-auto rounded-lg" loading="lazy" />
+        </div>
+        <div class="bg-white rounded-2xl shadow-sm border border-gray-100 p-5">
+          <img src="images/analysis/pca_map.png" alt="PCA projection of products colored by cluster" class="w-full h-auto rounded-lg" loading="lazy" />
+        </div>
+      </div>
+
+      <!-- Method & downloads -->
+      <div class="bg-white rounded-2xl shadow-sm border border-gray-100 p-6">
+        <details>
+          <summary class="font-semibold text-gray-800 cursor-pointer select-none">Method &amp; limitations</summary>
+          <div class="mt-4 text-sm text-gray-600 space-y-3 leading-relaxed">
+            <p>Features per unique product: log median regular price, share of appearances on promotion,
+            median discount when promoted, log catalog appearances, and price coefficient of variation.
+            Standardized, clustered with KMeans (k = 3–7 tested; silhouette peaks at k = 4, score 0.43).
+            PCA is used for the 2-D projection only.</p>
+            <img src="images/analysis/k_selection.png" alt="Silhouette and inertia versus k" class="w-full max-w-xl h-auto rounded-lg border border-gray-100" loading="lazy" />
+            <ul class="list-disc pl-5 space-y-1">
+              <li>Products are matched by normalized name within brand; renamed or re-bundled items count
+              as separate products, which inflates the single-appearance clusters somewhat.</li>
+              <li>Catalog coverage differs by brand and year (39 processed catalogs, 2025–26); persistence
+              is measured against the catalogs available, not the brands&rsquo; full calendars.</li>
+              <li>Promotional flags come from vision-extracted catalog pages; page-level extraction errors
+              propagate into promo rates.</li>
+            </ul>
+          </div>
+        </details>
+        <div class="flex flex-wrap items-center gap-3 mt-5 pt-4 border-t border-gray-100">
+          <span class="text-sm text-gray-500">Clustered portfolio dataset:</span>
+          <a href="data/portfolio_clusters.csv" download
+             class="download-csv inline-flex items-center gap-1 rounded-lg px-3 py-1.5 text-xs font-medium transition-colors">
+            <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"/>
+            </svg>portfolio_clusters.csv</a>
+          <span class="text-xs text-gray-400">14,166 products · cluster label + all features</span>
+        </div>
+      </div>
+
+    </div><!-- /tab-analysis -->
 
   </main>
 
@@ -294,6 +439,20 @@
 
     updateSortIcons();
     applyFilters();
+
+    // Tabs (hash-routed: #data / #analysis)
+    function showTab(name) {
+      document.getElementById('tab-data').classList.toggle('hidden', name !== 'data');
+      document.getElementById('tab-analysis').classList.toggle('hidden', name !== 'analysis');
+      document.querySelectorAll('.tab-btn').forEach(b =>
+        b.classList.toggle('tab-active', b.dataset.tab === name));
+      if (location.hash !== '#' + name) history.replaceState(null, '', '#' + name);
+    }
+    document.querySelectorAll('.tab-btn').forEach(b =>
+      b.addEventListener('click', () => showTab(b.dataset.tab)));
+    window.addEventListener('hashchange', () =>
+      showTab(location.hash === '#analysis' ? 'analysis' : 'data'));
+    if (location.hash === '#analysis') showTab('analysis');
   </script>
 </body>
 </html>
