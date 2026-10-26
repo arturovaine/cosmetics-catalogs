@@ -67,22 +67,27 @@ samp = rng.choice(len(X), size=min(6000, len(X)), replace=False)
 
 
 # --------------------------------------------------------------- 1 · funnel
+# Two count stages drawn with LINEAR widths so the bars are in correct
+# proportion (unique products are ~22% of raw rows). The 4 archetypes are a
+# count of groups, not of items, so they are noted rather than mis-scaled.
 fig, ax = plt.subplots(figsize=(7.6, 2.3))
-fig.subplots_adjust(top=0.72, left=0.30, right=0.97, bottom=0.08)
-stages = ["Catalog product rows", "Unique products", "Archetypes (k-means)"]
-vals = [int(len(df)), int(len(agg)), 4]
-colors = [MUTED, VIOLET, INK]
-y = np.arange(len(stages))[::-1]
-ax.barh(y, [np.log10(v) for v in vals], color=colors, height=0.6)
-for yi, v in zip(y, vals):
-    ax.text(np.log10(v) + 0.07, yi, f"{v:,}", va="center", ha="left",
+fig.subplots_adjust(top=0.70, left=0.30, right=0.97, bottom=0.22)
+rows_n, prod_n = int(len(df)), int(len(agg))
+vals = [rows_n, prod_n]
+ax.barh([1, 0], vals, color=[MUTED, VIOLET], height=0.5)
+for yi, v in zip([1, 0], vals):
+    ax.text(v + rows_n * 0.012, yi, f"{v:,}", va="center", ha="left",
             fontsize=12, fontweight="bold", color=INK)
-ax.set_yticks(y)
-ax.set_yticklabels(stages, fontsize=10.5)
+ax.set_yticks([1, 0])
+ax.set_yticklabels(["Catalog product rows", "Unique products"], fontsize=10.5)
+ax.set_xlim(0, rows_n * 1.16)
+ax.set_ylim(-0.85, 1.5)
 ax.set_xticks([])
-ax.set_xlim(0, np.log10(max(vals)) + 1.2)
 ax.spines.left.set_visible(False)
 ax.tick_params(length=0)
+ax.text(0, -0.68, f"→  {prod_n/rows_n:.0%} of rows are distinct products, "
+        "grouped into 4 k-means archetypes (C0–C3)",
+        fontsize=9.5, color=MUTED, ha="left", va="center")
 title(fig, "From catalog rows to archetypes")
 fig.savefig(OUT / "method_funnel.png", dpi=130, bbox_inches="tight")
 plt.close(fig)
