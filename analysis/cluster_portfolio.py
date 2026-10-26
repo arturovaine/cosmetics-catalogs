@@ -61,13 +61,17 @@ def norm_name(s):
 
 def load():
     frames = []
-    for f in glob.glob(str(ROOT / "data" / "*-c*.csv")):
+    # read the full 5-brand per-catalog CSVs published to the portfolio site
+    DATA = Path.home() / "Documents" / "Portfolio" / "arturovaine.github.io" / "cosmetics-catalogs-data"
+    LABELS = {"natura": "Natura", "boticario": "O Boticário", "eudora": "Eudora",
+              "avon": "Avon", "jequiti": "Jequiti"}
+    for f in glob.glob(str(DATA / "*-c*.csv")):
         slug = Path(f).stem  # e.g. natura-c12-2026
-        m = re.match(r"(natura|boticario)-c(\d+)-(\d{4})", slug)
+        m = re.match(r"(natura|boticario|eudora|avon|jequiti)-c(\d+)-(\d{4})", slug)
         if not m:
             continue
         df = pd.read_csv(f)
-        df["brand"] = "Natura" if m.group(1) == "natura" else "O Boticário"
+        df["brand"] = LABELS[m.group(1)]
         df["cat_cycle"] = int(m.group(2))
         df["cat_year"] = int(m.group(3))
         frames.append(df)
@@ -180,6 +184,8 @@ def run(agg, stats):
             "med_appearances": float(g["appearances"].median()),
             "price_cv": round(float(g["price_cv"].median()), 3),
             "pct_natura": round(float((g["brand"] == "Natura").mean() * 100), 1),
+            "brand_mix": {b: round(float((g["brand"] == b).mean() * 100), 1)
+                          for b in ["O Boticário", "Natura", "Eudora", "Avon", "Jequiti"]},
             "top_categories": g["category"].value_counts().head(3).index.tolist(),
             "top_lines": g["line"].value_counts().head(3).index.tolist(),
             "examples": g.nlargest(3, "appearances")["pname"].str.title().tolist(),
@@ -205,7 +211,7 @@ def run(agg, stats):
         ax.set_yticks([])
         ax.spines.left.set_visible(False)
     styled_title(fig, "Cluster profiles at a glance",
-                 "Each bar is one archetype of the combined Natura + O Boticário portfolio.")
+                 "Each bar is one archetype of the combined five-brand portfolio.")
     fig.savefig(OUT / "cluster_profiles.png", dpi=140, bbox_inches="tight")
     plt.close(fig)
 
@@ -260,25 +266,29 @@ def run(agg, stats):
     fig.savefig(OUT / "category_mix.png", dpi=140, bbox_inches="tight")
     plt.close(fig)
 
-    # --- brand mix ---
-    fig, ax = plt.subplots(figsize=(9.5, 4.2))
+    # --- brand mix (all five brands) ---
+    BRANDS = ["O Boticário", "Natura", "Eudora", "Avon", "Jequiti"]
+    BRAND_HEX = {"O Boticário": "#b45309", "Natura": "#15803d", "Eudora": "#be185d",
+                 "Avon": "#6d28d9", "Jequiti": "#0e7490"}
+    fig, ax = plt.subplots(figsize=(9.5, 4.6))
     fig.subplots_adjust(top=0.80)
-    nat = [p["pct_natura"] for p in prof]
-    bot = [100 - v for v in nat]
-    ax.barh(labels, nat, color=NATURA, label="Natura", height=0.6)
-    ax.barh(labels, bot, left=nat, color=BOTICARIO, label="O Boticário", height=0.6)
-    for i, v in enumerate(nat):
-        ax.text(v / 2, i, f"{v:.0f}%", ha="center", va="center", color="white",
-                fontweight="bold", fontsize=11)
-        ax.text(v + (100 - v) / 2, i, f"{100-v:.0f}%", ha="center", va="center",
-                color="white", fontweight="bold", fontsize=11)
+    left = np.zeros(len(prof))
+    for b in BRANDS:
+        vals = np.array([p["brand_mix"][b] for p in prof])
+        ax.barh(labels, vals, left=left, color=BRAND_HEX[b], label=b, height=0.6)
+        for i, v in enumerate(vals):
+            if v >= 7:
+                ax.text(left[i] + v / 2, i, f"{v:.0f}%", ha="center", va="center",
+                        color="white", fontweight="bold", fontsize=9.5)
+        left = left + vals
     ax.set_xlim(0, 100)
     ax.invert_yaxis()
     ax.set_xticks([])
     ax.spines.bottom.set_visible(False)
-    ax.legend(frameon=False, ncols=2, loc="upper center", bbox_to_anchor=(0.5, -0.05))
-    styled_title(fig, "Same playbook at both houses — with one exception",
-                 "Brand split per archetype; only the actively-managed set (C0) skews Natura.")
+    ax.legend(frameon=False, ncols=5, loc="upper center",
+              bbox_to_anchor=(0.5, -0.05), fontsize=9.5)
+    styled_title(fig, "Every archetype draws from all five brands",
+                 "Brand composition per cluster; the portfolio architecture is brand-agnostic.")
     fig.savefig(OUT / "brand_mix.png", dpi=140, bbox_inches="tight")
     plt.close(fig)
 
