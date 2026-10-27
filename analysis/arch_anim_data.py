@@ -24,7 +24,7 @@ import cluster_portfolio as CP  # noqa: E402
 ROOT = Path(__file__).resolve().parent.parent
 DEST = (Path.home() / "Documents" / "Portfolio" / "arturovaine.github.io"
         / "cosmetics-catalogs-data" / "arch_anim.json")
-SAMPLE = 2000
+SAMPLE = None  # None = every unique product; an int caps the sample
 
 df = CP.load()
 df["promo01"] = df["promotion_active"].astype(int)
@@ -44,9 +44,15 @@ cats_per_period = (df.groupby("pi")[["brand", "cat_year", "cat_cycle"]]
                    .apply(lambda g: g.drop_duplicates().shape[0]))
 cum_cats = cats_per_period.reindex(range(len(periods)), fill_value=0).cumsum().tolist()
 
+# cumulative distinct products that have appeared by each period (full data, not the sample)
+first_pi = df.groupby(["brand", "pname"])["pi"].min()
+cum_products = (first_pi.value_counts().reindex(range(len(periods)), fill_value=0)
+                .sort_index().cumsum().tolist())
+
 rng = np.random.default_rng(42)
 keys = list(df.groupby(["brand", "pname", "cluster"]).groups.keys())
-take = rng.choice(len(keys), size=min(SAMPLE, len(keys)), replace=False)
+take = (range(len(keys)) if SAMPLE is None
+        else rng.choice(len(keys), size=min(SAMPLE, len(keys)), replace=False))
 g = df.groupby(["brand", "pname", "cluster"])
 
 def clean(v):
@@ -69,19 +75,16 @@ for i in take:
         "pr": [int(v) for v in sub["promo01"].tolist()],
         "jx": round(float(rng.uniform(-0.18, 0.18)), 3),
         "jy": round(float(rng.uniform(-0.035, 0.035)), 3),
-        "d": {
-            "n": name, "b": clean(key[0]),
-            "cat": clean(row["category"]), "l": clean(row["line"]),
-            "p": round(float(row["med_price"]), 2),
-            "a": int(row["appearances"]),
-            "pm": round(float(row["promo_rate"]) * 100),
-            "ds": round(float(row["med_discount"])),
-        },
+        # compact array: [name, brand, category, line, price, appearances, promo%, discount%]
+        "d": [name, clean(key[0]), clean(row["category"]), clean(row["line"]),
+              round(float(row["med_price"]), 2), int(row["appearances"]),
+              round(float(row["promo_rate"]) * 100), round(float(row["med_discount"]))],
     })
 
 out = {
     "periods": [f"{y}·c{c:02d}" for (y, c) in periods],
     "cumCatalogs": [int(v) for v in cum_cats],
+    "cumProducts": [int(v) for v in cum_products],
     "colors": CP.CLUSTER_COLORS[:4],
     "names": ["C0 · managed", "C1 · one-cycle", "C2 · backbone", "C3 · promo-born"],
     "pts": pts,
@@ -91,5 +94,6 @@ DEST.write_text(json.dumps(out, separators=(",", ":")))
 print(f"wrote {DEST}  ({DEST.stat().st_size/1024:.0f} KB)")
 print(f"periods={len(periods)}  sampled_products={len(pts)}  total_products={len(keys)}")
 print(f"max appearances (all)={int(prof['appearances'].max())}  "
-      f"max in sample={max(p['d']['a'] for p in pts)}")
-print(f"first period={out['periods'][0]}  last={out['periods'][-1]}  cum_catalogs_last={cum_cats[-1]}")
+      f"max plotted={max(p['d'][5] for p in pts)}")
+print(f"first period={out['periods'][0]}  last={out['periods'][-1]}  "
+      f"cum_catalogs_last={cum_cats[-1]}  cum_products_last={cum_products[-1]}")
