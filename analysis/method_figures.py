@@ -79,7 +79,7 @@ for yi, v in zip([1, 0], vals):
     ax.text(v + rows_n * 0.012, yi, f"{v:,}", va="center", ha="left",
             fontsize=12, fontweight="bold", color=INK)
 ax.set_yticks([1, 0])
-ax.set_yticklabels(["Catalog product rows", "Unique products"], fontsize=10.5)
+ax.set_yticklabels(["Usable product rows", "Unique products"], fontsize=10.5)
 ax.set_xlim(0, rows_n * 1.16)
 ax.set_ylim(-0.85, 1.5)
 ax.set_xticks([])
