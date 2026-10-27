@@ -29,8 +29,10 @@ SAMPLE = 2000
 df = CP.load()
 df["promo01"] = df["promotion_active"].astype(int)
 
-clusters = pd.read_csv(ROOT / "data" / "portfolio_clusters.csv")[["brand", "pname", "cluster"]]
+prof = pd.read_csv(ROOT / "data" / "portfolio_clusters.csv")
+clusters = prof[["brand", "pname", "cluster"]]
 df = df.merge(clusters, on=["brand", "pname"], how="inner")
+prof = prof.drop_duplicates(["brand", "pname"]).set_index(["brand", "pname"])
 
 # ordered publishing periods (year, cycle) -> index
 periods = sorted({(int(y), int(c)) for y, c in zip(df["cat_year"], df["cat_cycle"])})
@@ -47,16 +49,34 @@ keys = list(df.groupby(["brand", "pname", "cluster"]).groups.keys())
 take = rng.choice(len(keys), size=min(SAMPLE, len(keys)), replace=False)
 g = df.groupby(["brand", "pname", "cluster"])
 
+def clean(v):
+    return "" if pd.isna(v) else str(v)
+
+
 pts = []
 for i in take:
     key = keys[i]
     sub = g.get_group(key)
+    row = prof.loc[(key[0], key[1])]
+    if isinstance(row, pd.DataFrame):
+        row = row.iloc[0]
+    name = clean(key[1]).strip().title()
+    if len(name) > 52:
+        name = name[:51] + "…"
     pts.append({
         "c": int(key[2]),
         "ap": [int(v) for v in sub["pi"].tolist()],
         "pr": [int(v) for v in sub["promo01"].tolist()],
         "jx": round(float(rng.uniform(-0.18, 0.18)), 3),
         "jy": round(float(rng.uniform(-0.035, 0.035)), 3),
+        "d": {
+            "n": name, "b": clean(key[0]),
+            "cat": clean(row["category"]), "l": clean(row["line"]),
+            "p": round(float(row["med_price"]), 2),
+            "a": int(row["appearances"]),
+            "pm": round(float(row["promo_rate"]) * 100),
+            "ds": round(float(row["med_discount"])),
+        },
     })
 
 out = {
@@ -70,4 +90,6 @@ DEST.parent.mkdir(parents=True, exist_ok=True)
 DEST.write_text(json.dumps(out, separators=(",", ":")))
 print(f"wrote {DEST}  ({DEST.stat().st_size/1024:.0f} KB)")
 print(f"periods={len(periods)}  sampled_products={len(pts)}  total_products={len(keys)}")
+print(f"max appearances (all)={int(prof['appearances'].max())}  "
+      f"max in sample={max(p['d']['a'] for p in pts)}")
 print(f"first period={out['periods'][0]}  last={out['periods'][-1]}  cum_catalogs_last={cum_cats[-1]}")
