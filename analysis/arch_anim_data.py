@@ -86,7 +86,7 @@ out = {
     "cumCatalogs": [int(v) for v in cum_cats],
     "cumProducts": [int(v) for v in cum_products],
     "colors": CP.CLUSTER_COLORS[:4],
-    "names": ["C0 · managed", "C1 · one-cycle", "C2 · backbone", "C3 · promo-born"],
+    "names": ["C0 · managed", "C1 · full price", "C2 · backbone", "C3 · promo-born"],
     "pts": pts,
 }
 DEST.parent.mkdir(parents=True, exist_ok=True)
